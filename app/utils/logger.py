@@ -8,6 +8,7 @@ from pathlib import Path
 from logging.handlers import RotatingFileHandler
 from app.ownership import signature_label
 
+
 def get_logger(name: str, log_dir: str = "logs") -> logging.Logger:
     Path(log_dir).mkdir(exist_ok=True)
     if hasattr(sys.stdout, "reconfigure"):
