@@ -1,0 +1,642 @@
+ 
+Q1.Let . If the range of  is , then  equals :
+(1) 253 (2) 154
+(3) 125 (4) 157
+Q2.Let  be a unit vector perpendicular to the vectors  and , and makes an angle of
+ with the vector . If  makes an angle of  with the vector , then the value of 
+is :
+(1) (2)
+(3) (4)
+Q3.If for the solution curve  of the differential equation ,
+, then  is equal to :
+(1) (2)
+(3) (4)
+Q4.Let P be the foot of the perpendicular from the point  on the line . Let the line
+, intersect the line L at Q . Then  is equal to :
+(1) 25 (2) 19
+(3) 29 (4) 27
+Q5.Let  be a matrix of order , with . If the sum of all the elements in the third row of
+ is , then  is equal to :
+(1) 280 (2) 224
+(3) 210 (4) 168
+Q6.Let the line  meet the axes of  and  at A and B, respectively. A right angled triangle AMN is
+inscribed in the triangle OAB , where O is the origin and the points M and N lie on the lines  and ,
+respectively. If the area of the triangle  is  of the area of the triangle  and AN : NB , then
+the sum of all possible value(s) of is  :
+(1) 2 (2)
+(3) (4)
+Q7.If all the words with or without meaning made using all the letters of the word "KANPUR" are arranged as in a
+dictionary, then the word at  position in this arrangement, is :
+(1) PRNAUK (2) PRKANU
+(3) PRKAUN (4) PRNAKU
+Q8.If the set of all , for which the equation  has no real root, is the interval ,
+and , then  is equal to :
+(1) 2109 (2) 2129
+(3) 2119 (4) 2139
+Q9.Let  be a  matrix such that  for all  and . Let the random variable X denote the
+possible values of the determinant of the matrix . Then, the variance of  is :
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+f(x)= integralt
+0t(t2- 9t+ 20)dt,1<=x<= 5 f [alpha,beta] 4(alpha+beta)
+^a ?b= ^i- 2^j+ 3^k ?c= 2^i+ 3^j- ^k
+cos-1(- 13) ^i+ ^j+ ^k ^a pi3 ^i+alpha^j+ ^k alpha
+sqrt6 -sqrt6
+-sqrt3 sqrt3
+y=f(x) dy
+ dx+ (tanx)y= 2+secx
+(1+2secx)2
+x? (-pi2 ,pi2),f(pi3)= sqrt310 f(pi4)
+sqrt3+1
+10(4+sqrt3)
+5-sqrt3
+2sqrt2
+9sqrt3+3
+10(4+sqrt3)
+4-sqrt214
+(1,2,2) L :x-11 = y+1
+-1 = z-22
+?r= (-^i+ ^j- 2^k)+?(^i- ^j+ ^k),?? R 2(PQ)2
+A= [aij] 3x 3 aij= (sqrt2)i+j
+A2 alpha+betasqrt2,alpha,beta? Z alpha+beta
+x+y= 1 x y
+OB AB
+AMN 49 OAB =?:1
+?
+5
+21
+2
+13
+6
+440th 
+a? R 2x2+ (a- 5)x+ 15= 3a (alpha,beta)
+X= {x?Z:alpha< x< beta} sum x?Xx2
+A = [aij] 2x 2 aij? {0,1} i j
+A X
+ 
+(1) (2)
+(3) (4)
+Q10.Let the function  be not differentiable at the two points 
+and . Then the distance of the point  from the line  is equal to :
+(1) 5 (2) 4
+(3) 3 (4) 2
+Q11.Let the area enclosed between the curves  and  be . If  are
+integers, then the value of  equals.
+(1) 27 (2) 33
+(3) 15 (4) 18
+Q12.The remainder, when  is divided by 23 , is equal to :
+(1) 6 (2) 17
+(3) 9 (4) 14
+Q13.If  is the equation of the chord of the ellipse , whose mid point is , then
+ is equal to :
+(1) 58 (2) 46
+(3) 37 (4) 72
+Q14.If the domain of the function  is  and the domain of the function
+ is , then  is equal to :
+(1) 195 (2) 179
+(3) 186 (4) 174
+Q15.Let a circle  pass through the points  and , and its centre lie on . Then the length
+of the chord, of the circle , whose mid-point is , is :
+(1) (2)
+(3) (4)
+Q16.Let a straight line  pass through the point  and be perpendicular to the lines 
+and . If the line  intersects the -plane at the point , then the distance between the
+points  and  is :
+(1) (2)
+(3) 2 (4) 3
+Q17.Bag 1 contains 4 white balls and 5 black balls, and Bag 2 contains  white balls and 3 black balls. One ball is
+drawn randomly from Bag 1 and transferred to Bag 2. A ball is then drawn randomly from Bag 2. If the
+probability, that the ball drawn is white, is , then  is equal to :
+(1) 6 (2) 3
+(3) 5 (4) 4
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+34 5838 14
+f(x)= (x2+ 1)x2-ax+ 2+ cos|x|
+? ?
+x=alpha= 2
+x=beta (alpha,beta) 12x+ 5y+ 10= 0
+|y|= 1-x2 x2+y2= 1 alpha 9alpha=betapi+gamma;beta,gamma
+|beta-gamma|
+7103
+alphax+betay= 109 x2
+9 + y2
+4 = 1 (52,12)
+alpha+beta
+log5(18x-x2- 77) (alpha,beta)
+log(x-1)(2x2+3x-2
+x2-3x-4 ) (gamma,?) alpha2+beta2+gamma2
+C (4,2) (0,2) 3x+ 2y+ 2= 0
+C (1,2)
+sqrt3 2sqrt2
+2sqrt3 4sqrt2
+L P(2,-1,3) x-12 = y+1
+1 = z-3-2
+x-31 = y-2
+3 = z+24 L yz Q
+P Q
+sqrt10 2sqrt3
+n
+29/45 n
+ 
+Q18.Let  be the values of m , for which the equations  and
+ have infinitely many solutions. Then the value of  is equal to :
+(1) 3080 (2) 560
+(3) 3410 (4) 440
+Q19.Let . Define a relation  from  to  by : 
+Then, the sum of all the elements in the range of  is equal to :
+(1) (2)
+(3) (4)
+Q20.If , then
+ is equal to :
+(1) 4 (2) 1
+(3) 3 (4) 2
+Q21.If , where  denotes the greatest integer function, then  is
+equal to _______.
+Q22.Let  be an Arithmetic Progression such that
+. Then  is equal to _______
+Q23.If , then  is equal to ________
+Q24.Let  be the parabola and  be its focus. Let PQ be a focal chord of the parabola such that
+. Let C be the circle described taking PQ as a diameter. If the equation of a circle  is
+, then  is equal to ________.
+Q25.Let integers  be such that . Then the number of all possible ordered pairs (a, b), for
+which  and , where  and  are the roots of , is
+equal to ________.
+Q26.Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A) : 
+Three identical spheres of same mass undergo one dimensional motion as shown in figure with initial
+velocities . If we wait sufficiently long for elastic collision to happen,
+then ,  will be the final velocities. Reason (R): In an elastic collision
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+alpha,beta(alpha!=beta) x+y+z= 1;x+ 2y+ 4z= m
+x+ 4y+ 10z=m2 sum 10n=1(nalpha+nbeta)
+S= N?{0} R S R R = {(x,y):logey=xloge(25),x?  S,y? R}
+R
+109 325
+2
+5
+3
+sinx+ sin2x= 1,x? (0,pi2)
+(cos12x+ tan12x)+ 3(cos10x+ tan10x+ cos8x+ tan8x)+ (cos6x+ tan6x)
+24integral
+pi4
+0 (sin 4x- pi12 + [2sinx])dx= 2pi+alpha
+? ?
+[?] alpha
+a1,a2,... ,a2024
+a1+ (a5+a10+a15+ ... +a2020)+a2024 = 2233 a1+a2+a3+ ... +a2024
+limt? 0(integral1
+0(3x+ 5)tdx)
+1t
+= alpha5e(85)
+23 alpha
+y2= 12x S
+(SP)(SQ)= 1474 C
+64x2+ 64y2-alphax- 64sqrt3y=beta beta-alpha
+a,b? [-3,3] a+ b!= 0
+z-a
+z+b = 1
+? ?
+= 1,z? C
+?
+z+ 1 ? ?2
+? z+?2 1
+?2 1 z+?
+?
+? ?2 x2+x+ 1= 0
+vA = 5 m/s,vB = 2 m/s,vC = 4 m/s
+vA = 4 m/s,vB = 2 m/svC = 5 m/s
+ 
+between identical masses, two objects exchange their velocities. In the light of the above statements, choose
+the correct answer from the options given below :
+(1) (A) is false but (R) is true (2) Both (A) and (R) are true but (R) is NOT the
+correct explanation of (A)
+(3) Both (A) and (R) are true and (R) is the correct
+explanation of (A)
+(4) (A) is true but (R) is false
+Q27.Two identical symmetric double convex lenses of focal length  are cut into two equal parts  by 
+plane and  by  plane as shown in figure respectively. The ratio of focal lengths of lenses  and 
+is 
+(1) 1:1 (2) 1:2
+(3) 1:4 (4) 2:1
+Q28.Two bodies A and B of equal mass are suspended from two massless springs of spring constant  and ,
+respectively. If the bodies oscillate vertically such that their amplitudes are equal, the ratio of the maximum
+velocity of  to the maximum velocity of  is
+(1) (2)
+(3) (4)
+Q29.Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A) : With the increase in the pressure of an ideal gas, the volume falls off more rapidly in an
+isothermal process in comparison to the adiabatic process. Reason (R) : In isothermal process,  constant,
+while in adiabatic process  constant. Here  is the ratio of specific heats, P is the pressure and V is the
+volume of the ideal gas. In the light of the above statements, choose the correct answer from the options given
+below :
+(1) Both (A) and (R) are true and (R) is the correct
+explanation of (A)
+(2) Both (A) and (R) are true but (R) is NOT the
+correct explanation of (A)
+(3) (A) is true but (R) is false (4) (A) is false but (R) is true
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+f L1,L2 AB
+L3,L4 XY L1 L3
+k1 k2
+A B
+k1
+k2 sqrt k1
+k2
+sqrt k2
+k1
+k2
+k1
+PV =
+PVgamma= gamma
+ 
+Q30.
+The truth table for the circuit given below is : 
+(1)
+ (2)
+(3)
+ (4)
+Q31.The difference of temperature in a material can convert heat energy into electrical energy. To harvest the heat
+energy, the material should have
+(1) high thermal conductivity and high electrical
+conductivity
+(2) low thermal conductivity and low electrical
+conductivity
+(3) high thermal conductivity and low electrical
+conductivity
+(4) low thermal conductivity and high electrical
+conductivity
+Q32.
+Match List - I with List - II. 
+Choose the correct answer from the options given below :
+(1) (A)-(I), (B)-(III), (C)-(II), (D)-(IV) (2) (A)-(IV), (B)-(II), (C)-(III), (D)-(I)
+(3) (A)-(II), (B)-(IV), (C)-(I), (D)-(III) (4) (A)-(II), (B)-(I), (C)-(IV), (D)-(III)
+Q33.A sand dropper drops sand of mass  on a conveyer belt at a rate proportional to the square root of speed
+ of the belt, i.e. . If P is the power delivered to run the belt at constant speed then which of the
+following relationship is true?
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+m(t)
+(v) dmdt ? sqrtv
+ 
+(1) (2)
+(3) (4)
+Q34.
+Three equal masses  are kept at vertices (A, B, C) of an equilateral triangle of side a in free space. At ,
+they are given an initial velocity  and . Here,  and  are unit
+vectors along the edges of the triangle. If the three masses interact gravitationally, then the magnitude of the
+net angular momentum of the system at the point of collision is :
+(1) (2)  a 
+(3)  a (4)  a 
+Q35.The number of spectral lines emitted by atomic hydrogen that is in the  energy level, is
+(1) 3 (2) 1
+(3) 6 (4) 0
+Q36.A convex lens made of glass (refractive index  ) has focal length 24 cm in air. When it is totally
+immersed in water (refractive index  ), its focal length changes to
+(1) 24 cm (2) 96 cm
+(3) 48 cm (4) 72 cm
+Q37.In an experiment with photoelectric effect, the stopping potential,
+(1) increases with increase in the intensity of the
+incident light
+(2) decreases with increase in the intensity of the
+incident light
+(3) increases with increase in the wavelength of the
+incident light
+(4) is  times the maximum kinetic energy of the
+emitted photoelectrons
+Q38.A capacitor,  is charged to a potential difference of  using a 5 V battery. The battery is
+removed and another capacitor,  is inserted in place of the battery. When the switch 'S' is closed,
+the charge flows between the capacitors for some time until equilibrium condition is reached. What are the
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+P ? sqrtv P ?v
+P2?v5 P2?v3
+m t= 0
+?VA=V0AC,?VB=V0BA- ?- ? ?VC =V0CB- ? AC,CB- ?- ? BA- ?
+3amV0 32 mV0
+sqrt32 mV0 12 mV0
+4th 
+= 1.5
+= 1.33
+(1e)
+C1= 6? F V0= 5 V
+C2= 12? F
+ 
+charges  and  on the capacitors  and  when equilibrium condition is reached.
+(1) (2)
+(3) (4)
+Q39.A plane electromagnetic wave propagates along the  direction in free space. The components of the electric
+field,  and magnetic field,  vectors associated with the wave in Cartesian frame are
+(1) (2)
+(3) (4)
+Q40.A cup of coffee cools from  to  in t minutes when the room temperature is . The time taken by
+the similar cup of coffee to cool from  to  at the same room temperature is :
+(1) (2)
+(3) (4)
+Q41.
+Two concave refracting surfaces of equal radii of curvature and refractive index 1.5 face each other in air as
+shown in figure. A point object O is placed midway, between P and B . The separation between the images of
+, formed by each refracting surface is :
+(1) 0.214 R (2) 0.411 R
+(3) 0.124 R (4) 0.114 R
+Q42.
+A poly-atomic molecule ( , where  is gas constant) goes from phase space point
+ to point  to point
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+(q1 q2) C1 C2
+q1= 10?C,q2= 20?C q1= 30?C,q2= 15?C
+q1= 20?C,q2= 10?C q1= 15?C,q2= 30?C
++x
+?E ?B
+Ex, By Ey, Bz
+Ez, By Ey, Bx
+90?C 80?C 20?C
+80?C 60?C
+1310t 1013t
+513t 135t
+O
+CV= 3R,CP= 4R R
+A (PA = 105 Pa, VA = 4x 10-6 m3) B (PB = 5x 104 Pa, VB = 6x 10-6 m3)
+ 
+ . A to B is an adiabatic path and  to  is an isothermal path. The net
+heat absorbed per unit mole by the system is :
+(1) (2)
+(3) (4)
+Q43.Match List - I with List - II.
+List - I List - II
+(A) Magnetic induction (I) Ampere meter
+(B) Magnetic intensity (II) Weber
+(C) Magnetic flux (III) Gauss
+(D) Magnetic moment (IV) Ampere/meter
+(1) (A)-(I), (B)-(II), (C)-(III), (D)-(IV) (2) (A)-(III), (B)-(IV), (C)-(I), (D)-(II)
+(3) (A)-(III), (B)-(II), (C)-(I), (D)-(IV) (4) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)
+Q44.A point charge causes an electric flux of  to pass through a spherical Gaussian surface of 8.0
+cm radius, centred on the charge. The value of the point charge is : (Given  )
+(1) (2)
+(3) (4)
+Q45.An electric dipole is placed at a distance of 2 cm from an infinite plane sheet having positive charge density 
+. Choose the correct option from the following. 
+(1) Potential energy and torque both are maximum. (2) Torque on dipole is zero and net force is directed
+away from the sheet.
+(3) Torque on dipole is zero and net force acts
+towards the sheet.
+(4) Potential energy of dipole is minimum and torque
+is zero.
+Q46.The magnetic field inside a 200 turns solenoid of radius 10 cm is . If the solenoid carries a
+current of 0.29 A , then the length of the solenoid is ________ .
+Q47.A parallel plate capacitor consisting of two circular plates of radius 10 cm is being charged by a constant
+current of 0.15 A . If the rate of change of potential difference between the plates is  then the
+integer value of the distance between the parallel plates is  Take,  ________ .
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+C (PC = 104Pa,VC = 8x 10-6 m3) B C
+500R(ln3+ ln4) 450R(ln4- ln3)
+500R ln2 400R ln4
+2
+-2x 104Nm2C-1
+?0= 8.85x 10-12C2 N-1 m-2
+15.7x 10-8C 17.7x 10-8C
+-15.7x 10-8C -17.7x 10-8C
+?o
+2.9x 10-4T esla
+picm
+7x 108 V/s
+( ?0= 9x 10-12 F m ,pi= 227) ?m
+ 
+Q48.Two planets,  and  are orbiting a common star in circular orbits of radii  and , respectively, with
+. The planet  is  times more massive than planet . The ratio  of angular momentum
+ of planet  to that of planet  is closest to integer ________.
+Q49.Two cars  and  are moving on a road in the same direction. Accleration of car  increases linearly with
+time whereas car  moves with a constant accleration. Both cars cross each other at time , for the first
+time. The maximum possible number of crossing(s) (including the crossing at  is ________.
+Q50.A physical quantity  is related to four observables  as follows :  where,
+ and , then the percentage error in
+Q is , where  ________ .
+Q51.Consider the equilibrium  If the pressure applied over the system
+increases by two fold at constant temperature then (A) Concentration of reactants and products increases. (B)
+Equilibrium will shift in forward direction. (C) Equilibrium constant increases since concentration of products
+increases. (D) Equilibrium constant remains unchanged as concentration of reactants and products remain
+same. Choose the correct answer from the options given below :
+(1) (A), (B) and (C) only (2) (A) and (B) only
+(3) (A), (B) and (D) only (4) (B) and (C) only
+Q52.Drug  becomes ineffective after  decomposition. The original concentration of drug in a bottle was
+ which becomes  in 12 months. The expiry time of the drug in months is __________
+Assume that the decomposition of the drug follows first order kinetics.
+(1) 2 (2) 6
+(3) 12 (4) 3
+Q53.  gas will be evolved as a product of electrolysis of : (A) an aqueous solution of  using silver
+electrodes. (B) an aqueous solution of  using platinum electrodes. (C) a dilute solution of  using
+platinum electrodes. (D) a high concentration solution of  using platinum electrodes. Choose the correct
+answer from the options given below :
+(1) (A) and (C) only (2) (B) and (C) only
+(3) (A) and (D) only (4) (B) and (D) only
+Q54.Identify the homoleptic complexes with odd number of d electrons in the central metal : (A)  (B)
+ (C)  (D)  (E)  Choose the correct answer from the
+options given below :
+(1) (A), (B) and (D) only (2) (C) and (E) only
+(3) (B) and (D) only (4) (A), (C) and (E) only
+Q55.Which one of the following, with HBr will give a phenol?
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A B RA RB
+RB= 2RA B 4sqrt2 A (LB
+LA)
+(LB) B A(LA)
+P Q P
+Q t= 0
+t= 0)
+Q a,b,c,d Q = ab4
+ cd
+a= (60± 3)Pa;b= (20± 0.1)m;c= (40± 0.2)Nsm-2 d= (50± 0.1)m
+x1000 x=
+CO( g)+ 3H 2( g)?CH 4( g)+ H 2O( g)
+X 50%
+16mg/mL 4mg/mL
+O2 AgNO3
+AgNO3 H 2SO4
+H 2SO4
+[FeO4]2-
+[Fe(CN)6]3- [Fe(CN)5NO]2- [CoCl4]2- [Co(H 2O)3 F3]
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q56.Given below are two statements : Statement (I) : NaCl is added to the ice at , present in the ice cream box
+to prevent the melting of ice cream. Statement (II) : On addition of NaCl to ice at , there is a depression in
+freezing point. In the light of the above statements, choose the correct answer from the options given below :
+(1) Both Statement I and Statement II are false (2) Statement I is false but Statement II is true
+(3) Statement I is true but Statement II is false (4) Both Statement I and Statement II are true
+Q57.Match List - I with List - II :
+Choose the correct answer from the options given below :
+(1) (A)-(III), (B)-(II), (C)-(IV), (D)-(I) (2) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)
+(3) (A)-(III), (B)-(I), (C)-(IV), (D)-(II) (4) (A)-(IV), (B)-(III), (C)-(II), (D)-(I)
+Q58.For hydrogen like species, which of the following graphs provides the most appropriate representation of E vs
+Z plot for a constant n ? [E: Energy of the stationary state, Z : atomic number,  principal quantum number]
+(1)
+ (2)
+(3)
+ (4)
+Q59.Which one of the following reaction sequences will give an azo dye?
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+0?C
+0?C
+n=
+ 
+(1)
+(2)
+(3)
+(4)
+Q60.Identify the essential amino acids from below : (A) Valine (B) Proline (C) Lysine (D) Threonine (E) Tyrosine
+Choose the correct answer from the options given below :
+(1) (A), (C) and (E) only (2) (A), (C) and (D) only
+(3) (C), (D) and (E) only (4) (B), (C) and (E) only
+Q61.The calculated spin-only magnetic moments of  and  respectively are :
+(1) 3.87 and 4.90 B.M. (2) 4.90 and 5.92 B.M.
+(3) 4.90 and 4.90 B.M. (4) 5.92 and 4.90 B.M.
+Q62.The type of oxide formed by the element among  and Al that has the least atomic radius is :
+(1) (2)
+(3) (4)
+Q63.Total number of sigma (  )  and   bonds respectively present in hex-1-en-4-yne are :
+(1) 3 and 13 (2) 11 and 3
+(3) 13 and 3 (4) 14 and 3
+Q64.First ionisation enthalpy values of first four group 15 elements are given below. Choose the correct value for
+the element that is a main component of apatite family :
+(1) (2)
+(3) (4)
+Q65.Given below are two statements : Statement (I) : On nitration of m-xylene with  followed by
+oxidation, 4-nitrobenzene-1,3-dicarboxylic acid is obtained as the major product. Statement (II) :  group
+is o/p-directing while  group is m-directing group. In the light of the above statements, choose the
+correct answer from the options given below :
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+K3[Fe(OH)6] K4[Fe(OH)6]
+Li,Na,Be,M g,B
+A2O A2O3
+AO2 AO
+? pi(pi)
+1402 kJ  mol-1 834 kJ  mol-1
+1012 kJ  mol-1 947 kJ  mol-1
+HNO3,H 2SO4
+-CH 3
+-NO2
+ 
+(1) Both Statement I and Statement II are false (2) Statement I is false but Statement II is true
+(3) Statement I is true but Statement II is false (4) Both Statement I and Statement II are true
+Q66.Which among the following halides will generate the most stable carbocation in the nucleophilic substitution
+reaction?
+(1)
+ (2)
+(3)
+ (4)
+Q67.Given below are two statements : Statement (I) : It is impossible to specify simultaneously with arbitrary
+precision, both the linear momentum and the position of a particle. Statement (II) : If the uncertainty in the
+measurement of position and uncertainty in measurement of momentum are equal for an electron, then the
+uncertainty in the measurement of velocity is . In the light of the above statements, choose the
+correct answer from the options given below :
+(1) Statement I is false but Statement II is true (2) Both Statement I and Statement II are false
+(3) Both Statement I and Statement II are true (4) Statement I is true but Statement II is false
+Q68.0.1 M solution of KI reacts with excess of  and  solutions. According to equation
+ Identify the correct statements : (A) 200 mL of KI solution reacts with
+0.004 mol of  (B) 200 mL of KI solution reacts with 0.006 mol of  (C) 0.5 L of KI solution
+produced 0.005 mol of  (D) Equivalent weight of  is equal to (  ) Choose the correct
+answer from the options given below :
+(1) (A) and (D) only (2) (C) and (D) only
+(3) (B) and (C) only (4) (A) and (B) only
+Q69.Given below are two statements : Statement (I): In partition chromatography, stationary phase is thin film of
+liquid present in the inert support. Statement (II) : In paper chromatography, the material of paper acts as a
+stationary phase. In the light of the above statements, choose the correct answer from the options given below :
+(1) Statement I is true but Statement II is false (2) Statement I is false but Statement II is true
+(3) Both Statement I and Statement II are false (4) Both Statement I and Statement II are true
+Q70.If  (diamond  (graphite   diamond  C
+(graphite)  at constant temperature. Then
+(1) X=-Y+Z (2) -X=Y+Z
+(3) X=Y+Z (4) X=Y-Z
+Q71.In the sulphur estimation, 0.20 g of a pure organic compound gave 0.40 g of barium sulphate. The percentage
+of sulphur in the compound is ______ . (Molar mass :  in  )
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+?sqrt hpix 12 m
+H 2SO4 KIO3
+5I- + IO-3+ 6H + ? 3I2+ 3H 2O
+KIO3 H 2SO4
+I2 KIO3  M olecularweight 
+5
+C )? C )+ XkJ mol-1C( )+ O2( g)? CO2( g)+ YkJ mol-1
++O2( g)? CO2( g)+ ZkJ mol-1
+x10-1% O = 16, S = 32,Ba= 137 gmol-1
+ 
+Q72.Isomeric hydrocarbons  negative Baeyer's test (Molecular formula  ) The total number of
+isomers from above with four different non-aliphatic substitution sites is -
+Q73.Consider the following low-spin complexes ,
+ The sum of the spin-only magnetic moment values of
+complexes having yellow colour is. _____ B.M. (answer in nearest integer)
+Q74.In the Claisen-Schmidt reaction to prepare, dibenzalacetone from 5.3 g of benzaldehyde, a total of 3.51 g of
+product was obtained. The percentage yield in this reaction was ______ %.
+Q75.Total number of non bonded electrons present in ion based on Lewis theory is
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+? C9H 12
+K3[Co(NO2)6],K4[Fe(CN)6]
+K3[Fe(CN)6],Cuu2[Fe(CN)6] and Zn2[Fe(CN)6]
+NO2-
+ 
+ANSWER KEYS
+1. (4) 2. (2) 3. (4) 4. (4) 5. (2) 6. (1) 7. (3) 8. (4)
+9. (3) 10. (3) 11. (2) 12. (4) 13. (1) 14. (3) 15. (3) 16. (4)
+17. (1) 18. (4) 19. (4) 20. (4) 21. (12) 22. (11132) 23. (64) 24. (1328)
+25. (10) 26. (1) 27. (2) 28. (2) 29. (1) 30. (4) 31. (4) 32. (3)
+33. (3) 34. (3) 35. (3) 36. (2) 37. (4) 38. (1) 39. (2) 40. (4)
+41. (4) 42. (2) 43. (4) 44. (4) 45. (4) 46. (8) 47. (1320) 48. (8)
+49. (3) 50. (7700) 51. (2) 52. (2) 53. (2) 54. (3) 55. (3) 56. (4)
+57. (3) 58. (1) 59. (1) 60. (2) 61. (4) 62. (2) 63. (3) 64. (3)
+65. (4) 66. (3) 67. (3) 68. (1) 69. (1) 70. (4) 71. (275) 72. (2)
+73. (0) 74. (60) 75. (12)
+ 
+2025 (29 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo

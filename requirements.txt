@@ -1,0 +1,29 @@
+# FILE: requirements.txt
+# Core
+streamlit>=1.35.0
+requests>=2.31.0
+psutil>=5.9.0
+
+# RAG / embeddings
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+
+# PDF processing
+pypdf>=4.2.0
+pdfminer.six>=20221105
+
+# Database
+# sqlite3 is stdlib
+
+# Voice (optional — comment out if not needed)
+# faster-whisper>=1.0.0
+# pyttsx3>=2.90
+# sounddevice>=0.4.6
+# scipy>=1.13.0
+
+# Security / encoding
+cryptography>=42.0.0
+
+# Utilities
+numpy>=1.26.0
+python-dotenv>=1.0.0

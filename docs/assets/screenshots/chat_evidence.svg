@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0b1220" />
+  <rect x="40" y="40" width="600" height="640" rx="12" fill="#0f1724" stroke="#1f2937" />
+  <rect x="660" y="40" width="580" height="420" rx="12" fill="#0f1724" stroke="#1f2937" />
+  <text x="80" y="100" fill="#c7d2fe" font-size="32" font-family="Arial">Chat stream</text>
+  <text x="680" y="100" fill="#c7d2fe" font-size="20" font-family="Arial">Evidence chips & validation</text>
+  <g fill="#94a3b8" font-family="Arial" font-size="16">
+    <text x="680" y="150">• Source: report.pdf — score 0.92</text>
+    <text x="680" y="180">• Confidence: HIGH</text>
+    <text x="680" y="210">• Matched chunk: 3/5</text>
+  </g>
+</svg>

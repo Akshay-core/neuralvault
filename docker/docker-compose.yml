@@ -1,0 +1,34 @@
+# FILE: docker/docker-compose.yml
+version: "3.9"
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ai_brain_ollama
+    volumes:
+      - ollama_data:/root/.ollama
+    ports:
+      - "11434:11434"
+    restart: unless-stopped
+    environment:
+      - OLLAMA_KEEP_ALIVE=24h
+
+  app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: ai_second_brain
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    environment:
+      - OLLAMA_URL=http://ollama:11434
+      - PYTHONPATH=/app
+    depends_on:
+      - ollama
+    restart: unless-stopped
+
+volumes:
+  ollama_data:

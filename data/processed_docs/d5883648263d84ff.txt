@@ -1,0 +1,630 @@
+ 
+Q1.Group A consists of 7 boys and 3 girls, while group B consists of 6 boys and 5 girls. The number of ways, 4
+boys and 4 girls can be invited for a picnic if 5 of them must be from group  and the remaining 3 from group
+, is equal to :
+(1) 8750 (2) 9100
+(3) 8925 (4) 8575
+Q2.If the system of equations  has infinitely many solutions, then  is equal to :
+(1) 13 (2) 10
+(3) 12 (4) 11
+Q3.Let  and
+. Then  is equal to :
+(1) 4 (2) 8
+(3) 6 (4) 2
+Q4.The area of the region enclosed by the curves  and -axis is:
+(1) (2)
+(3) (4)
+Q5.The equation of the chord, of the ellipse , whose mid-point is  is :
+(1) (2)
+(3) (4)
+Q6.Let the points  lie on or inside the triangle with sides  and . Then
+the product of the smallest and the largest values of  is equal to :
+(1) 44 (2) 22
+(3) 33 (4) 55
+Q7.Let  be a function which is differentiable at all points of its domain and satisfies the condition
+, with . Then  is equal to :
+(1) 39 (2) 19
+(3) 29 (4) 23
+Q8.If   , then the value of  is :
+(1) (2) 6
+(3) (4) 1
+Q9.Let  denote the greatest integer function, and let m and n respectively be the numbers of the points, where the
+function , is not continuous and not differentiable. Then  is equal to :
+(1) 6 (2) 8
+(3) 9 (4) 7
+Q10.Let  be a square matrix of order 2 with entries either 0 or 1 . Let  be the event that  is an invertible
+matrix. Then the probability  is :
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A
+B
+x+ 2y- 3z= 2
+2x+?y+ 5z= 5
+14x+ 3y+?z= 33
+?+?
+A = {x? (0,pi)- {pi2}:log(2/pi)|sinx|+ log(2/pi)|cosx|= 2}
+B = {x?0:sqrtx(sqrtx- 4)- 3|sqrtx- 2|+ 6= 0} n(A ?B)
+y= ex,y= |ex- 1| y
+1- loge2 loge2
+1+ loge2 2loge2- 1
+x2
+25+ y2
+16 = 1 (3,1)
+48x+ 25y= 169 5x+ 16y= 31
+25x+ 101y= 176 4x+ 122y= 134
+(112,alpha) x+y= 11,x+ 2y= 16 2x+ 3y= 29
+alpha
+f:(0,? )? R
+x2f?(x)= 2xf(x)+ 3 f(1)= 4 2f(2)
+7= 5+ 17(5+alpha)+ 1
+72(5+ 2alpha)+ 1
+73(5+ 3alpha)+ ? alpha
+6717
+[x]
+f(x)= [x]+ |x- 2|,-2< x< 3 m + n
+A= [aij] E A
+P(E)
+ 
+(1) (2)
+(3) (4)
+Q11.Let the position vectors of three vertices of a triangle be  and . If the
+position vectors of the orthocenter and the circumcenter of the triangle are  and 
+respectively, then  is equal to :
+(1) 3 (2) 4
+(3) 1 (4) 6
+Q12.Let  and . Then the projection of  on  is :
+(1) (2)
+(3) (4)
+Q13.
+(1) 1 (2) 0
+(3) 2 (4) 3
+Q14.
+(1) (2)
+(3) (4)
+Q15.
+(1) 525 (2) 510
+(3) 515 (4) 505
+Q16.Suppose A and B are the coefficients of  and  terms respectively in the binomial expansion of
+. If , then n is equal to :
+(1) 22 (2) 20
+(3) 21 (4) 19
+Q17.Let  be the largest open interval in which the function  is strictly
+increasing and (b, c) be the largest open interval, in which the function  is strictly
+decreasing. Then  is equal to :
+(1) 420 (2) 360
+(3) 160 (4) 280
+Q18.
+For some , let . Then
+ is equal to :
+(1) 16 (2) 25
+(3) 9 (4) 36
+Q19.If the equation of the parabola with vertex  and the directrix  is
+, then  is equal to :
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+316 5838 18
+4?p+ ?q- 3?r,-5?p+ ?q+ 2?r 2?p-?q+ 2?r
+?p+ ?q+?r
+4 alpha?p+beta?q+gamma?r
+alpha+ 2beta+ 5gamma
+?a= 3^i- ^j+ 2^k,? b=?ax (^i- 2^k) ?c=?bx ^k ?c- 2^j ?a
+2sqrt14 sqrt14
+3sqrt7 2sqrt7
+ T henumberofrealsolution(s)oftheequation x2+ 3x+ 2= min{|x- 3|,|x+ 2|} is: 
+ T hefunction f:(-? ,? )? (-? ,1),definedby f(x)= 2x-2-x
+2x+2-x is: 
+ Neitherone-onenoronto   Ontobutnotone-one 
+ Bothone-oneandonto   One-onebutnotonto 
+ Inanarithmeticprogression,if S40= 1030 and S12= 57,then S30-S10 isequalto: 
+30th  12th 
+(1+x)2n-1 2 A = 5 B
+(2,3) f(x)= 2loge(x- 2)-x2+ax+ 1
+g(x)= (x- 1)3(x+ 2- a)2
+100(a+b-c)
+a,b f(x)= ,x!= 0,limx? 0f(x)=?+?a+?b
+?
+a+ sinxx 1  b
+a 1+ sinxx  b
+a 1  b+ sinxx
+?
+(?+?+?)2
+V (32,3) x+ 2y= 0
+alphax2+betay2-gammaxy- 30x- 60y+ 225= 0 alpha+beta+gamma
+ 
+(1) 7 (2) 9
+(3) 8 (4) 6
+Q20.If , then the expression  is
+equal to :
+(1) (2) 0
+(3) (4)
+Q21.Let P be the image of the point  in the line  and  be a point on .
+Then the square of the area of  is ________.
+Q22.If , where  is the
+constant of integration, then  is equal to  _______.
+Q23.Let  be the solution of the differential equation . If
+, then  is equal to  ________.
+Q24.Number of functions , that assign 1 to exactly one of the positive integers less
+than or equal to 98 , is equal to ________.
+Q25.Let  and  be two hyperbolas having length of latus rectums  and
+ respectively. Let their ecentricities be  and  respectively. If the product of the lengths of
+their transverse axes is , then  is equal to ________.
+Q26.Which of the following figure represents the relation between Celsius and Fahrenheit temperatures ?
+(1)
+ (2)
+(3)
+ (4)
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+alpha> beta> gamma> 0 cot-1{beta+ (1+beta2)
+(alpha-beta)}+ cot-1{gamma+ (1+gamma2)
+(beta-gamma)}+ cot-1{alpha+ (1+alpha2)
+(gamma-alpha)}
+pi
+pi2- (alpha+beta+gamma) 3pi
+Q(7,-2,5) L :x-12 = y+1
+3 = z4 R(5,p,q) L
+?PQR
+integral 2x2+5x+9
+sqrtx2+x+1 dx=xsqrtx2+x+ 1+alphasqrtx2+x+ 1+betalogex+ 12+ sqrtx2+x+ 1 + C
+? ?
+C
+alpha+ 2beta
+y=y(x) 2cosx dy
+ dx= sin2x- 4ysinx,x? (0,pi2)
+y(pi3)= 0 y?(pi4)+y(pi4)
+f:{1,2,... ,100}? {0,1}
+H 1:x2
+a2 - y2
+ b2 = 1 H 2:- x2
+ A2 + y2
+ B2 = 1 15sqrt2
+12sqrt5 e1= sqrt 52 e2
+100sqrt10 25e22
+ 
+Q27.The position vector of a moving body at any instant of time is given as . The magnitude
+and direction of velocity at  is,
+(1) , making an angle of  with - ve
+ axis
+(2) , making an angle of  with + ve
+X axis
+(3) , making an angle of  with + ve
+ axis
+(4) , making an angle of  with - ve
+ axis
+Q28.The output of the circuit is low (zero) for :
+(A)  (B)  (C)  (D)  Choose the correct answer from the
+options given below :
+(1) (B), (C) and (D) only (2) (A), (B) and (C) only
+(3) (A), (C) and (D) only (4) (A), (B) and (D) only
+Q29.Young's double slit inteference apparatus is immersed in a liquid of refractive index 1.44. It has slit separation
+of 1.5 mm . The slits are illuminated by a parallel beam of light whose wavelength in air is 690 nm . The
+fringe-width on a screen placed behind the plane of slits at a distance of 0.72 m , will be :
+(1) 0.23 mm (2) 0.33 mm
+(3) 0.63 mm (4) 0.46 mm
+Q30.The magnitude of heat exchanged by a system for the given cyclic process ABCA (as shown in figure) is (in SI
+unit) : 
+(1) (2)
+(3) (4) zero
+Q31.A long straight wire of a circular cross-section with radius '  ' carries a steady current . The current I is
+uniformly distributed across this cross-section. The plot of magnitude of magnetic field B with distance  from
+the centre of the wire is given by
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+?r= (5t2^i- 5t^j)m
+t= 2 s
+5sqrt15 m/s tan-14
+Y
+5sqrt15 m/s tan-14
+5sqrt17 m/s tan-14
+X
+5sqrt17 m/s tan-14
+Y
+X= 0,Y = 0 X= 0,Y= 1 X= 1,Y= 0 X= 1,Y = 1
+5pi 40pi
+10pi
+a I
+r
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q32.In photoelectric effect, the stopping potential  frequency  curve is plotted. ( h is the Planck's
+constant and  is work function of metal ) (A)  is linear. (B) The slope of  curve  (C) h
+constant is related to the slope of  line. (D) The value of electric charge of electron is not required to
+determine  using the  curve. (E) The work function can be estimated without knowing the value of .
+Choose the correct answer from the options given below :
+(1) (C) and (D) only (2) (A), (C) and (E) only
+(3) (A), (B) and (C) only (4) (D) and (E) only
+Q33.A solid sphere and a hollow sphere of the same mass and of same radius are rolled on an inclined plane. Let
+the time taken to reach the bottom by the solid sphere and the hollow sphere be  and , respectively, then
+(1) (2)
+(3) (4)
+Q34.A small uncharged conducting sphere is placed in contact with an identical sphere but having 
+charge and then removed to a distance such that the force of repulsion between them is . The
+distance between them is (Take  as  units)
+(1) 3 cm (2) 2 cm
+(3) 4 cm (4) 1 cm
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+(V0)v/s (?)
+?0 V0v/s? V0v/s? = ?0
+ h
+V0v/s?
+h V0v/s? h
+t1 t2
+t1> t2 t1=t2
+t1< t2 t1= 2t2
+4x 10-8C
+9x 10-3 N
+14pi?o 9x 109inSI
+ 
+Q35.
+N equally spaced charges each of value q , are placed on a circle of radius R . The circle rotates about its axis
+with an angular velocity  as shown in the figure. A bigger Amperian loop B encloses the whole circle where
+as a smaller Amperian loop A encloses a small segment. The difference between enclosed currents, ,
+for the given Amperian loops is
+(1) (2)
+(3) (4)
+Q36.A particle oscillates along the -axis according to the law,  where . The kinetic
+energy  of the particle as a function of  is correctly represented by the graph
+(1)
+ (2)
+(3)
+ (4)
+Q37.A photograph of a landscape is captured by a drone camera at a height of 18 km . The size of the camera film
+is  and the area of the landscape photographed is . The focal length of the lens in the
+drone camera is :
+(1) 1.8 cm (2) 0.9 cm
+(3) 2.8 cm (4) 2.5 cm
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+?
+IA-IB
+2piNq? N2
+2piq?
+Npiq? N2piq?
+x x(t)=x0sin2(t2) x0= 1 m
+(K) x
+2 cm x 2 cm 400 km2
+ 
+Q38.
+(1) (2)
+(3) (4)
+Q39.Arrange the following in the ascending order of wavelength  : (A) Microwaves  (B) Ultraviolet rays
+ (C) Infrared rays  (D) X-rays  Choose the most appropriate answer from the options given below
+:
+(1) (2)
+(3) (4)
+Q40.The energy  and momentum  of a moving body of mass  are related by some equation. Given that c
+represents the speed of light, identify the correct equation
+(1) (2)
+(3) (4)
+Q41.The temperature of a body in air falls from  to  in 4 minutes. The temperature of the air is . The
+temperature of the body in the next 4 minutes will be:
+(1) (2)
+(3) (4)
+Q42.A solid sphere is rolling without slipping on a horizontal plane. The ratio of the linear kinetic energy of the
+centre of mass of the sphere and rotational kinetic energy is :
+(1) (2)
+(3) (4)
+Q43.In a Young's double slit experiment, three polarizers are kept as shown in the figure. The transmission axes of
+ and  are orthogonal to each other. The polarizer  covers both the slits with its transmission axis at 
+to those of  and . An unpolarized light of wavelength  and intensity  is incident on  and . The
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+Kq20
+a (4- 2sqrt2) Kq20
+a (3- sqrt2)
+Kq20
+a (4sqrt2- 2) Kq20
+a (3sqrt2- 2)
+(?) (?1)
+(?2) (?3) (?4)
+?4 < ?3< ?2< ?1 ?3< ?4 < ?2< ?1
+?4 < ?3< ?1< ?2 ?4 < ?2< ?3< ?1
+E p m
+E2= pc2+ m2c2 E2= p2c2+ m2c2
+E2= pc2+ m2c4 E2= p2c2+ m2c4
+40?C 24?C 16?C
+143?C 423
+?C
+283?C 563?C
+34 4352 25
+P1 P2 P3 45?
+P1 P2 ? I0 P1 P2
+ 
+intensity at a point after  where the path difference between the light waves from  and  is , is
+(1) (2)
+(3) (4)
+Q44.Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A) : In an insulated container, a gas is adiabatically shrunk to half of its initial volume. The
+temperature of the gas decreases. Reason (R): Free expansion of an ideal gas is an irreversible and an adiabatic
+process. In the light of the above statements, choose the correct answer from the options given below :
+(1) Both  and  are true but  is NOT the
+correct explanation of 
+(2) (A) is false but (R) is true
+(3) (A) is true but (R) is false (4) Both  and  are true and  is the correct
+explanation of 
+Q45.Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A) : A electron in a certain region of uniform magnetic field is moving with constant velocity in a
+straight line path. Reason (R): The magnetic field in that region is along the direction of velocity of the
+electron. In the light of the above statements, choose the correct answer from the options given below :
+(1) (A) is true but (R) is false (2) Both (A) and (R) are true but (R) is NOT the
+correct explanation of (A)
+(3) Both  and  are true and  is the correct
+explanation of 
+(4) (A) is false but (R) is true
+Q46.The ratio of the power of a light source  to that the light source  is  is emitting  photons per
+second at 600 nm . If the wavelength of the source  is 300 nm , then the number of photons per second
+emitted by  is  .
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+P3 s1 s2 ?3
+I0
+2
+I0
+4I0
+3 I0
+(A) (R) (R)
+(A)
+(A) (R) (R)
+(A)
+(A) (R) (R)
+(A)
+S1 S2 2.S1 2x 1015
+S2
+S2 ... ... x1014
+ 
+Q47.
+A string of length  is fixed at one end and carries a mass of  at the other end. The mass makes 
+rotations per second about the vertical axis passing through end of the string as shown. The tension in the
+string is  ML.
+Q48.The increase in pressure required to decrease the volume of a water sample by  is . Bulk
+modulus of water is . The value of P is 
+Q49.A tightly wound long solenoid carries a current of 1.5 A . An electron is executing uniform circular motion
+inside the solenoid with a time period of 75 ns . The number of turns per metre in the solenoid is  -.
+[Take mass of electron , charge of electron ,
+Q50.Acceleration due to gravity on the surface of earth is '  '. If the diameter of earth is reduced to one third of its
+original value and mass remains unchanged, then the acceleration due to gravity on the surface of the earth is
+ g.
+Q51.For hydrogen atom, the orbital/s with lowest energy is/are : (A) 4 s (B)  (C)  (D)  (E) 
+Choose the correct answer from the options given below :
+(1) (B), (C) and (D) only (2) (A) and (E) only
+(3) (A) only (4) (B) only
+Q52.Match List - I with List - II.
+Choose the correct answer from the options given below :
+(1) (A) (2) (A) 
+(3) (A) (4)
+Q53.Given below are two statements : Statement (I): Experimentally determined oxygen-oxygen bond lengths in
+the  are found to be same and the bond length is greater than that of a  (double bond) but less than
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+L M (3pi)
+... ...
+0.2% P x 105Nm-2
+2.15x 109Nm-2 ... ...
+... ...
+me= 9x 10-31 kg |qe|= 1.6x 10-19C
+?0= 4pix 10-7 N
+ A2,1 ns= 10-9 s]
+g
+... ...
+3px 3 dx2-y2 3 dz2 4pz
+-(III),(B)- (I),(C)- (IV),(D )- (II) -(III),(B)- (I),(C)- (II),(D )- (IV)
+-(IV),(B)- (II),(C)- (III),(D )- (I) (A)- (II),(B)- (IV),(C)- (I),(D )- (III)
+O3 O = O
+ 
+that of a single  bond. Statement (II) : The strong lone pair-lone pair repulsion between oxygen atoms
+is solely responsible for the fact that the bond length in ozone is smaller than that of a double bond 
+but more than that of a single bond . In the light of the above statements, choose the correct answer
+from the options given below :
+(1) Both Statement I and Statement II are false (2) Statement I is false but Statement II is true
+(3) Statement I is true but Statement II is false (4) Both Statement I and Statement II are true
+Q54.When Ethane-1,2-diamine is added progressively to an aqueous solution of Nickel (II) chloride, the sequence
+of colour change observed will be :
+(1) Violet  Blue  Pale Blue  Green (2) Pale Blue  Blue  Green  Violet
+(3) Green  Pale Blue  Blue  Violet (4) Pale Blue  Blue  Violet  Green
+Q55.Given below are two statements :
+Statement (I) : The first ionization energy of Pb is greater than that of Sn .
+Statement (II) : The first ionization energy of Ge is greater than that of Si .
+In the light of the above statements, choose the correct answer from the options given below :
+(1) Statement I is false but Statement II is true (2) Statement I is true but Statement II is false
+(3) Both Statement I and Statement II are true (4) Both Statement I and Statement II are false
+Q56.Identify correct statement/s : (A)  and  are activating group. (B) -CN and -OH are meta
+directing group. (C) -CN and  are meta directing group. (D) Activating groups act as ortho - and para
+directing groups. (E) Halides are activating groups. Choose the correct answer from the options given below :
+(1) (A) only (2) (A), (B) and (E) only
+(3) (A) and (C) only (4) (A), (C) and (D) only
+Q57.Based on the data given below :  the strongest reducing agent is :
+(1) Cr (2)
+(3) (4)
+Q58.For the reaction,  Attainment of equillibrium is predicted correctly by :
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+(O -O)
+(O = O)
+(O - O)
+? ? ? ? ? ?
+? ? ? ? ? ?
+-OCH 3 -NHCOCH 3
+-SO3H
+E?
+Cr2O2-7 /Cr3+ = 1.33 V E?
+Cl2/Cl(-)= 1.36 V
+E?
+M nO-4/M n2+ = 1.51 V E?
+Cr3+/Cr= -0.74 V
+Cl-
+M nO-4 M n2+
+H 2( g)+ I2( g)?2HI( g)
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q59.Find the compound ' A ' from the following reaction sequences. 
+(1) CoS (2) ZnS
+(3) NiS (4) MnS
+Q60.The elemental composition of a compound is  and . If the molar mass of the
+compound is , the molecular formula of the compound is : [Given : The relative atomic mass of
+ ]
+(1) (2)
+(3) (4)
+Q61.The conditions and consequence that favours the  configuration in a metal complex are
+(1) weak field ligand, low spin complex (2) weak field ligand, high spin complex
+(3) strong field ligand, high spin complex (4) strong field ligand, low spin complex
+Q62.In the given structure, number of sp and  hybridized carbon atoms present respectively are :
+(1) 4 and 5 (2) 3 and 5
+(3) 3 and 6 (4) 4 and 6
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A B  yellow ppt  aqua-regia - ?  (1) KNO2?NH 4OH- ? (2) AcOH
+54.2%C,9.2%H 36.6%O
+132 g mol-1
+C :H :O = 12:1:16
+C4H 9O3 C6H 12O6
+C4H 8O2 C6H 12O3
+t2ggeg1
+sp2
+ 
+Q63.
+Given below are two statements : 
+In the light of the above statements, choose the correct answer from the options given below :
+(1) Both Statement I and Statement II are true (2) Statement I is false but Statement II is true
+(3) Statement I is true but Statement II is false (4) Both Statement I and Statement II are false
+Q64.
+Choose the correct answer from the options given below :
+(1) (A)-(III), (B)-(IV), (C)-(II), (D)-(I) (2) (A)-(I), (B)-(III), (C)-(II), (D)-(IV)
+(3) (A)-(III), (B)-(IV), (C)-(I), (D)-(II) (4) (A)-(IV), (B)-(III), (C)-(I), (D)-(II)
+Q65.The structure of the major product formed in the following reaction is :
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q66.
+For reaction 
+The correct order of set of reagents for the above conversion is :
+(1) (2)
+(3) (4)
+Q67.The successive 5 ionisation energies of an element are  and ,
+respectively. By using the above values predict the group in which the above element is present :
+(1) Group 13 (2) Group 14
+(3) Group 2 (4) Group 4
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+Br2?FeBr3,H 2O(?),NaOH H 2SO4,Ac2O,Br2,H 2O(?),NaOH
+Ac2O,Br2,H 2O(?),NaOH Ac2O,H 2SO4,Br2,NaOH
+800,2427,3658,25024 32824 kJ /mol
+ 
+Q68.
+Choose the correct answer from the options given below :
+(1) (A)-(IV), (B)-(III), (C)-(II), (D)-(I) (2) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)
+(3) (A)-(III), (B)-(IV), (C)-(I), (D)-(II) (4) (A)-(III), (B)-(I), (C)-(IV), (D)-(II)
+Q69.Which of the following mixing of 1 M base and 1 M acid leads to the largest increase in temperature?
+(1)  and 30 mL NaOH (2)
+(3) 30 mL HCl and 30 mL NaOH (4) 50 mL HCl and 20 mL NaOH
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+30 mLCH 3COOH 45mLCH 3COOHand25mLNaOH
+ 
+Q70.
+ The heat of formation of  is given by :
+(1) (2)
+(3) (4)
+Q71.In Carius method of estimation of halogen, 0.25 g of an organic compound gave 0.15 g of silver bromide
+. The percentage of Bromine in the organic compound is   (Nearest integer). (Given :
+Molar mass of Ag is 108 and Br is  )
+Q72.The observed and normal molar masses of compound  are 65.6 and 164 respectively. The percent degree
+of ionisation of  is  %. (Nearest integer)
+Q73.Consider a complex reaction taking place in three steps with rate constants  and  respectively. The
+overall rate constant  is given by the expression . If the activation energies of the three steps are
+60,30 and  respectively, then the overall energy of activation in  is  . (Nearest
+integer)
+Q74.The possible number of stereoisomers for 5-phenylpent-4-en-2-ol is 
+Q75.The hydrocarbon  with molar mass  and  carbon has  degree of unsaturation.
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+S( g)+ 3
+2O2( g)? SO3( g)+ 2xkcal
+SO2( g)+ 1
+2O2( g)? SO3( g)+ykcal
+SO2( g)
+x+ykcal y- 2xkcal
+2xykcal 2x+ykcal
+(AgBr) ... ... x10-1%
+80 g mol-1
+M X2
+M X2 ... ...
+k1,k2 k3
+k k= sqrt k1k3
+k2
+10 kJ  mol-1 kJ mol-1 ... ...
+... ...
+(X) 80 g mol-1 90% ... ...
+ 
+ANSWER KEYS
+1. (3) 2. (3) 3. (2) 4. (1) 5. (1) 6. (3) 7. (1) 8. (2)
+9. (2) 10. (3) 11. (1) 12. (1) 13. (3) 14. (4) 15. (3) 16. (3)
+17. (2) 18. (1) 19. (2) 20. (1) 21. (957) 22. (16) 23. (1) 24. (392)
+25. (55) 26. (4) 27. (4) 28. (1) 29. (1) 30. (1) 31. (4) 32. (2)
+33. (3) 34. (2) 35. (4) 36. (4) 37. (1) 38. (4) 39. (4) 40. (4)
+41. (4) 42. (3) 43. (2) 44. (2) 45. (3) 46. (5) 47. (36) 48. (43)
+49. (250) 50. (9) 51. (1) 52. (1) 53. (3) 54. (3) 55. (2) 56. (4)
+57. (1) 58. (2) 59. (1) 60. (4) 61. (2) 62. (2) 63. (3) 64. (4)
+65. (3) 66. (2) 67. (1) 68. (2) 69. (3) 70. (2) 71. (255) 72. (75)
+73. (20) 74. (4) 75. (3)
+ 
+2025 (24 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo

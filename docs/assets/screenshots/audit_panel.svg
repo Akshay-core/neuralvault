@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0b1220" />
+  <text x="80" y="100" fill="#f8fafc" font-family="Arial" font-size="28">System Audit — Invariants</text>
+  <g transform="translate(80,140)" fill="#cbd5e1" font-family="Arial">
+    <text x="0" y="0">• SQLite commit first (authoritative)</text>
+    <text x="0" y="28">• FAISS rebuilds from SQLite on drift</text>
+    <text x="0" y="56">• Claim telemetry stored in `claim_evidence`</text>
+    <text x="0" y="84">• Plugin subprocess sandboxing enforced</text>
+  </g>
+</svg>

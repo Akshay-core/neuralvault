@@ -1,0 +1,3 @@
+2026-05-20 09:29:44 | ERROR    | embeddings | Failed to load embedding model: Cannot send a request, as the client has been closed.
+2026-05-21 21:16:33 | ERROR    | pdf_loader | Akshay-core | Akshay-core-runtime-v4 | AKX-cd27fef098192d85abe0 | pypdf failed on C:\Users\aksha\AppData\Local\Temp\akx_atlas_qa\inputs\corrupt.pdf: startxref not found
+2026-05-21 21:16:33 | ERROR    | pdf_loader | Akshay-core | Akshay-core-runtime-v4 | AKX-cd27fef098192d85abe0 | pdfminer failed: No /Root object! - Is this really a PDF?

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0b1220" />
+  <g fill="#a78bfa" font-family="Arial">
+    <rect x="80" y="120" width="220" height="80" rx="10" fill="#111827" stroke="#3f3f46"/>
+    <text x="120" y="165" fill="#e9d5ff">Upload Document</text>
+    <rect x="360" y="120" width="220" height="80" rx="10" fill="#111827" stroke="#3f3f46"/>
+    <text x="420" y="165" fill="#e9d5ff">Extract & Chunk</text>
+    <rect x="640" y="120" width="220" height="80" rx="10" fill="#111827" stroke="#3f3f46"/>
+    <text x="710" y="165" fill="#e9d5ff">Commit to SQLite</text>
+    <rect x="920" y="120" width="220" height="80" rx="10" fill="#111827" stroke="#3f3f46"/>
+    <text x="970" y="165" fill="#e9d5ff">Embed -> FAISS</text>
+    <line x1="300" y1="160" x2="360" y2="160" stroke="#a78bfa" stroke-width="2"/>
+    <line x1="580" y1="160" x2="640" y2="160" stroke="#a78bfa" stroke-width="2"/>
+    <line x1="860" y1="160" x2="920" y2="160" stroke="#a78bfa" stroke-width="2"/>
+  </g>
+</svg>

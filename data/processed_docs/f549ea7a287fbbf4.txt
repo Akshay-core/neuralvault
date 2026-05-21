@@ -1,0 +1,628 @@
+ 
+Q1.For a  matrix , let trace  denote the sum of all the diagonal elements of . Let  be a  matrix
+such that  and trace . If , then the value of  trace (B) equals :
+(1) 56 (2) 132
+(3) 174 (4) 280
+Q2.In a group of 3 girls and 4 boys, there are two boys  and . The number of ways, in which these girls and
+boys can stand in a queue such that all the girls stand together, all the boys stand together, but  and  are
+not adjacent to each other, is :
+(1) 96 (2) 144
+(3) 120 (4) 72
+Q3.Let  and  be the coefficients of  and  respectively in the expansion of
+. If u and v satisfy the equations  then  equals :
+(1) 5 (2) 3
+(3) 4 (4) 8
+Q4.Let a line pass through two distinct points  and , and be parallel to the vector . If the
+distance of the point Q from the point  is 5 , then the square of the area of  is equal to :
+(1) 148 (2) 136
+(3) 144 (4) 140
+Q5.If  and  are two events such that , and  and  are the roots of the equation
+, then the value of  is :
+(1) (2)
+(3) (4)
+Q6.If , where C is the constant of integration, then  equals
+:
+(1) (2)
+(3) (4)
+Q7.The area of the region enclosed by the curves  and  is :
+(1) (2)
+(3) 8 (4) 5
+Q8.Let . Then the numbers of local maximum and local minimum points of ,
+respectively, are :
+(1) 2 and 3 (2) 2 and 2
+(3) 3 and 2 (4) 1 and 3
+Q9.Let  be a point on the parabola  and PQ be a focal chord of the parabola. If M and  are the
+foot of perpendiculars drawn from  and  respectively on the directrix of the parabola, then the area of the
+quadrilateral PQMN is equal to :
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+3x 3 M (M ) M A 3x 3
+|A|= 12 (A)= 3 B = adj(adj(2A)) |B|+
+B1 B2
+B1 B2
+alpha,beta,gamma ? x7,x5,x3 x
+(x+ sqrtx3- 1)
+5
++ (x- sqrtx3- 1)
+5
+,x> 1 alphau+ betav= 18
+gammau+ ?v= 20 u+ v
+P(-2,-1,3) Q 3^i+ 2^j+ 2^k
+R(1,3,3) ?PQR
+A B P(A ?B)= 0.1 P(A ?B) P(B ?A)
+12x2- 7x+ 1= 0 P(A?B)
+P(A?B)
+- -
+- -
+43 7453 94
+integralex(xsin-1x
+sqrt 1-x2 + sin-1x
+(1-x2)3/2 + x
+1-x2)dx= g(x)+ C g(1
+2)
+pi4sqrt e3 pi6sqrt e3
+pi4sqrt e2 pi6sqrt e2
+y= x2- 4x+ 4 y2 = 16- 8x
+83 43
+f(x)= integralx2
+0 t2-8t+15et dt,x? R f
+P(4,4sqrt3) y2 = 4ax N
+P Q
+ 
+(1) (2)
+(3) (4)
+Q10.Let  and  be two unit vectors such that the angle between them is . If  and  are
+perpendicular to each other, then the number of values of  in  is :
+(1) 2 (2) 1
+(3) 0 (4) 3
+Q11.If , then the value of  equals :
+(1) (2)
+(3) (4) e
+Q12.Let  and . Then the number of many-one functions  such that
+ is equal to :
+(1) 151 (2) 139
+(3) 163 (4) 127
+Q13.Suppose that the number of terms in an A.P. is . If the sum of all odd terms of the A.P. is 40 , the sum
+of all even terms is 55 and the last term of the A.P. exceeds the first term by 27, then k is equal to :
+(1) 6 (2) 5
+(3) 8 (4) 4
+Q14.The perpendicular distance, of the line  from the point , is :
+(1) 6 (2)
+(3) (4)
+Q15.If the system of linear equations :  where , has infinitely many solutions, then
+ is equal to :
+(1) 16 (2) 12
+(3) 22 (4) 9
+Q16.If  is the solution of the differential equation  with
+, then  is equal to :
+(1) (2)
+(3) (4)
+Q17.Let  and  be the distinct roots of . If m and M are the minimum and
+the maximum values of , then  equals :
+(1) 24 (2) 25
+(3) 17 (4) 27
+Q18.The sum of all values of  satisfying  and  is
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+17sqrt3 263sqrt3
+8
+34sqrt33 343sqrt38
+?a ?b pi3 ??a+ 2?b 3?a- ??b
+? [-1,3]
+lim x? ? (( e1-e)(1e- x1+x))x = alpha logealpha
+1+logealpha
+e-1 e2
+e-2
+A = {1,2,3,4} B = {1,4,9,16} f:A ? B
+1? f( A)
+2k,k? N
+x-12 = y+2
+-1 = z+32 P(2,-10,1)
+5sqrt2
+4sqrt3 3sqrt5
+x+ y+ 2z= 6
+2x+ 3y+ az= a+ 1
+- x- 3y+ bz= 2 b
+a,b? R
+7a+ 3b
+x= f(y) (1+ y2)+ (x- 2etan-1y)dy
+ dx = 0,y? (- pi2,pi2)
+f(0)= 1 f( 1
+sqrt3)
+epi/12 epi/4
+epi/3 epi/6
+alphatheta betatheta 2x2+ (costheta)x- 1= 0,theta? (0,2pi)
+alpha4theta+ beta4theta 16(M + m)
+theta? [0,2pi] 2sin2theta= cos2theta 2cos2theta= 3sintheta
+ 
+(1) (2)
+(3) (4)
+Q19.Let the curve , divide the region  into two parts of areas  and .
+Then  equals :
+(1) (2)
+(3) (4)
+Q20.Let  and . Let the distance between the foci of E and the foci of 
+be . If , and the ratio of the eccentricities of  and  is , then the sum of the lengths of their
+latus rectums is equal to:
+(1) 10 (2) 9
+(3) 8 (4) 7
+Q21.If , then  is equal to ______
+Q22.Let . The number of relations on , containing  and , which are reflexive and
+transitive but not symmetric, is ______ -
+Q23.Let  and , be the vertices of a triangle. If  and
+ be its orthocenter and centroid respectively, then  is equal to ______ -.
+Q24.Let  be the solution of the differential equation  such that
+. If  then  is equal to _______ .
+Q25.Let the distance between two parallel lines be 5 units and a point  lie between the lines at a unit distance
+from one of them. An equilateral triangle  is formed such that  lies on one of the parallel lines, while 
+lies on the other. Then  is equal to _______ -.
+Q26.
+To obtain the given truth table, following logic gate should be placed at G:
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+4pi 5pi6
+pi pi2
+z(1+ i)+  ?z(1- i)= 4,z? C |z- 3|<= 1 alpha beta
+|alpha- beta|
+1+ pi2 1+ pi3
+1+ pi6 1+ pi4
+E :x2
+a2 + y2
+ b2 = 1,a> b H : x2
+ A2 - y2
+ B2 = 1 H
+2sqrt3 a- A = 2 E H 13
+sum 30r=1
+r2(30Cr)2
+30Cr-1 = alphax 229 alpha
+A = {1,2,3} A (1,2) (2,3)
+A(6,8),B(10cosalpha,-10sinalpha) C(-10sinalpha,10cosalpha) L(a,9)
+G (h,k) (5a- 3h+ 6k+ 100sin2alpha)
+y= f(x) dy
+ dx + xy
+x2-1 = x6+4x
+sqrt 1-x2,-1< x< 1
+f(0)= 0 6integral1/2
+-1/2f(x)dx= 2pi- alpha alpha2
+P
+PQR Q R
+(QR)2
+A B Y
+0 0 1
+0 1 1
+1 0 0
+1 1 1
+ 
+(1) OR Gate (2) AND Gate
+(3) NOR Gate (4) NAND Gate
+Q27.A small rigid spherical ball of mass M is dropped in a long vertical tube containing glycerine. The velocity of
+the ball becomes constant after some time. If the density of glycerine is half of the density of the ball, then the
+viscous force acting on the ball will be (consider g as acceleration due to gravity)
+(1) 2 Mg (2) Mg
+(3) (4)
+Q28.The torque due to the force  about the origin, acting on a particle whose position vector is
+, would be
+(1) (2)
+(3) (4)
+Q29.A symmetric thin biconvex lens is cut into four equal parts by two planes  and  as shown in figure. If
+the power of original lens is 4 D then the power of a part of the divided lens is
+(1) D (2) 8D
+(3) 2D (4) 4D
+Q30.For a short dipole placed at origin , the dipole moment  is along -axis, as shown in the figure. If the
+electric potential and electric field at A are  and , respectively, then the correct combination of the electric
+potential and electric field, respectively, at point  on the -axis is given by
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+32M g M g
+2
+(2^i+ ^j+ 2^k)
+(^i+ ^j+ ^k)
+^i- ^k ^i+ ^k
+^j+ ^k ^i- ^j+ ^k
+AB CD
+O P x
+V0 E0
+B y
+ 
+(1)  and (2) zero and 
+(3) zero and (4)  and 
+Q31.A transparent film of refractive index, 2.0 is coated on a glass slab of refractive index, 1.45. What is the
+minimum thickness of transparent film to be coated for the maximum transmission of Green light of
+wavelength 550 nm . [Assume that the light is incident nearly perpendicular to the glass surface.]
+(1) 137.5 nm (2) 275 nm
+(3) 94.8 nm (4) 68.7 nm
+Q32.Given are statements for certain thermodynamic variables, (A) Internal energy, volume (V) and mass (M) are
+extensive variables. (B) Pressure (P), temperature (T) and density (  ) are intensive variables. (C) Volume (V),
+temperature (T) and density (  ) are intensive variables. (D) Mass (M), temperature (T) and internal energy
+are extensive variables. Choose the correct answer from the options given below :
+(1) (B) and (C) Only (2) (C) and (D) Only
+(3) (D) and (A) Only (4) (A) and (B) Only
+Q33.An electron projected perpendicular to a uniform magnetic field B moves in a circle. If Bohr's quantization is
+applicable, then the radius of the electronic orbit in the first excited state is :
+(1) (2)
+(3) (4)
+Q34.Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A) : In Young's double slit experiment, the fringes produced by red light are closer as compared to
+those produced by blue light. Reason (R): The fringe width is directly proportional to the wavelength of light.
+In the light of the above statements, choose the correct answer from the options given below :
+(1) Both  and  are true but  is NOT the
+correct explanation of 
+(2) (A) is true but (R) is false
+(3) Both (A) and (R) are true and (R) is the correct
+explanation of (A)
+(4) (A) is false but (R) is true
+Q35.A rectangular metallic loop is moving out of a uniform magnetic field region to a field free region with a
+constant speed. When the loop is partially inside the magnate field, the plot of magnitude of induced emf 
+with time  is given by
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+V0 E0
+4
+E0
+16E0
+8
+V0
+2
+E0
+16
+?
+?
+sqrt hpieeB sqrt 2hpieB
+sqrt h2pieB sqrt 4 hpieB
+(A) (R) (R)
+(A)
+(?)
+(t)
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q36.A ball of mass 100 g is projected with velocity  at  with horizontal. The decrease in kinetic energy
+of the ball during the motion from point of projection to highest point is
+(1) 5 J (2) 15 J
+(3) 20 J (4) zero
+Q37.A body of mass 100 g is moving in circular path of radius 2 m on vertical plane as shown in figure. The
+velocity of the body at point  is . The ratio of its kinetic energies at point  and  is :
+(Take acceleration due to gravity as  )
+(1) (2)
+(3) (4)
+Q38.Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A) : A simple pendulum is taken to a planet of mass and radius, 4 times and 2 times, respectively,
+than the Earth. The time period of the pendulum remains same on earth and the planet. Reason (R): The mass
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+20 m/s 60?
+A 10 m/s B C
+10 m/s2
+2+sqrt23 2+sqrt33
+3+sqrt3
+2 3-sqrt22
+ 
+of the pendulum remains unchanged at Earth and the other planet. In the light of the above statements, choose
+the correct answer from the options given below :
+(1)  is false but (R) is true (2) (A) is true but (R) is false
+(3) Both  and  are true and  is the correct
+explanation of 
+(4) Both (A) and (R) are true but (R) is NOT the
+correct explanation of (A)
+Q39.A series LCR circuit is connected to an alternating source of emf E. The current amplitude at resonant
+frequency is . If the value of resistance R becomes twice of its initial value then amplitude of current at
+resonance will be
+(1) (2)
+(3) (4)
+Q40.Which one of the following is the correct dimensional formula for the capacitance in F ?  and C stand
+for unit of mass, length, time and charge,
+(1) (2)
+(3) (4)
+Q41.
+A tube of length  is shown in the figure. The radius of cross section at the point (1) is 2 cm and at the point
+(2) is 1 cm , respectively. If the velocity of water entering at point (1) is , then velocity of water leaving
+the point (2) will be
+(1) (2)
+(3) (4)
+Q42.A light source of wavelength  illuminates a metal surface and electrons are ejected with maximum kinetic
+energy of 2 eV . If the same surface is illuminated by a light source of wavelength , then the maximum
+kinetic energy of ejected electrons will be (The work function of metal is 1 eV )
+(1) 3 eV (2) 2 eV
+(3) 6 eV (4) 5 eV
+Q43.The maximum percentage error in the measurment of density of a wire is [Given, mass of wire
+ radius of wire  length of wire 
+(1) 8 (2) 5
+(3) 4 (4) 7
+Q44.For a diatomic gas, if  for rigid molecules and  for another diatomic molecules, but
+also having vibrational modes. Then, which one of the following options is correct ? (Cp and Cv are specific
+heats of the gas at constant pressure and volume)
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+(A)
+(A) (R) (R)
+(A)
+I0
+2I0 I0
+I0
+2
+I0
+sqrt2
+M ,L,T
+[F] = [C2M -1 L-2 T 2] [F] = [C2M -2 L2 T 2]
+[F] = [CM -2 L-2 T -2] [F] = [CM -1 L-2 T 2]
+L
+2 m/s
+4 m/s 2 m/s
+6 m/s 8 m/s
+?
+?2
+= (0.60± 0.003)g = (0.50± 0.01)cm = (10.00± 0.05)cm]
+gamma1= (Cp
+Cv) gamma2 = (Cp
+Cv)
+ 
+(1) (2)
+(3) (4)
+Q45.A force  is applied on a particle and it undergoes a displacement . What will be the
+value of , if work done on the particle is zero.
+(1) 0 (2)
+(3) 2 (4)
+Q46.A proton is moving undeflected in a region of crossed electric and magnetic fields at a constant speed of
+. When the electric field is switched off, the proton moves along a circular path of radius 2 cm .
+The magnitude of electric field is . The value of  is _______ Take the mass of the proton
+.
+Q47.The net current flowing in the given circuit is_______ A.
+Q48.A parallel plate capacitor of area  and separation between the plates 10 cm , is charged by a DC
+current. Consider a hypothetical plane surface of area  inside the capacitor and parallel to the
+plates. At an instant, the current through the circuit is 6A. At the same instant the displacement current through
+ is ________ mA .
+Q49.A tube of length 1 m is filled completely with an ideal liquid of mass 2 M , and closed at both ends. The tube is
+rotated uniformly in horizontal plane about one of its ends. If the force exerted by the liquid at the other end is
+F then angular velocity of the tube is  in SI unit. The value of  is __________.
+Q50.Two long parallel wires  and , separated by a distance of 6 cm , carry currents of 5A and 4A, respectively,
+in opposite directions as shown in the figure. Magnitude of the resultant magnetic field at point P at a distance
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+gamma2 = gamma1 2gamma2 = gamma1
+gamma2 < gamma1 gamma2 > gamma1
+?F = 2^i+ b^j+ ^k ^i- 2^j- ^k
+b
+1213
+2x 105 ms-1
+xx 104 N/C x
+= 1.6x 10-27 kg
+A = 16 cm 2
+A0= 3.2 cm 2
+A0
+sqrt FalphaM alpha
+X Y
+ 
+of 4 cm from wire Y is . The value of  is__________ . Take permeability of free space as
+ units. 
+Q51.Given below are two statements : Statement (I) : Nitrogen, sulphur, halogen and phosphorus present in an
+organic compound are detected by Lassaigne's Test. Statement (II) : The elements present in the compound are
+converted from covalent form into ionic form by fusing the compound with Magnesium in Lassaigne's test. In
+the light of the above statements, choose the correct anower from the options given below :
+(1) Statement I is false but Statement II is true (2) Both Statement I and Statement II are true
+(3) Both Statement I and Statement II are false (4) Statement I is true but Statement II is false
+Q52.Density of 3 M NaCl solution is . The molality of the solution is :
+(1) 1.79 m (2) 2.79 m
+(3) 2 m (4) 3 m
+Q53.The correct order of the following complexes in terms of their crystal field stabilization energies is :
+(1)
+(2)
+(3)
+(4)
+Q54.Given below are two statements : Statement (I) : Corrosion is an electrochemical phenomenon in which pure
+metal acts as an anode and impure metal as a cathode. Statement (II) : The rate of corrosion is more in alkaline
+medium than in acidic medium. In the light of the above statements, choose the correct answer from the
+options given below :
+(1) Both Statement I and Statement II are true (2) Statement I is false but Statement II is true
+(3) Statement I is true but Statement II is false (4) Both Statement I and Statement II are false
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+xx 10-5 T x
+?0= 4pix 10-7SI
+1.25 g/mL
+[Co(NH 3)4]2+ < [Co(NH 3)6]2+ < [Co(en)3]3+ < [Co(NH 3)6]3+
+[Co(NH 3)6]2+ < [Co(NH 3)6]3+ < [Co(NH 3)4]2+ < [Co(en)3]3+
+[Co(en)3]3+ < [Co(NH 3)6]3+ < [Co(NH 3)6]2+ < [Co(NH 3)4]2+
+[Co(NH 3)4]2+ < [Co(NH 3)6]2+ < [Co(NH 3)6]3+ < [Co(en)3]3+
+ 
+Q55.
+Consider the given figure and choose the correct option : 
+(1) Activation energy of both forward and backward
+reaction is  and reactant is more stable
+than product.
+(2) Activation energy of forward reaction is 
+and product is less stable than reactant.
+(3) Activation energy of backward reaction is  and
+product is more stable than reactant.
+(4) Activation energy of forward reaction is 
+and product is more stable than reactant.
+Q56.
+The maximum number of RBr producing 2-methylbutane by above sequence of reactions is ________ -
+(Consider the structural isomers only)
+(1) 5 (2) 4
+(3) 3 (4) 1
+Q57.The species which does not undergo disproportionation reaction is :
+(1) (2)
+(3) (4)
+Q58.The molar solubility(s) of zirconium phosphate with molecular formula  is given by relation :
+(1) (2)
+(3) (4)
+Q59.Identify the homoleptic complex(es) that is/are low spin. (A)  (B)  (C) 
+(D)  (E)  Choose the correct answer from the options given below :
+(1) (C) only (2) (C) and (D) only
+(3) (A) and (C) only (4) (B) and (E) only
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+E1+ E2
+E1+ E2
+E1 E1+ E2
+ClO-3 ClO-
+ClO-2 ClO-4
+(Zr4+)3(PO3-4 )4
+(K sp
+9612)
+13
+(K sp
+6912)
+17
+(K sp
+8435)
+17
+(K sp
+5348)
+16
+[Fe(CN)5NO]2- [CoF6]3- [Fe(CN)6]4-
+[Co(NH 3)6]3+ [Cr(H 2O)6]2+
+ 
+Q60.
+Match List - I with List - II. 
+Choose the correct answer from the options given below :
+(1) (A)-(II), (B)-(I), (C)-(III), (D)-(IV) (2) (A)-(I), (B)-(II), (C)-(IV), (D)-(III)
+(3) (A)-(II), (B)-(I), (C)-(IV), (D)-(III) (4) (A)-(II), (B)-(III), (C)-(I), (D)-(IV)
+Q61.Identify the number of structure/s from the following which can be correlated to D-glyceraldehyde.
+(1) four (2) one
+(3) two (4) three
+Q62.Given below are two statements : Statement (I) : A spectral line will be observed for a  transition.
+Statement (II) :  and  are degenerate orbitals. In the light of the above statements, choose the correct
+answer from the options given below :
+(1) Both Statement I and Statement II are true (2) Statement I is false but Statement II is true
+(3) Both Statement I and Statement II are false (4) Statement I is true but Statement II is false
+Q63.Given below are two statements : Statement (I) : An element in the extreme left of the periodic table forms
+acidic oxides. Statement (II) : Acid is formed during the reaction between water and oxide of a reactive
+element present in the extreme right of the periodic table. In the light of the above statements, choose the
+correct answer from the options given below :
+(1) Statement I is true but Statement II is false (2) Both Statement I and Statement II are true
+(3) Both Statement I and Statement II are false (4) Statement I is false but Statement II is true
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+2px ? 2py
+2Px 2py
+ 
+Q64.
+Residue  (dil)  Compound  Structure of residue (A) and compound (B) formed respectively is
+:
+(1)
+ (2)
+(3)
+ (4)
+Q65.The alkane from below having two secondary hydrogens is :
+(1) 4-Ethyl-3,4-dimethyloctane (2) 2,2,3,3-Tetramethylpentane
+(3) 2,2,4,5-Tetramethylheptane (4) 2,2,4,4-Tetramethylhexane
+Q66.When sec-butylcyclohexane reacts with bromine in the presence of sunlight, the major product is :
+(1)
+ (2)
+(3)
+ (4)
+Q67.The most stable carbocation from the following is :
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+(A)+ HCl ? (B)
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q68.Match the Compounds (List - I) with the appropriate Catalyst/Reagents (List - II) for their reduction into
+corresponding amines. 
+Choose the correct answer from the options given below :
+(1) (A)-(II), (B)-(I), (C)-(III), (D)-(IV) (2) (A)-(III), (B)-(II), (C)-(IV), (D)-(I)
+(3) (A)-(II), (B)-(IV), (C)-(III), (D)-(I) (4) (A)-(III), (B)-(IV), (C)-(II), (D)-(I)
+Q69.Arrange the following compounds in increasing order of their dipole moment :  and 
+(1) (2)
+(3) (4)
+Q70.The maximum covalency of a non-metallic group 15 element ' E ' with weakest  bond is :
+(1) 4 (2) 6
+(3) 3 (4) 5
+Q71.The compound with molecular formula , which gives only one monobromo derivative and takes up four
+moles of hydrogen per mole for complete hydrogenation has ________  electrons.
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+HBr,H 2 S,NF3 CHCl3
+H 2 S < HBr< NF3< CHCl3 NF3< HBr< H 2 S < CHCl3
+HBr< H 2 S < NF3< CHCl3 CHCl3< NF3< HBr< H 2 S
+E - E
+C6H 6
+=
+ 
+Q72.20 mL of 2 M NaOH solution is added to 400 mL of 0.5 M NaOH solution. The final concentration of the
+solution is _______ . (Nearest integer)
+Q73.Consider the following cases of standard enthalpy of reaction  in 
+ The magnitude of  is _______
+ (Nearest integer).
+Q74.Niobium ( Nb ) and ruthenium  have "  " and "  " number of electrons in their respective 4 d orbitals.
+The value of  is ______ -.
+Q75.The complex of  ion and dimethyl glyoxime contains ________ number of Hydrogen  atoms.
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+x10-2M
+(?H ?r kJ mol-1)
+C2H 6( g)+ 7
+2O2( g)? 2CO2( g)+ 3H 2O(l)?H ?1= -1550
+C (graphite) + O2( g)? CO2( g) ?H ?2 = -393.5
+H 2( g)+ 1
+2O2( g)? H 2O(l) ?H ?3= -286
+?H ?fC2H 6( g)
+kJ mol-1
+(Ru) x y
+x+ y
+Ni2+ (H)
+ 
+ANSWER KEYS
+1. (4) 2. (2) 3. (1) 4. (2) 5. (4) 6. (2) 7. (1) 8. (1)
+9. (4) 10. (3) 11. (4) 12. (1) 13. (2) 14. (4) 15. (1) 16. (4)
+17. (2) 18. (3) 19. (1) 20. (3) 21. (465) 22. (3) 23. (145) 24. (27)
+25. (28) 26. (3) 27. (4) 28. (1) 29. (3) 30. (2) 31. (1) 32. (4)
+33. (1) 34. (4) 35. (4) 36. (2) 37. (3) 38. (4) 39. (3) 40. (1)
+41. (4) 42. (4) 43. (2) 44. (3) 45. (2) 46. (2) 47. (1) 48. (1200)
+49. (1) 50. (1) 51. (4) 52. (2) 53. (4) 54. (3) 55. (2) 56. (2)
+57. (4) 58. (2) 59. (2) 60. (3) 61. (4) 62. (2) 63. (4) 64. (4)
+65. (2) 66. (3) 67. (3) 68. (4) 69. (2) 70. (1) 71. (8) 72. (57)
+73. (95) 74. (11) 75. (14)
+ 
+2025 (22 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo

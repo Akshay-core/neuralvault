@@ -1,0 +1,5 @@
+{
+  "name": "quiz_generator",
+  "version": "1.0.0",
+  "permissions": ["read_input", "compute"]
+}

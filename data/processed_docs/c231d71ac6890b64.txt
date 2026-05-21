@@ -1,0 +1,643 @@
+ 
+Q1.If the first term of an A.P. is 3 and the sum of its first four terms is equal to one-fifth of the sum of the next four
+terms, then the sum of the first 20 terms is equal to
+(1) (2)
+(3) (4)
+Q2.One die has two faces marked 1 , two faces marked 2 , one face marked 3 and one face marked 4 . Another die
+has one face marked 1 , two faces marked 2 , two faces marked 3 and one face marked 4. The probability of
+getting the sum of numbers to be 4 or 5 , when both the dice are thrown together, is
+(1) (2)
+(3) (4)
+Q3.Let the position vectors of the vertices  and  of a tetrahedron  be  and
+ respectively. The altitude from the vertex  to the opposite face  meets the median line
+segment through  of the triangle  at the point . If the length of  is  and the volume of the
+tetrahedron is , then the position vector of  is
+(1) (2)
+(3) (4)
+Q4.If , and  are non-singular matrices of same order, then the inverse of
+, is equal to
+(1) (2)
+(3) (4)
+Q5.Marks obtains by all the students of class 12 are presented in a freqency distribution with classes of equal width.
+Let the median of this grouped data be 14 with median class interval 12-18 and median class frequency 12 . If
+the number of students whose marks are less than 12 is 18 , then the total number of students is
+(1) (2)
+(3) (4)
+Q6.Let a curve  pass through the points  and . If the curve satisfies the differential equation
+, then  is equal to
+(1) (2)
+(3) (4)
+Q7.
+If the function  is continuous at , then  is
+equal to
+(1) (2)
+(3) (4)
+Q8.If the line  intersects the parabola  at the points  and , then at the vertex of the
+parabola, the line segment  subtends an angle equal to
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+-1080 -1020
+-1200 -120
+23 1249 35
+A,B C ABCD ^i+ 2^j+ ^k,^i+ 3^j- 2^k
+2^i+ ^j- ^k D ABC
+A ABC E AD sqrt1103
+sqrt805
+6sqrt2 E
+112(7^i+ 4^j+ 3^k) 12(^i+ 4^j+ 7^k)
+16(12^i+ 12^j+ ^k) 16(7^i+ 12^j+ ^k)
+A,B (adj(A-1)+ adj(B-1))
+A(adj(A-1)+ adj(B-1))-1 B
+AB-1+ A-1 B adj(B-1)+ adj(A-1)
+AB-1
+|A| + BA-1
+|B| 1|AB|(adj(B)+ adj(A))
+52 48
+44 40
+y=f(x) (0,5) (loge2,k)
+2(3+y)e2xdx- (7+e2x)dy= 0 k
+4 32
+8 16
+f(x)=
+?
+?
+?
+?
+?
+2x{sin(k1+ 1)x+ sin(k2- 1)x}, x< 0
+4, x= 0
+2xloge(2+k1x
+2+k2x), x> 0
+x= 0 k21+ k22
+20 5
+8 10
+3x- 2y+ 12= 0 4y= 3x2 A B
+AB
+ 
+(1) (2)
+(3) (4)
+Q9.Let  be the foot of the perpendicular from the point  on the line . Then the
+area of the right angled triangle , where  is the point , is
+(1) (2)
+(3) (4)
+Q10.Let the arc  of a circle subtend a right angle at the centre . If the point  on the arc , divides the arc
+ such that , and , then  is equal to
+(1) (2)
+(3) (4)
+Q11.Let  and . Then the domain of  is
+(1) (2)
+(3) (4)
+Q12.If the system of equations  has infinitely many solutions, then  is
+equal to
+(1) (2)
+(3) (4)
+Q13.The number of words, which can be formed using all the letters of the word "DAUGHTER", so that all the
+vowels never come together, is
+(1) (2)
+(3) (4)
+Q14.Let  be a relation defined on the set . Then the minimum number of
+elements, needed to be added in R so that R becomes an equivalence relation, is:
+(1) (2)
+(3) (4)
+Q15.Let the area of a  with vertices  and  be 35 square units. If its orthocenter and
+centroid are  and  respectively, then  is equal to
+(1) (2)
+(3) (4)
+Q16.The value of  is
+(1) (2)
+(3) (4)
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+tan-1(45) tan-1(97)
+tan-1(119 ) pi2 - tan-1(32)
+P Q(10,-3,-1) x-37 = y-2
+-1 = z+1-2
+PQR R (3,-2,1)
+9sqrt15 sqrt30
+8sqrt15 3sqrt30
+AC O B AC
+AC  lengthof arcAB
+ lengthof arcBC = 15 OC =alphaOA+betaOB- ?- ?- ? alpha+ sqrt2(sqrt3- 1)beta
+2sqrt3 2- sqrt3
+5sqrt3 2+ sqrt3
+f(x)= logex g(x)= x4-2x3+3x2-2x+2
+2x2-2x+1 f?g
+[0,? ) [1,? )
+(0,? ) R
+(?- 1)x+ (?- 4)y+?z= 5
+?x+ (?- 1)y+ (?- 4)z= 7
+(?+ 1)x+ (?+ 2)y- (?+ 2)z= 9
+?2+?
+6 10
+20 12
+36000 37000
+34000 35000
+R = {(1,2),(2,3),(3,3)} {1,2,3,4}
+10 7
+8 9
+?PQR P(5,4),Q(-2,4) R(a,b)
+O(2,145) C(c,d) c+ 2d
+83 73
+2 3
+integrale4
+e2 1x( e((logex)2+1)-1
+e((logex)2+1)-1
++e((6-logex)2+1)-1)dx
+2 loge2
+1 e2
+ 
+Q17.Let , be the equation of a circle with center at . If the area of the triangle, whose vertices
+are at the points  and  is 11 square units, then  equals:
+(1) (2)
+(3) (4)
+Q18.The value of  is
+(1) (2)
+(3) (4)
+Q19.Let . If , then  is equal to
+(1) (2)
+(3) (4)
+Q20.If , then  is equal to
+(1) (2)
+(3) (4)
+Q21.Let the circle  touch the line , have the centre on the positive x -axis, and cut off a chord of
+length  along the line . Let H be the hyperbola , whose one of the foci is the
+centre of  and the length of the transverse axis is the diameter of . Then  is equal to ______
+Q22.If the equation  has equal roots, where  and , then
+ is equal to
+Q23.If the set of all values of a, for which the equation  has three distinct real roots, is the
+interval , then  is equal to ______
+Q24.The sum of all rational terms in the expansion of  is equal to
+Q25.If the area of the larger portion bounded between the curves  and  is
+, then  is equal to
+Q26.A point particle of charge  is located at  along the axis of an electric dipole 1 at a distance  as shown in the
+figure. The point P is also on the equatorial plane of a second electric dipole 2 at a distance r . The dipoles are
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+ ?z-i2 ?z+i= 13,z?C
+? ?
+C
+(0,0),C (alpha,0) alpha2
+50 100
+8125 12125
+(sin70?)(cot10?cot70?- 1)
+2/3 1
+0 3/2
+I(x)= integral dx
+(x-11)
+1113(x+15)
+1513
+I(37)- I(24)= 14( 1
+ b
+113
+- 1
+c
+113
+),b,c? N 3( b+ c)
+22 39
+40 26
+pi2 <=x<= 3pi4 cos-1(1213cosx+ 513sinx)
+x- tan-1 43 x+ tan-1 45
+x- tan-1 512 x+ tan-1 512
+C x-y+ 1= 0
+4
+sqrt13 -3x+ 2y= 1 x2
+alpha2 - y2
+beta2 = 1
+C C 2alpha2+ 3beta2
+a(b- c)x2+ b(c- a)x+ c(a- b)= 0 a+ c= 15 b= 365
+a2+c2
+5x3- 15x-a= 0
+(alpha,beta) beta- 2alpha
+(1+ 21/2+ 31/2)6
+x2+y2 = 25 y= |x- 1|
+14(bpi+c),b,c?N b+c
+Q P r
+ 
+made of opposite charge q separated by a distance . For the charge particle at P not to experience any net
+force, which of the following correctly describes the situation? 
+(1) (2)
+(3) (4)
+Q27.A spherical surface of radius of curvature , separates air from glass (refractive index  ). The centre of
+curvature is in the glass medium. A point object '  ' placed in air on the optic axis of the surface, so that its
+real image is formed at '  ' inside glass. The line OI intersects the spherical surface at P and . The
+distance PO equals to
+(1) 5 R (2) 3 R
+(3) 1.5 R (4) 2 R
+Q28.The position of a particle moving on -axis is given by , where  is time.
+The dimension of  is
+(1) (2)
+(3) (4)
+Q29.Given a thin convex lens (refractive index  ), kept in a liquid (refractive index  ) having radii of
+curvatures  and . Its second surface is silver polished. Where should an object be placed on the optic
+axis so that a real and inverted image is formed at the same place?
+(1) (2)
+(3) (4)
+Q30.Refer to the circuit diagram given in the figure. which of the following observations are correct? A. Total
+resistance of circuit is  B. Current in Ammeter is 1 A C. Potential across  is 4 Volts. D. Potential across
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+2a
+ar? 10 ar? 20
+ar? 0.5 ar? 3
+R = 1.5
+O
+I PO = PI
+x x(t)=Asint+Bcos2t+Ct2+D t
+ABCD
+L2T-2 L2
+L L3 T -2
+?2 ?1,?1< ?2
+|R1| |R2|
+?1|R1|?|R2|
+?2(|R1|+|R2|)-?1|R2|
+?1|R1|?|R2|
+?2(|R1|+|R2|)-?1|R1|
+(?2+?1)|R1|
+(?2-?1)
+?1|R1|?|R2|
+?2(2|R1|+|R2|)-?1sqrt |R1|?|R2|
+6? AB
+ 
+CD is 4 Volts E. Total resistance of the circuit is . Choose the correct answer from the options given below:
+(1) A, B and D Only (2) A, B and C Only
+(3) A, C and D Only (4) B, C and E Only
+Q31.Given below are two statements: Statement I: The hot water flows faster than cold water Statement II: Soap
+water has higher surface tension as compared to fresh water. In the light above statements, choose the correct
+answer from the options given below
+(1) Statement I is true but Statement II is false (2) Statement I is false but Statement II is true
+(3) Both Statement I and Statement II are false (4) Both Statement I and Statement II are true
+Q32.Consider a circular disc of radius 20 cm with centre located at the origin. A circular hole of radius 5 cm is cut
+from this disc in such a way that the edge of the hole touches the edge of the disc. The distance of centre of
+mass of residual or remaining disc from the origin will be
+(1) 2.0 cm (2) 1.5 cm
+(3) 1.0 cm (4) 0.5 cm
+Q33.The electric flux is  where  and  are linear and surface charge density, respectively. 
+represents
+(1) electric field (2) area
+(3) charge (4) displacement
+Q34.A sub-atomic particle of mass  is moving with a velocity . Under the matter wave
+consideration, the particle will behave closely like  
+(1) Visible radiation (2) Gamma rays
+(3) Infra-red radiation (4) X-rays
+Q35.Consider a moving coil galvanomenter (MCG): A. The torsional constant in moving coil galvanometer has
+dimentions  B. Increasing the current sensitivity may not necessarily increase the voltage
+sensitivity. C. If we increase number of turns  to its double , then the voltage sensitivity doubles. D.
+MCG can be converted into an ammeter by introducing a shunt resistance of large value in parallel with
+galvanometer. E. Current sensitivity of MCG depends inversely on number of turns of coil. Choose the correct
+answer from the options given below:
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+8?
+?=alpha?+beta? ? ? (alphabeta)
+10-30 kg 2.21x 106 m/s
+(h= 6.63x 10-34 J .s)
+[M L2 T -2]
+(N) (2 N)
+ 
+(1) A, D Only (2) A, B, E Only
+(3) B, D, E Only (4) A, B Only
+Q36.
+(1) A-III, B-IV, C-I, D-II (2) A-I, B-IV, C-II, D-III
+(3) A-III, B-I, C-IV, D-II (4) A-I, B-III, C-II, D-IV
+Q37.The electric field of an electromagnetic wave in free space is
+. The associated magnetic field in Tesla is
+(1)
+(2)
+(3)
+(4)
+Q38.A gun fires a lead bullet of temperature 300 K into a wooden block. The bullet having melting temperature of
+600 K penetrates into the block and melts down. If the total heat required for the process is 625 J , then the
+mass of the bullet is  grams. (Latent heat of fusion of lead  and specific heat capacity
+of lead  
+(1) (2)
+(3) (4)
+Q39.What is the lateral shift of a ray refracted through a parallel-sided glass slab of thickness '  ' in terms of the
+angle of incidence '  ' and angle of refraction '  ', if the glass slab is placed in air medium?
+(1) (2)
+(3) h (4)
+Q40.A radioactive nucleus  has 3 times the decay constant as compared to the decay constant of another
+radioactive nucleus . If initial number of both nuclei are the same, what is the ratio of number of nuclei of
+ to the number of nuclei of , after one half-life of  ?
+(1) (2)
+(3) (4)
+Q41.A light hollow cube of side length 10 cm and mass 10 g , is floating in water. It is pushed down and released to
+execute simple harmonic oscillations. The time period of oscillations is , where the value of  is
+(Acceleration due to gravity, , density of water  )
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+ LIST -I   LIST -II 
+ A.   Pressurevariesinverselywithvolumeofanidealgas.   I.   Adiabaticprocess 
+ B.   Heatabsorbedgoespartlytoincreaseinternal
+ energyandpartlytodowork.   II.   Isochoricprocess 
+ C.   Heatisneitherabsorbednorreleasedbyasystem.   III.   Isothermalprocess 
+ D .   Noworkisdoneonorbyagas.   IV.   Isobaricprocess 
+?E = 57cos[7.5x 106t- 5x 10-3(3x+ 4y)](4^i- 3^j)N/C
+?B = 57
+3x108cos[7.5x 106t- 5x 10-3(3x+ 4y)](^k)
+?B = - 57
+3x108cos[7.5x 106t- 5x 10-3(3x+ 4y)](^k)
+?B = - 57
+3x108cos[7.5x 106t- 5x 10-3(3x+ 4y)](5^k)
+?B = 57
+3x108cos[7.5x 106t- 5x 10-3(3x+ 4y)](5^k)
+= 2.5x 104J K g-1
+= 125J K g-1K -1)
+10 20
+5 15
+h
+i r
+htan(i-r)
+tanr
+hsin(i-r)
+cosrhcos(i-r)
+sinr
+n2
+n1
+n2 n1 n1
+1/8 8
+4 1/4
+ypix 10-2 s y
+g= 10 m/s2 = 103 kg/m 3
+ 
+(1) (2)
+(3) (4)
+Q42.Regarding self-inductance: A. The self-inductance of the coil depends on its geometry. B. Self-inductance does
+not depend on the permeability of the medium. C. Self-induced e.m.f. opposes any change in the current in a
+circuit. D. Self-inductance is electromagnetic analogue of mass in mechanics. E. Work needs to be done
+against self-induced e.m.f. in establishing the current. Choose the correct answer from the options given
+below:
+(1)  only (2) B, C, D, E only
+(3)  only (4) A, B, C, D only
+Q43.The motion of an airplane is represented by velocity-time graph as shown below. The distance covered by
+airplane in the first 30.5 second is _______ km . 
+(1) (2)
+(3) (4)
+Q44.Identify the valid statements relevant to the given circuit at the instant when the key is closed.
+A. There will be no current through resistor . B. There will be maximum current in the connecting wires. C.
+Potential difference between the capacitor plates A and B is minimum. D. Charge on the capacitor plates is
+minimum. Choose the correct answer from the options given below:
+(1) A, C Only (2) A, B, D Only
+(3) C, D Only (4) B, C, D Only
+Q45.A solid sphere of mass '  ' and radius '  ' is allowed to roll without slipping from the highest point of an
+inclined plane of length '  ' and makes an angle  with the horizontal. The speed of the particle at the
+bottom of the plane is . If the angle of inclination is increased to  while keeping  constant. Then the
+new speed of the sphere at the bottom of the plane is . The ratio  is
+(1) (2)
+(3) (4)
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+6 2
+4 1
+A,B,C,E
+A,C,D ,E
+12 3
+6 9
+R
+m r
+L 30?
+v1 45? L
+v2 v21:v22
+1:sqrt2 1:sqrt3
+1:3 1:2
+ 
+Q46.A positive ion  and a negative ion  has charges  and , and masses
+ and  respectively. At an instant, the ions are separated by a certain distance r. At
+that instant the ratio of the magnitudes of electrostatic force to gravitational force is , where the value
+of 10  is  (Take  and universal gravitational constant as 
+)
+Assume that charge may not be an integral multiple of electrons.
+Q47.
+In the given circuit the sliding contact is pulled outwards such that electric current in the circuit changes at the
+rate of . At an instant when R is , the value of the current in the circuit will be ______ A.
+Q48.Two particles are located at equal distance from origin. The position vectors of those are represented by
+ and , respectively. If both the vectors are at right angle to each other,
+the value of  is _____ .
+Q49.An ideal gas initially at  temperature, is compressed suddenly to one fourth of its volume. If the ratio of
+specific heat at constant pressure to that at constant volume is , the change in temperature due to the
+thermodynamic process is _____ K.
+Q50.A force  acts on a particle in a plane . The work done by this force during a
+displacement from  to  is  Joule (round off to the nearest integer)
+Q51.Given below are two statements: Statement I: Fructose does not contain an aldehydic group but still reduces
+Tollen's reagent Statement II: In the presence of base, fructose undergoes rearrangement to give glucose. In the
+light of the above statements, choose the correct answer from the options given below
+(1) Both Statement I and Statement II are true (2) Both Statement I and Statement II are false
+(3) Statement I is true but Statement II is false (4) Statement I is true but Statement II is false
+Q52.The complex that shows Facial - Meridional isomerism is:
+(1) (2)
+(3) (4)
+Q53.  In the above diagram, the standard electrode potentials are given in
+volts (over the arrow). The value of  is
+(1) 2.1 V (2) 1 .7 V
+(3) 1 .4 V (4) 1 .2 V
+Q54.The element that does not belong to the same period of the remaining elements (modern periodic table) is:
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A B 6.67x 10-19C 9.6x 10-10C
+19.2x 10-27 kg 9x 10-27 kg
+Px 1045
+P 14pi?0 = 9x 109Nm 2C-1 6.67x 10-11Nm 2 kg-2
+8 A/s 12?
+ ?A= 2^i+ 3n^j+ 2^k  ?B= 2^i- 2^j+ 4p^k
+n-1
+0?C
+3/2
+f= x2y^i+ y2^j x+ y= 10
+(0,0) (4 m,2 m)
+1.[Co(en)2Cl2]+ [Co(en)3]3+
+[Co(NH 3)3Cl3] [Co(NH 3)4Cl2]+
+FeO2-4 Fe3+ Fe2+ Fe0+2.0v- ? 0.8v- ? -0.5v- ?
+EO
+FeO2-4 /Fe2+
+ 
+(1) Iridium (2) Platinum
+(3) Osmium (4) Palladium
+Q55.Match the LIST-I with LIST-II
+Choose the correct answer from the options given below:
+(1) A-IV, B-I, C-III, D-II (2) A-IV, B-II, C-I, D-III
+(3) A-II, B-IV, C-III, D-I (4) A-III, B-II, C-I, D-IV
+Q56.What amount of bromine will be required to convert 2 g of phenol into 2,4,6-tribromophenol? (Given molar
+mass in  of  are  respectively )
+(1) 20 .44 g (2) 4.0 g
+(3) 6.0 g (4) 10.22
+Q57.
+Which among the following react with Hinsberg's reagent? 
+Choose the correct answer from the options given below:
+(1) A, B and E Only (2) A, C and E Only
+(3) C and D Only (4) B and D Only
+Q58.The correct set of ions (aqueous solution) with same colour from the following is:
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+gmol-1 C,H,O,Br 12,1,16,80
+ 
+(1) (2)
+(3) (4)
+Q59.Given below are two statements: Statement I: In Lassaigne's test, the covalent organic molecules are
+transformed into ionic compounds. Statement II: The sodium fusion extract of an organic compound having N
+and S gives prussian blue colour with  and  In the light of the above statements, choose
+the correct answer from the options given below.
+(1) Statement I is true but Statement II is false (2) Both Statement I and Statement II are false
+(3) Both Statement I and Statement II are true (4) Statement I is false but Statement II is true
+Q60.Propane molecule on chlorination under photochemical condition gives two di-chloro products, " x " and " y ".
+Amongst " x " and " y ", " x " is an optically active molecule. How many tri-chloro products (consider only
+structural isomers) will be obtained from " x " when it is further treated with chlorine under the photochemical
+condition?
+(1) 2 (2) 5
+(3) 4 (4) 3
+Q61.  can exist as a complex. 0.1 molal aqueous solution of this complex shows a depression in
+freezing point of . Assuming  ionisation of this complex and coordination number of Cr is 6 , the
+complex will be (Given  )
+(1) (2)
+(3) (4)
+Q62.Which of the following happens when  is added gradually to the solution containing 1 M  and
+ ions? Given :  and  at 298 K .
+(1) Both  and  do not show
+precipitation with 
+(2)  will precipitate before 
+(3)  will precipitate before (4)  and  will precipitate together
+Q63.The major product of the following reaction is:  ?
+(1)
+ (2)
+(3)
+ (4)
+Q64.Ice at  is heated to become vapor with temperature of  at atmospheric pressure. The entropy
+change associated with this process can be obtained from
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+Sc3+,T i3+,Cr2+ V2+,Cr3+,M n3+
+T i4+,V4+,M n2+ Zn2+,V3+,Fe3+
+FeSO4 Na4[Fe(CN)6]
+CrCl3?xNH 3
+0.558?C 100%
+K f= 1.86 K  kg mol-1
+[Cr(NH 3)5Cl]Cl2 [Cr(NH 3)6]Cl3
+[Cr(NH 3)3Cl3] [Cr(NH 3)4Cl2]Cl
+NH 4OH A2+
+1M B3+ K sp[A(OH)2] = 9x 10-10 K sp[B(OH)3] = 27x 10-18
+A(OH)2 B(OH)3
+NH 4OH
+A(OH)2 B(OH)3
+B(OH)3 A(OH)2 A(OH)2 B(OH)3
+CH 3CH 2CH = O
+ excess HCHO alkali - ? reflux 
+-5?C 110?C
+ 
+(1)
+(2)
+(3)
+(4)
+Q65.The incorrect statement among the following is options .
+(1)  shows lower proton affinity than . (2)  can act as an oxidizing agent, but not as a
+reducing agent.
+(3)  exists but  does not. (4)  can dimerise easily.
+Q66.  of  is left after removing  molecules from its '  ' mg sample. The mass of  taken
+initially is Given: 
+(1) 98 .3 mg (2) 48.2 mg
+(3) 196 .2 mg (4) 150 .4 mg
+Q67.Match the LIST-I with LIST-II
+Choose the correct answer from the options given below:
+(1) A-II, B-I, C-III, D-IV (2) A-II, B-III, C-I, D-IV
+(3) A-IV, B-I, C-III, D-II (4) A-IV, B-III, C-I, D-II
+Q68.Heat treatment of muscular pain involves radiation of wavelength of about 900 nm . Which spectral line of H
+atom is suitable for this? Given : Rydberg constant  )
+(1) Balmer series, (2) Lyman series, 
+(3) Paschen series, (4) Paschen series, 
+Q69.The d- electronic configuration of an octahedral Co(II) complex having magnetic moment of 3.95 BM is:
+(1) (2)
+(3) (4)
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+1
+PH 3 NH 3 SO2
+PF3 NF5 NO2
+2.8x 10-3 mol CO2 1021 x CO2
+NA = 6.02x 1023 mol-1
+RH = 105 cm -1, h= 6.6x 10-34 J  s,c= 3x 108 m/s
+? ? 2 ? ? 1
+? ? 3 5? 3
+t2 g3eg0 t2 g6eg1
+t2 g5eg2 e4t23
+ 
+Q70.The correct stability order of the following species/molecules is:
+(1) (2)
+(3) (4)
+Q71.  The standard enthalpy and standard entropy of decomposition of  to  are  and
+ respectively. The standard free energy change for this reaction at  in J  is ______
+(Nearest integer)
+Q72.For the thermal decomposition of  at constant volume, the following table can be formed, for the
+reaction mentioned below.  
+ Given : Rate constant for the reaction is .
+Q73.During " S " estimation, 160 mg of an organic compound gives 466 mg of barium sulphate. The percentage of
+Sulphur in the given compound is _______ %. (Given molar mass in  of  )
+Q74.If 1 mM solution of ethylamine produces , then the ionization constant  of ethylamine is .
+The value of  is ______ (nearest integer). [The degree of ionization of ethylamine can be neglected with
+respect to unity.]
+Q75.Consider the following sequence of reactions to produce major product (A)
+Molar mass of product  is  . (Given molar mass in  of
+ )
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+q> r> p r> q> p
+q> p> r p> q> r
+1 N2O4 NO2 55.0 kJ  mol-1
+175.0 J /K /mol 25?C mol-1
+N2O5( g)
+2 N2O5( g)? 2 N2O4( g)+ O2( g)
+x= ... x 10-3 atm [nearestinteger]  4.606x 10-2 s-1
+gmol-1 Ba:137, S :32,O :16-
+pH = 9 (K b) 10-x
+x
+(A) gmol-1 gmol-1
+C :12,H :1,O :16,Br:80, N:14,P :31
+ 
+ANSWER KEYS
+1. (1) 2. (2) 3. (4) 4. (4) 5. (3) 6. (3) 7. (4) 8. (2)
+9. (4) 10. (2) 11. (4) 12. (4) 13. (1) 14. (2) 15. (4) 16. (3)
+17. (2) 18. (2) 19. (2) 20. (3) 21. (19) 22. (117) 23. (30) 24. (612)
+25. (77) 26. (4) 27. (1) 28. (1) 29. (1) 30. (1) 31. (1) 32. (3)
+33. (4) 34. (4) 35. (4) 36. (1) 37. (3) 38. (1) 39. (2) 40. (4)
+41. (2) 42. (3) 43. (1) 44. (4) 45. (1) 46. (5) 47. (3) 48. (3)
+49. (273) 50. (152) 51. (1) 52. (3) 53. (2) 54. (4) 55. (2) 56. (4)
+57. (2) 58. (2) 59. (1) 60. (4) 61. (1) 62. (3) 63. (1) 64. (2)
+65. (2) 66. (3) 67. (4) 68. (3) 69. (3) 70. (1) 71. (2850) 72. (897)
+73. (40) 74. (7) 75. (171)
+ 
+2025 (23 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo

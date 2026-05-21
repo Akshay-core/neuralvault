@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0b1220" />
+  <g transform="translate(100,120)" fill="#60a5fa" font-family="Arial">
+    <circle cx="200" cy="80" r="28" fill="#60a5fa"/>
+    <text x="235" y="85" fill="#e6eef8">Memory Graph</text>
+    <circle cx="360" cy="40" r="18" fill="#7dd3fc"/>
+    <circle cx="360" cy="120" r="18" fill="#7dd3fc"/>
+    <circle cx="520" cy="80" r="22" fill="#38bdf8"/>
+    <line x1="228" y1="80" x2="342" y2="60" stroke="#60a5fa" stroke-width="2"/>
+    <line x1="228" y1="80" x2="342" y2="120" stroke="#60a5fa" stroke-width="2"/>
+    <line x1="382" y1="60" x2="502" y2="80" stroke="#60a5fa" stroke-width="2"/>
+  </g>
+</svg>

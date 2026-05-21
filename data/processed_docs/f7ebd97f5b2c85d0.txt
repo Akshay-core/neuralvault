@@ -1,0 +1,585 @@
+Q1.Let  and . If  and the sum of the
+diagonal elements of  is , where , then  is :
+(1) (2)
+(3) (4)
+Q2.If the components of  along and perpendicular to  respectively, are
+ and , then  is equal to :
+(1) (2)
+(3) (4)
+Q3.Let A, B, C be three points in -plane, whose position vector are given by  and 
+respectively with respect to the origin O . If the distance of the point C from the line bisecting the angle between
+the vectors  and  is , then the sum of all the possible values of  is :
+(1) (2)
+(3) (4)
+Q4.Let the coefficients of three consecutive terms  and  in the binomial expansion of  be in a
+G.P. and let  be the number of all possible values of . Let  be the sum of all rational terms in the binomial
+expansion of . Then  is equal to :
+(1) (2)
+(3) (4)
+Q5.Let  denote the greatest integer less than or equal to . Then the domain of  is :
+(1) (2)
+(3) (4)
+Q6.Let S be the set of all the words that can be formed by arranging all the letters of the word GARDEN. From the
+set S, one word is selected at random. The probability that the selected word will NOT have vowels in
+alphabetical order is :
+(1) (2)
+(3) (4)
+Q7.If , then  is equal to :
+(1) (2)
+(3) (4)
+Q8.Let  be a real valued continuous function defined on the positive real axis such that . If
+, then value of  is :
+(1) (2)
+(3) (4)
+Q9.Let  A be defined by  and  be defined by
+. If both the functions are onto and  or , then  is equal to :
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A= [ ]
+1
+sqrt2 -2
+0 1 P= [ ],theta> 0costheta- sintheta
+sintheta costheta B = PAPT ,C = PT B10P
+C m
+n gcd(m,n)= 1 m + n
+127 258
+65 2049
+?a=alpha^i+beta^j+gamma^k ?b= 3^i+ ^j- ^k
+1611(3^i+ ^j- ^k) 111(-4^i- 5^j- 17^k) alpha2+beta2+gamma2
+26 18
+23 16
+xy sqrt3^i+ ^j,^i+ sqrt3^j a^i+ (1- a)^j
+OA- ? OB- ? 9
+sqrt2 a
+2 9/2
+1 0
+Tr,Tr+1 Tr+2 (a+b)12
+p r q
+(4sqrt3+ 3sqrt4)12 p+ q
+283 287
+295 299
+[x] x f(x)= sec-1(2[x]+ 1)
+(-? ,-1]?[0,? ) (-? ,-1]?[1,? )
+(-? ,? ) (-? ,? )- {0}
+12 1423 13
+sum 13r=1{ 1
+sin(pi4+(r-1)pi6)sin(pi4+ rpi6)}=asqrt3+b,a,b? Z a2+b2
+10 4
+2 8
+f g(x)= integralx
+0tf(t)dt
+g(x3)=x6+x7 sum 15
+r=1f(r3)
+270 340
+320 310
+f:[0,3]? f(x)= 2x3- 15x2+ 36x+ 7 g:[0,? )? B
+g(x)= x2025
+x2025+1 S = {x? Z:x?  A x?  B} n(S)
+(1) (2)
+(3) (4)
+Q10.Bag  contains 6 white and 4 blue balls, Bag  contains 4 white and 6 blue balls, and Bag  contains 5
+white and 5 blue balls. One of the bags is selected at random and a ball is drawn from it. If the ball is white,
+then the probability, that the ball is drawn from Bag , is :
+(1) (2)
+(3) (4)
+Q11.Let  be a twice differentiable function such that . If  for all ,
+ and , then  is equal to :
+(1) (2)
+(3) (4)
+Q12.For positive integers , if  and , then the value of  is :
+(1) (2)
+(3) (4)
+Q13.Let  be a polynomial of degree 2, satisfying . If
+, then the sum of squares of all possible values of  is :
+(1) (2)
+(3) (4)
+Q14.If  and  are the points of intersection of the circle  and the hyperbola  and a
+point P moves on the line , then the centroid of  lies on the line :
+(1) (2)
+(3) (4)
+Q15.If , then  is equal to :
+(1) (2)
+(3) (4)
+Q16.The area of the region bounded by the curves  and  is:
+(1) (2)
+(3) (4)
+Q17.The square of the distance of the point  from the line  in the direction of the
+vector  is :
+(1) (2)
+(3) (4)
+Q18.If the midpoint of a chord of the ellipse  is , and the length of the chord is , then 
+is :
+(1) (2)
+(3) (4)
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+29 30
+31 36
+B1 B2 B3
+B2
+415 1325 23
+f:R? R f(2)= 1 F(x)=xf(x) x? R
+integral2
+0x F?(x)dx= 6 integral2
+0x2 F??(x)dx= 40 F?(2)+ integral2
+0 F(x)dx
+11 13
+15 9
+n 4an= (n2+ 5n+ 6) Sn= sum nk=1( 1ak) 507S2025
+540 675
+1350 135
+f:R- {0}? (-? ,1) f(x)f(1x)=f(x)+f(1x)
+f(K)= -2K K
+7 6
+1 9
+A B x2+y2- 8x= 0 x2
+9 - y2
+4 = 1
+2x- 3y+ 4= 0 ?PAB
+x+ 9y= 36 4x- 9y= 12
+6x- 9y= 20 9x- 9y= 32
+f(x)= integral 1
+x1/4(1+x1/4)dx,f(0)= -6 f(1)
+4(loge2- 2) 2- loge22
+loge2+ 2 4(loge2+ 2)
+x(1+y2)= 1 y2= 2x
+2(pi2 - 13) pi2 - 13pi4 - 13 12(pi2 - 13)
+(157,327,7) x+13 = y+3
+5 = z+57
+^i+ 4^j+ 7^k
+54 44
+41 66
+x2
+9 + y2
+4 = 1 (sqrt2,4/3) 2sqrtalpha
+3 alpha
+20 22
+18 26
+Q19.If  and  are the roots of , then  is equal to :
+(1) (2)
+(3) (4)
+Q20.Two equal sides of an isosceles triangle are along  and . If m is the slope of its third
+side, then the sum, of all possible distinct values of , is :
+(1) (2)
+(3) (4)
+Q21.Let A and B be the two points of intersection of the line  and the mirror image of the parabola
+ with respect to the line . If d denotes the distance between A and B , and a denotes the
+area of , where  is the focus of the parabola , then the value of  is  -
+Q22.The number of natural numbers, between 212 and 999 , such that the sum of their digits is 15 , is
+Q23.If  is the solution of the differential equation,
+, then  is equal to
+Q24.The interior angles of a polygon with n sides, are in an A.P. with common difference . If the largest interior
+angle of the polygon is , then n is equal to
+Q25.Let . Then  is equal to
+Q26.
+A bar magnet has total length  units and the field point  is at a distance  units from the centre
+of the magnet. If the relative uncertainty of length measurement is , then uncertainty of the magnetic field at
+point P is :
+(1) (2)
+(3) (4)
+Q27.A concave mirror produces an image of an object such that the distance between the object and image is 20 cm
+. If the magnification of the image is ' -3 ', then the magnitude of the radius of curvature of the mirror is :
+(1) (2)
+(3) (4)
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+alpha+ibeta gamma+i? x2- (3- 2i)x- (2i- 2)= 0,i= sqrt-1 alphagamma+beta?
+-2 6
+-6 2
+-x+ 2y= 4 x+y= 4
+m
+-2sqrt10 12
+6 -6
+y+ 5= 0
+y2= 4x x+y+ 4= 0
+?SAB S y2= 4x (a+d)
+y=y(x)
+sqrt4-x2  dy
+ dx= ((sin-1(x2))2-y)sin-1(x2),-2<=x<= 2,y(2)= pi2-84 y2(0)
+6?
+219?
+f(x)= limn? ? sum nr=0(tan(x/2r+1)+tan3(x/2r+1)
+1-tan2(x/2r+1) ) limx? 0 ex-ef(x)
+(x-f(x))
+2l= 20 P d= 10
+1%
+4% 15%
+5% 10%
+30 cm 3.75 cm
+15 cm 7.5 cm
+Q28.The velocity-time graph of an object moving along a straight line is shown in figure. What is the distance
+covered by the object between  to  ?
+(1) (2)
+(3) (4)
+Q29.A body of mass 4 kg is placed on a plane at a point P having coordinate . Under the action of force
+, it moves to a new point Q having coordinates  in 4 sec . The average power and
+instanteous power at the end of 4 sec are in the ratio of :
+(1) (2)
+(3) (4)
+Q30.Match List - I with List - II.
+(1)(A)-(II), (B)-(I), (C)-(IV), (D)-(III) (2)(A)-(I), (B)-(III), (C)-(IV), (D)-(II)
+(3)(A)-(III), (B)-(I), (C)-(II), (D)-(IV) (4)(A)-(III), (B)-(I), (C)-(IV), (D)-(II)
+Q31.A uniform magnetic field of 0.4 T acts perpendicular to a circular copper disc 20 cm in radius. The disc is
+having a uniform angular velocity of  about an axis through its centre and perpendicular to the disc.
+What is the potential difference developed between the axis of the disc and the rim ? 
+(1) (2)
+(3) (4)
+Q32.
+An infinite wire has a circular bend of radius a, and carrying a current I as shown in figure. The magnitude of
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+t= 0 t= 4 s
+30 m 11 m
+10 m 13 m
+(3,4)m
+?F = (2^i+ 3^j)N (6,10)m
+13:6 4:3
+1:2 6:13
+10pirads-1
+(pi= 3.14)
+0.5024 V  V
+0.2512V V 0.1256V V
+magnetic field at the origin  of the arc is given by :
+(1) (2)
+(3) (4)
+Q33.In a long glass tube, mixture of two liquids A and B with refractive indices 1.3 and 1.4 respectively, forms a
+convex refractive meniscus towards . If an object placed at 13 cm from the vertex of the meniscus in A forms
+an image with a magnification of '  then the radius of curvature of meniscus is :
+(1) (2)
+(3) (4)
+Q34.A 400 g solid cube having an edge of length 10 cm floats in water. How much volume of the cube is outside the
+water ? (Given : density of water  )
+(1) (2)
+(3) (4)
+Q35.Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A) : Knowing initial position  and initial momentum  is enough to determine the position and
+momentum at any time  for a simple harmonic motion with a given angular frequency . Reason (R): The
+amplitude and phase can be expressed in terms of  and . In the light of the above statements, choose the
+correct answer from the options given below :
+(1)(A) is false but (R) is true (2)(A) is true but (R) is false
+(3)Both (A) and (R) are true but (R) is NOT the
+correct explanation of (A)
+(4)Both  and  are true and  is the correct
+explanation of 
+Q36.A uniform rod of mass 250 g having length 100 cm is balanced on a sharp edge at 40 cm mark. A mass of 400 g
+is suspended at 10 cm mark. To maintain the balance of the rod, the mass to be suspended at 90 cm mark, is
+(1) (2)
+(3) (4)
+Q37.Earth has mass 8 times and radius 2 times that of a planet. If the escape velocity from the earth is ,
+the escape velocity in  from the planet will be :
+(1) (2)
+(3) (4)
+Q38.The magnetic field of an E.M. wave is given by  (S.I. Units). The
+corresponding electric field in S.I. units is :
+(1) (2)
+(3) (4)
+Q39.The kinetic energy of translation of the molecules in 50 g of  gas at  is
+(1)4205.5 J (2)4102.8 J
+(3)3582.7 J (4)3986.3 J
+Q40.Which of the following phenomena can not be explained by wave theory of light?
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+O
+?0
+4piIa[pi2 + 1] ?0
+4piIa[3pi2 + 2]
+?0
+2piIa[pi2 + 2] ?0
+4piIa[3pi2 + 1]
+A
+-2?
+13 cm 43 cm
+1 cm 2
+3 cm
+= 1000 kg m-3
+1400 cm3 600 cm3
+4000 cm3 400 cm3
+x0 p0
+t ?
+x0 p0
+(A) (R) (R)
+(A)
+190 g 200 g
+300 g 290 g
+11.2 km/s
+km/s
+2.8 11.2
+5.6 8.4
+?B = (sqrt32 ^i+ 12^j)30sin[?(t- zc)]
+?E = (12^i- sqrt32 ^j)30csin[?(t- zc)] ?E = (34^i+ 14^j)30ccos[?(t- zc)]
+?E = (12^i+ sqrt32 ^j)30csin[?(t+ zc)] ?E = (sqrt32 ^i- 12^j)30csin[?(t+ zc)]
+CO2 17?C
+(1)Compton effect (2)Refraction of light
+(3)Reflection of light (4)Diffraction of light
+Q41.A balloon and its content having mass  is moving up with an acceleration '  '. The mass that must be
+released from the content so that the balloon starts moving up with an acceleration '  will be (Take ' g ' as
+acceleration due to gravity)
+(1) (2)
+(3) (4)
+Q42.The ratio of vapour densities of two gases at the same temperature is , then the ratio of r.m.s. velocities will
+be:
+(1) (2)
+(3) (4)
+Q43.A parallel plate capacitor of capacitance  is charged to a potential difference of 20 V . The distance
+between plates is . The energy density between plates of capacitor is.
+(1) (2)
+(3) (4)
+Q44.The frequency of revolution of the electron in Bohr's orbit varies with , the principal quantum number as
+(1) (2)
+(3) (4)
+Q45.
+In the circuit shown here, assuming threshold voltage of diode is negligibly small, then voltage  is
+correctly represented by :
+(1)  would be zero at all times (2)
+(3)
+ (4)
+Q46.A thin transparent film with refractive index 1.4 , is held on circular ring of radius 1.8 cm . The fluid in the film
+evaporates such that transmission through the film at wavelength 560 nm goes to a minimum every 12 seconds.
+Assuming that the film is flat on its two sides, the rate of evaporation is ____ .
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+M a
+3a?
+2M a3a+g 3M a2a-g
+3M a2a+g 2M a3a-g
+425
+254 25
+52 425
+1? F
+1? m
+2x 10-4 J /m3 1.8x 105 J /m3
+1.8x 103 J /m3 2x 102 J /m3
+n
+1
+n4
+1
+n2
+1n 1
+n3
+VAB
+VAB
+pix 10-13 m3/s
+Q47.The value of current I in the electrical circuit as given below, when potential at A is equal to the potential at B,
+will be ____ A. 
+Q48.An electric dipole of dipole moment  is placed in uniform electric field of magnitude .
+Initially, the dipole moment is parallel to electric field. The work that needs to be done on the dipole to make
+its dipole moment opposite to the field, will be ____ J.
+Q49.
+A conducting bar moves on two conducting rails as shown in the figure. A constant magnetic field B exists into
+the page. The bar starts to move from the vertex at time  with a constant velocity. If the induced EMF is
+, then value of n is _.
+Q50.The volume contraction of a solid copper cube of edge length 10 cm , when subjected to a hydraulic pressure
+of , would be ____ . (Given bulk modulus of copper  )
+Q51.Concentrated nitric acid is labelled as  by mass. The volume in mL of the solution which contains 30 g of
+nitric acid is ____. Given : Density of nitric acid solution is .
+(1) (2)
+(3) (4)
+Q52.
+Given below are two statements : Statement (I) :
+are isomeric compounds.Statement (II) :
+are functional group isomers.
+(1)Both Statement (I) and Statement (II) are false. (2)Both Statement (I) and Statement (II) are true.
+(3)Statement (I) is false but Statement (II) is true. (4)Statement (I) is true but Statement (II) is false.
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+6x 10-6Cm 106 V/m
+t= 0
+E ? tn
+7x 106 Pa mm3 = 1.4x 1011 N m-2
+75%
+1.25 g/mL
+40 32
+45 55
+Q53.Identify product  and  in the following reaction sequence.
+(1)
+(2)
+(3)
+(4)
+Q54.The total number of compounds from below when treated with hot  giving benzoic acid is :
+(1) (2)
+(3) (4)
+Q55.Match List - I with List - II.
+Choose the correct answer from the options given below :
+(1)(A)-(I), (B)-(IV), (C)-(III), (D)-(II) (2)(A)-(I), (B)-(II), (C)-(III), (D)-(IV)
+(3)(A)-(III), (B)-(IV), (C)-(I), (D)-(II) (4)(A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+Q56.Identify correct statements : (A) Primary amines do not give diazonium salts when treated with  in
+acidic condition. (B) Aliphatic and aromatic primary amines on heating with  and ethanolic KOH form
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+[A],[B] [C]
+KM nO4
+6 3
+5 4
+NaNO2
+CHCl3
+carbylamines. (C) Secondary and tertiary amines also give carbylamine test. (D) Benzenesulfonyl chloride is
+known as Hinsberg's reagent. (E) Tertiary amines reacts with benzenesulfonyl chloride very easily. Choose the
+correct answer from the options given below :
+(1)(A) and (B) only (2)(D) and (E) only
+(3)(B) and (D) only (4)(B) and (C) only
+Q57.For bacterial growth in a cell culture, growth law is very similar to the law of radioactive decay. Which of the
+following graphs is most suitable to represent bacterial colony growth ? Where N - Number of Bacteria at any
+time,  - Initial number of Bacteria.
+(1)
+ (2)
+(3)
+ (4)
+Q58.The amphoteric oxide among  and , upon reaction with alkali leads to formation of an oxide
+anion. The oxidation state of V in the oxide anion is :
+(1) (2)
+(3) (4)
+Q59.Arrange the following in increasing order of solubility product : 
+(1) (2)
+(3) (4)
+Q60.The purification method based on the following physical transformation is :
+(1)Distillation (2)Extraction
+(3)Sublimation (4)Crystallization
+Q61.Which of the following is/are not correct with respect to energy of atomic orbitals of hydrogen atom? (A)
+ (B)  (C)  (D) 
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+N0
+V2O3, V2O4 V2O5
++3 +4
++7 +5
+Ca(OH)2,AgBr,PbS,HgS
+HgS < AgBr< PbS < Ca(OH)2 Ca(OH)2< AgBr< HgS < PbS
+PbS < HgS < Ca(OH)2< AgBr HgS < PbS < AgBr< Ca(OH)2
+1 s< 2p< 3 d< 4 s 1 s< 2 s= 2p< 3 s= 3p 1 s< 2 s< 2p< 3 s< 3p 1 s< 2 s< 4 s< 3 d
+Choose the correct answer from the options given below :
+(1)(A) and (C) only (2)(B) and (D) only
+(3)(C) and (D) only (4)(A) and (B) only
+Q62.Consider an elementary reaction  If the volume of reaction mixture is suddenly
+reduced to  of its initial volume, the reaction rate will become '  ' times of the original reaction rate. The
+value of  is :
+(1) (2)
+(3) (4)
+Q63.The product  formed in the following reaction sequence is :
+(1)
+ (2)
+(3)
+ (4)
+Q64.Assume a living cell with  of glucose solution (aqueous). This cell is immersed in another solution
+having equal mole fraction of glucose and water. (Consider the data upto first decimal place only) The cell will
+:
+(1)show no change in volume since solution is (2)shrink since solution is 
+(3)swell up since solution is (4)None of these
+Q65.Given below are two statements : Statement (I): According to the Law of Octaves, the elements were arranged
+in the increasing order of their atomic number. Statement (II): Meyer observed a periodically repeated pattern
+upon plotting physical properties of certain elements against their respective atomic numbers. In the light of the
+above statements, choose the correct answer from the options given below :
+(1)Both Statement (I) and Statement (II) are false. (2)Both Statement (I) and Statement (II) are true.
+(3)Statement (I) is false but Statement (II) is true. (4)Statement (I) is true but Statement (II) is false.
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A(g)+ B(g)? C(g)+ D (g)
+13 x
+x
+3 19
+9 13
+B
+0.9%(?/?)
+0.9%(?/?)
+0.5%(?/?)
+1%(?/?)
+Q66.
+Match List - I with List - II. 
+Choose the correct answer from the options given below :
+(1)(A)-(IV), (B)-(II), (C)-(I), (D)-(III) (2)(A)-(I), (B)-(II), (C)-(III), (D)-(IV)
+(3)(A)-(III), (B)-(I), (C)-(IV), (D)-(II) (4)(A)-(II), (B)-(IV), (C)-(III), (D)-(I)
+Q67.
+An ideal gas undergoes a cyclic transformation starting from the point  and coming back to the same point by
+tracing the path  as shown in the three cases above. Choose the correct option
+regarding  :
+(1)  Case-I  Case-II  Case-III (2)  Case-I  Case-III  Case-II
+(3)  Case-III  Case-II  Case-I (4)  Case-I  Case-II  Case-III
+Q68.Identify the inorganic sulphides that are yellow in colour : (A)  (B)  (C)  (D)  (E)
+ Choose the correct answer from the options given below :
+(1)(A), (D) and (E) only (2)(D) and (E) only
+(3)(A) and (B) only (4)(A) and (C) only
+Q69.The major product of the following reaction is :
+(1)2-Phenylhepta-2,5-diene (2)6-Phenylhepta-2,4-diene
+(3)6-Phenylhepta-3,5-diene (4)2-Phenylhepta-2,4-diene
+Q70.Identify correct conversion during acidic hydrolysis from the following : (A) starch gives galactose. (B) cane
+sugar gives equal amount of glucose and fructose. (C) milk sugar gives glucose and galactose. (D) amylopectin
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A
+A ? B ? C ? D ? A
+?U
+?U ( )= ?U ( )= ?U (
+)
+?U ( )> ?U ( )> ?U (
+)
+?U ( )> ?U ( )> ?U (
+)
+?U ( )> ?U ( )> ?U (
+)
+(NH 4)2 S Pbs Cus As2 S3
+As2 S5
+gives glucose and fructose. (E) amylose gives only glucose. Choose the correct answer from the options given
+below :
+(1)(A), (B) and (C) only (2)(B), (C) and (E) only
+(3)(C), (D) and (E) only (4)(B), (C) and (D) only
+Q71.Electrolysis of 600 mL aqueous solution of NaCl for 5 min changes the pH of the solution to 12 . The current
+in Amperes used for the given electrolysis is ____. (Nearest integer).
+Q72.A group 15 element forms  bond with transition metals. It also forms hydride, which is a strongest
+base among the hydrides of other group members that form  bond. The atomic number of the element
+is ____.
+Q73.Total number of molecules/species from following which will be paramagnetic is ______
+Q74.Consider the following data : Heat of formation of  Heat of formation of
+ Heat of combustion of benzene  The heat of formation of
+benzene is _ . (Nearest integer)
+Q75.The spin only magnetic moment (  ) value (B.M.) of the compound with strongest oxidising power among
+ and VO is ____ B.M. (Nearest integer).
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+dpi- dpi
+dpi- dpi
+O2,O+2,O-2,NO,NO2,CO,K2[NiCl4],[Co(NH 3)6]Cl3, K2[Ni(CN)4]
+CO2( g)= -393.5 kJ  mol-1
+H 2O(l)= -286.0 kJ  mol-1 = -3267.0 kJ  mol-1
+kJ mol-1
+?
+M n2O3,T iO
+ 
+ANSWER KEYS
+1. (3) 2. (1) 3. (3) 4. (1) 5. (3) 6. (1) 7. (4) 8. (4)
+9. (2) 10. (1) 11. (1) 12. (2) 13. (2) 14. (3) 15. (1) 16. (2)
+17. (4) 18. (2) 19. (4) 20. (3) 21. (14) 22. (64) 23. (4) 24. (20)
+25. (1) 26. (1) 27. (3) 28. (1) 29. (4) 30. (4) 31. (3) 32. (4)
+33. (4) 34. (2) 35. (4) 36. (1) 37. (3) 38. (1) 39. (2) 40. (1)
+41. (1) 42. (3) 43. (3) 44. (4) 45. (4) 46. (54) 47. (2) 48. (12)
+49. (1) 50. (50) 51. (2) 52. (2) 53. (3) 54. (3) 55. (4) 56. (3)
+57. (3) 58. (4) 59. (4) 60. (3) 61. (3) 62. (3) 63. (4) 64. (4)
+65. (3) 66. (3) 67. (1) 68. (1) 69. (4) 70. (2) 71. (2) 72. (15)
+73. (6) 74. (48) 75. (5)
+ 
+2025 (28 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo

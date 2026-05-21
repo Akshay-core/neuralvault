@@ -1,0 +1,701 @@
+ 
+Q1.The distance of the line  from the point  along the line  is :
+(1) (2)
+(3) (4)
+Q2.Let  and . If
+ or , then  is :
+(1) 15 (2) 24
+(3) 18 (4) 12
+Q3.Let . Define a relation  on  as :  Statement I :  is an
+equivalence relation. Statement II : For some , the set  represents a
+line parallel to . In the light of the above statements, choose the correct answer from the options given
+below :
+(1) Both Statement I and Statement II are false (2) Statement I is true but Statement II is false
+(3) Both Statement I and Statement II are true (4) Statement I is false but Statement II is true
+Q4.Let , where  is the constant of integration. If
+, then  equals :
+(1) 48 (2) 55
+(3) 62 (4) 47
+Q5.A rod of length eight units moves such that its ends  and  always lie on the lines  and
+, respectively. If the locus of the point , that divides the rod  internally in the ratio  is
+, then  is equal to :
+(1) 22 (2) 21
+(3) 23 (4) 24
+Q6.If the square of the shortest distance between the lines  and  is , where
+ are coprime numbers, then  is equal to :
+(1) 21 (2) 9
+(3) 14 (4) 6
+Q7.  is equal to :
+(1) (2)
+(3) (4)
+Q8.Let the point A divide the line segment joining the points  and  internally in the ratio
+. If O is the origin and , then the value of r is :
+(1) (2) 14
+(3) 3 (4) 7
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+x-22 = y-6
+3 = z-34 (1,4,0) x1 = y-2
+2 = z+33
+sqrt17 sqrt15
+sqrt14 sqrt13
+A = {(x,y)? Rx R:|x+y|?3} B = {(x,y)? Rx R:|x|+ |y|<= 3}
+C = {(x,y)? A ?B :x= 0 y= 0} sum (x,y)?C |x+y|
+X= Rx R R X (a1,b1)R (a2,b2)? b1=b2 R
+(a,b)?X S= {(x,y)?X:(x,y)R(a,b)}
+y=x
+integralx3sinx dx=g(x)+C C
+8(g(pi2)+g?(pi2))=alphapi3+betapi2+gamma,alpha,beta,gamma?Z alpha+beta-gamma
+A B x-y+ 2= 0
+y+ 2= 0 P AB 2:1
+9(x2+alphay2+betaxy+gammax+ 28y)- 76= 0 alpha-beta-gamma
+x-21 = y-1
+2 = z+3-3 x+12 = y+3
+4 = z+5-5 mn
+m,n m + n
+limx? ? (2x2-3x+5)(3x-1)
+x2
+(3x2+5x+4)sqrt (3x+2)x
+2
+sqrt3e
+2e
+sqrt3
+2
+3sqrte
+2e3
+P(-1,-1,2) Q(5,5,10)
+r:1(r> 0) (OQ ?OA)- 15|OP x OA|2= 10- ?- ?- ?- ?
+sqrt7
+ 
+Q9.The length of the chord of the ellipse , whose mid-point is , is :
+(1) (2)
+(3) (4)
+Q10.
+The system of equations  has no solution if
+(1) (2)
+(3) (4)
+Q11.Let the range of the function  be 
+. Then the distance of the point  from the line  is :
+(1) 11 (2) 8
+(3) 10 (4) 9
+Q12.Let  be the solution of the differential equation  and . Then
+ is equal to :
+(1) (2)
+(3) (4)
+Q13.A spherical chocolate ball has a layer of ice-cream of uniform thickness around it. When the thickness of the
+ice-cream layer is 1 cm , the ice-cream melts at the rate of  and the thickness of the ice-cream
+layer decreases at the rate of . The surface area (in  ) of the chocolate ball (without the ice-
+cream layer) is :
+(1) (2)
+(3) (4)
+Q14.The number of complex numbers , satisfying  and , is :
+(1) 4 (2) 8
+(3) 10 (4) 6
+Q15.
+Let  be  matrix such that  and , then  equals :
+(1) -1 (2) 2
+(3) 1 (4) 0
+Q16.If , then  equals :
+(1) (2)
+(3) (4)
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+x2
+4 + y2
+2 = 1 (1,1
+2)
+53sqrt15 13sqrt15
+23sqrt15 sqrt15
+x+y+z= 6
+x+ 2y+ 5z= 9,
+x+ 5y+?z=?,
+?= 15,?!= 17 ?!= 17,?!= 18
+?= 17,?!= 18 ?= 17,?= 18
+f(x)= 6+ 16cosx?cos(pi
+3-x)?cos(pi
+3+x)?sin3x?cos6x,x? R [alpha,beta]
+(alpha,beta) 3x+ 4y+ 12= 0
+x=x(y) y= (x-y dx dy)sin(xy),y> 0 x(1)= pi2
+cos(x(2))
+1- 2(loge2)2 1- 2(loge2)
+2(loge2)- 1 2(loge2)2- 1
+81 cm3/min
+14pi cm/min cm2
+196pi 256pi
+225pi 128pi
+z |z|= 1 z
+ ?z+  ?z
+z = 1
+? ?
+A= [aij] 3x 3 A = ,A =?
+?
+?
+0
+1
+0
+?
+?
+?
+?
+?
+?
+0
+0
+1
+?
+?
+?
+?
+?
+?
+4
+1
+3
+?
+?
+?
+?
+?
+?
+0
+1
+0
+?
+?
+? A =?
+?
+?
+2
+1
+2
+?
+?
+?
+?
+?
+?
+1
+0
+0
+?
+?
+? a23
+I= integral
+pi2
+0 sin
+32x
+sin
+32x+cos
+32x
+ dx integral21
+0 xsinxcosx
+sin4x+cos4x dx
+pi2
+12 pi2
+4pi2
+16 pi2
+8
+ 
+Q17.A board has 16 squares as shown in the figure:
+Out of these 16 squares, two squares are chosen at random. The probability that they have no side in common
+is :
+(1) 7/10 (2) 4/5
+(3) 23/30 (4) 3/5
+Q18.Let the shortest distance from , to the parabola  be 4 . Then the equation of the circle
+passing through the point  and the focus of the parabola, and having its centre on the axis of the parabola
+is :
+(1) (2)
+(3) (4)
+Q19.If in the expansion of , the coefficients of  and  are 1 and -2 , respectively, then  is
+equal to :
+(1) 18 (2) 13
+(3) 8 (4) 20
+Q20.If the area of the region  is , then the value of 
+is :
+(1) 8 (2) 7
+(3) 5 (4) 6
+Q21.The variance of the numbers  is
+Q22.The roots of the quadratic equation  are  and  terms of an arithmetic progression
+with common difference . If the sum of the first 11 terms of this arithmetic progression is 88 , then  is
+equal to  -.
+Q23.The number of ways, 5 boys and 4 girls can sit in a row so that either all the boys sit together or no two boys
+sit together, is  -
+Q24.The focus of the parabola  is the centre of the circle  of radius 5 . If the values of , for which
+C passes through the point of intersection of the lines  and , are  and ,
+then  is equal to 
+Q25.Let  be the roots of the equation  with . Let . If
+ and , then  is equal to  .
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+(a,0),a> 0 y2= 4x
+(a,0)
+x2+y2- 10x+ 9= 0 x2+y2- 6x+ 5= 0
+x2+y2- 4x+ 3= 0 x2+y2- 8x+ 7= 0
+(1+x)p(1-x)q x x2 p2+ q2
+{(x,y):-1<=x<= 1,0<=y<=a+ e|x|- e-x,a> 0} e2+8e+1e a
+8,21,34,47,... ,320
+3x2- px+ q= 0 10th  11th 
+32 q- 2p
+y2= 4x+ 16 C ?
+3x-y= 0 x+?y= 4 ?1 ?2,?1< ?2
+12?1+ 29?2
+alpha,beta x2-ax-b= 0 Im(alpha)< Im(beta) Pn=alphan-betan
+P3= -5sqrt7i,P4 = -3sqrt7i,P5= 11sqrt7i P6= 45sqrt7i alpha4+beta4
+? ?
+ 
+Q26.A galvanometer having a coil of resistance  need 20 mA of current for full-scale deflection. If a maximum
+current of 3 A is to be measured using this galvanometer, the resistance of the shunt to be added to the
+galvanometer should be , where  is Options
+(1) 596 (2) 149
+(3) 298 (4) 447
+Q27.A ball having kinetic energy KE, is projected at an angle of  from the horizontal. What will be the kinetic
+energy of ball at the highest point of its flight ?
+(1) (2)
+(3) (4)
+Q28.Two charges  and  are placed at  and  respectively. Given,
+, the electrostatic potential energy of the charge configuration is :
+(1) -1.8 J (2) -2.0 J
+(3) -1.5 J (4) -1.2 J
+Q29.Two point charges  and , constituting an electric dipole, are placed at  and  in
+a uniform electric field of strength . The work done on the dipole in rotating it from the equilibrium
+through  is :
+(1) 18.4 mJ (2) 14.4 mJ
+(3) 12.4 mJ (4) 16.4 mJ
+Q30.A massless spring gets elongated by amount  under a tension of 5 N . Its elongation is  under the tension
+of 7 N . For the elongation of , the tension in the spring will be,
+(1) 39 N (2) 15 N
+(3) 11 N (4) 20 N
+Q31.Water of mass  gram is slowly heated to increase the temperature from  to  The change in entropy of the
+water, given specific heat of water is , is :
+(1) (2) zero
+(3) (4)
+Q32.Water flows in a horizontal pipe whose one end is closed with a valve. The reading of the pressure gauge
+attached to the pipe is . The reading of the pressure gauge falls to  when the valve is opened. The speed of
+water flowing in the pipe is proportional to
+(1) (2)
+(3) (4)
+Q33.A concave mirror of focal length  in air is dipped in a liquid of refractive index . Its focal length in the liquid
+will be:
+(1) (2)
+(3) (4)
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+30?
+30X? X
+60?
+(KE)
+8
+(KE)
+2(KE)
+16
+(KE)
+4
+7?c -4?c (-7 cm,0,0) (7 cm,0,0)
+?0= 8.85x 10-12C2 N-1 m-2
+-4?c 4?c (-9,0,0)cm (9,0,0)cm
+104NC-1
+180?
+x1 x2
+(5x1- 2x2)
+m T1 Tz
+1J kg-1 K-1
+m ln(T 2
+ T 1)
+m ln(T 1
+ T 2) m (T 2- T 1)
+P1 P2
+P1-P2 (P1-P2)4
+(P1- P2)2 sqrtP1- P2
+f ?
+?f f
+f
+(?-1)
+f
+?
+ 
+Q34.
+What is the current through the battery in the circuit shown below 
+(1) 1.5 A (2) 0.5 A
+(3) 0.25 A (4) 1.0 A
+Q35.5 The refractive index of the material of a glass prism is . The angle of minimum deviation is equal to the
+angle of the prism. What is the angle of the prism?
+(1) (2)
+(3) (4)
+Q36.The width of one of the two slits in Young's double slit experiment is d while that of the other slit is . If the
+ratio of the maximum to the minimum intensity in the interference pattern on the screen is  then what is
+the value of  ? (Assume that the field strength varies according to the slit width.)
+(1) 4 (2) 5
+(3) 3 (4) 2
+Q37.
+Using the given  diagram, the work done by an ideal gas along the path ABCD is :
+(1) (2)
+(3) (4)
+Q38.A plane electromagnetic wave of frequency 20 MHz travels in free space along the  direction. At a
+particular point in space and time, the electric field vector of the wave is . Then, the magnetic
+field vector of the wave at that point is
+(1) (2)
+(3) (4)
+Q39.The equation of a transverse wave travelling along a string is ,
+where  is in mm and  is in second. The velocity of the wave is :
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+sqrt3
+60? 58?
+48? 50?
+x d
+9:4
+x
+P - V
+3P0 V0 -4P0 V0
+-3P0 V0 4P0 V0
++x
+Ey= 9.3Vm-1
+Bz= 6.2x 10-8 T Bz= 3.1x 10-8 T
+Bz= 1.55x 10-8 T Bz= 9.3x 10-8 T
+y(x,t)= 4.0sin[20x 10-3x+ 600t]mm
+x t
+ 
+(1) (2)
+(3) (4)
+Q40.Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A) : The binding energy per nucleon is found to be practically independent of the atomic number A,
+for nuclei with mass numbers between 30 and 170. Reason (R): Nuclear force is long range. In the light of the
+above statements, choose the correct answer from the options given below :
+(1)  is true but (R) is false (2) (A) is false but (R) is true
+(3) Both  and  are true and  is the correct
+explanation of 
+(4) Both (A) and (R) are true but (R) is NOT the
+correct explanation of (A)
+Q41.If a satellite orbiting the Earth is 9 times closer to the Earth than the Moon, what is the time period of rotation
+of the satellite? Given rotational time period of Moon  days and gravitational attraction between the
+satellite and the moon is neglected.
+(1) 27 days (2) 1 day
+(3) 81 days (4) 3 days
+Q42.A circular disk of radius R meter and mass M kg is rotating around the axis perpendicular to the disk. An
+external torque is applied to the disk such that , where  is the angular position of the
+rotating disc as a function of time . How much power is delivered by the applied torque, when  ?
+(1) (2)
+(3) (4)
+Q43.The energy of a system is given as , where t is the time and . The errors in the
+measurement of  and  are  and , respectively. At , maximum percentage error in the energy
+is :
+(1) (2)
+(3) (4)
+Q44.Match List - I with List - II.
+Choose the correct answer from the options given below :
+(1) (A)-(IV), (B)-(III), (C)-(I), (D)-(II) (2) (A)-(III), (B)-(II), (C)-(IV), (D)-(I)
+(3) (A)-(I), (B)-(IV), (C)-(II), (D)-(III) (4) (A)-(II), (B)-(I), (C)-(III), (D)-(IV)
+Q45.In photoelectric effect an em-wave is incident on a metal surface and electrons are ejected from the surface. If
+the work function of the metal is 2.14 eV and stopping potential is 2 V , what is the wavelength of the em-
+wave ? (Given hc  where h is the Planck's constant and c is the speed of light in vaccum.)
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+-60 m/s -30 m/s
++30 m/s +60 m/s
+(A)
+(A) (R) (R)
+(A)
+= 27
+theta(t)= 5t2- 8t theta(t)
+t t= 2 s
+72M R2 8M R2
+108M R2 60M R2
+E(t)=alpha3e-betat beta= 0.3 s-1
+alpha t 1.2% 1.6% t= 5 s
+6% 8.4%
+11.6% 4%
+ List-I   List-II 
+ (A)   Permeabilityoffreespace   (I) [M  L2 T -2]
+ (B)   M agneticfield   (II) [M  T -2 A-1]
+ (C)   M agneticmoment   (III) [M  L T -2 A-2]
+ (D )   T orsionalconstant   (IV) [L2 A]
+= 1242eVnm
+ 
+(1) 300 nm (2) 400 nm
+(3) 600 nm (4) 200 nm
+Q46.A time varying potential difference is applied between the plates of a parallel plate capacitor of capacitance
+. The dielectric constant of the medium between the capacitor plates is 1 . It produces an instantaneous
+displacement current of 0.25 mA in the intervening space between the capacitor plates, the magnitude of the
+rate of change of the potential difference will be _____ .
+Q47.In a series LCR circuit, a resistor of , a capacitor of 25 nF and an inductor of 100 mH are used. For
+maximum current in the circuit, the angular frequency of the ac source is _____  radians .
+Q48.An air bubble of radius 1.0 mm is observed at a depth of 20 cm below the free surface of a liquid having
+surface tension  and density . The difference between pressure inside the bubble and
+atmospheric pressure is _____ . (Take  )
+Q49.A satellite of mass  is revolving around earth in a circular orbit at a height of  from earth surface. The
+angular momentum of the satellite is . The value of  is ______ , where  and  are the mass and
+radius of earth, respectively. ( G is the gravitational constant)
+Q50.At steady state the charge on the capacitor, as shown in the circuit below, is  .
+Q51.Identify the products  and , respectively in the following reaction :
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+2.5? F
+Vs-1
+300?
+x104 s-1
+0.095 J /m2 103 kg/m3
+N/m2 g= 10 m/s2
+M2 R3
+M sqrt GMRx x M R
+?C
+[A] [B]
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q52.Consider the following reactions  The products  and ,
+respectively are :
+(1)  and CrO (2)  and 
+(3)  and (4)  and 
+Q53.The effect of temperature on spontaneity of reactions are represented as :
+(1) (B) and (C) only (2) (B) and (D) only
+(3) (A) and (D) only (4) (A) and (C) only
+Q54.Which of the following graphs most appropriately represents a zero order reaction ?
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+K2Cr2O7 [A] [ B]+ K2SO4
+KOH- ?-H 2O
+H 2SO4
+- ?-H 2O [A] [B]
+K2CrO4 K2CrO4 Cr2O3
+K2CrO4 K2Cr2O7 K2Cr(OH)6 Cr2O3
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q55.Consider the reaction  The equation representing correct relationship between
+the degree of dissociation (x) of  with its equilibrium constant Kp is ______ . Assume  to be very
+very small.
+(1) (2)
+(3) (4)
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+X2Y( g)= X2( g)+ 1
+2Y2( g)
+X2Y(g) x
+x= 3sqrt 2Kp
+p x= 3sqrt 2Kp2
+p
+x= 3sqrt Kp
+p x= 3sqrt Kp
+2p
+ 
+Q56.Given below are two statements : Consider the following reaction
+(1) Both Statement I and Statement II are false (2) Statement I is true but Statement II is false
+(3) Statement I is false but Statement II is true (4) Both Statement I and Statement II are true
+Q57.Given below are two statements : Statement (I) : For a given shell, the total number of allowed orbitals is
+given by . Statement (II) : For any subshell, the spatial orientation of the orbitals is given by  to  values
+including zero. In the light of the above statements, choose the correct answer from the options given below :
+(1) Both Statement I and Statement II are false (2) Statement I is true but Statement II is false
+(3) Both Statement I and Statement II are true (4) Statement I is false but Statement II is true
+Q58.Standard electrode potentials for a few half cells are mentioned below :
+ Which one of the following cells gives the most negative value of
+ ?
+(1) (2)
+(3) (4)
+Q59.The -Helix and  - Pleated sheet structures of protein are associated with its :
+(1) tertiary structure (2) quaternary structure
+(3) secondary structure (4) primary structure
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+n2 -l +l
+E?
+Cu2+/Cu = 0.34 V,E?
+Zn2+/Zn = -0.76 V
+E?Ag+/Ag= 0.80 V,E?
+M g2+/M g= -2.37 V
+?G ?
+Zn Zn2+(1M ) Ag+(1M )Ag
+? ?? ?
+Zn Zn2+(1M ) M g2+(1M )M g
+? ?? ?
+AgAg+(1M ) M g2+(1M )M g
+? ?? ?
+Cu Cu2+(1M )?Ag+(1M )Ag
+? ?
+alpha beta
+ 
+Q60.Given below are the atomic numbers of some group 14 elements. The atomic number of the element with
+lowest melting point is :
+(1) 6 (2) 82
+(3) 14 (4) 50
+Q61.Given below are two statements about X-ray spectra of elements : Statement (I) : A plot of  (  frequency
+of -rays emitted) vs atomic mass is a straight line. Statement (II) : A plot of  frequency of -rays
+emitted) vs atomic number is a straight line. In the light of the above statements, choose the correct answer
+from the options given below :
+(1) Both Statement I and Statement II are true (2) Statement I is false but Statement II is true
+(3) Both Statement I and Statement II are false (4) Statement I is true but Statement II is false
+Q62.Identify  and C in the given below reaction sequence  B 
+(1) (2)
+(3) (4)
+Q63.Given below are two statements : Statement (I) : The boiling points of alcohols and phenols increase with
+increase in the number of C-atoms. Statement (II) : The boiling points of alcohols and phenols are higher in
+comparison to other class of compounds such as ethers, haloalkanes. In the light of the above statements,
+choose the correct answer from the options given below :
+(1) Both Statement I and Statement II are false (2) Both Statement I and Statement II are true
+(3) Statement I is false but Statement II is true (4) Statement I is true but Statement II is false
+Q64.Consider a binary solution of two volatile liquid components 1 and  and  are the mole fractions of
+component 1 in liquid and vapour phase, respectively. The slope and intercept of the linear plot of  vs 
+are given respectively as:
+(1) (2)
+(3) (4)
+Q65.The ascending order of relative rate of solvolysis of following compounds is :
+(1) (2)
+(3) (4)
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+sqrtvv=
+X v(v= X
+A,B A  Pb(NO3)2
+HNO3
+- ? H 2SO4
+- ?
+ (1)Ammonium  acetate - ? (2)Aceticacid  (3) K2CrO4
+PbCl2,PbSO4,PbCrO4 PbS,PbSO4, Pb(CH 3COO)2
+PbCl2, Pb(SO4)2,PbCrO4 PbS,PbSO4,PbCrO4
+2.x1 y1
+1x1
+1y1
+P02
+P01
+,P02-P01
+P02
+P01
+P02
+,P02-P01
+P02
+P01
+P02
+,P01-P02
+P02
+P02
+P01
+,P01-P02
+P02
+(C)< (B)< (A)< (D ) (D )< (A)< (B)< (C)
+(D )< (B)< (A)< (C) (C)< (D )< (B)< (A)
+ 
+Q66.Match List - I with List - II.
+Choose the correct answer from the options given below :
+(1) (A)-(IV), (B)-(II), (C)-(III), (D)-(I) (2) (A)-(IV), (B)-(III), (C)-(I), (D)-(II)
+(3) (A)-(III), (B)-(IV), (C)-(II), (D)-(I) (4) (A)-(III), (B)-(I), (C)-(IV), (D)-(II)
+Q67.
+Choose the correct answer from the options given below :
+(1) (A)-(I), (B)-(IV), (C)-(III), (D)-(II) (2) (A)-(III), (B)-(II), (C)-(I), (D)-(IV)
+(3) (A)-(III), (B)-(IV), (C)-(I), (D)-(II) (4) (A)-(II), (B)-(III), (C)-(I), (D)-(IV)
+Q68.pH of water is 7 at . If water is heated to ., it's pH will :
+(1) Decrease (2) concentration increases, concentration
+decreases
+(3) Remains the same (4) Increase
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+List-I List-II
+(A) Bronze (I) Cu,Ni
+(B) Brass (II) Fe,Cr,Ni,C
+(C) UKsilvercoin (III) Cu,Zn
+(D) Stainlesssteel(IV) Cu,Sn
+25?C 80?C
+H + OH -
+ 
+Q69.Identify the coordination complexes in which the central metal ion has  configuration.
+Choose the correct answer from the options given below :
+(1) (B), (C) and (D) only (2) (C) and (E) only
+(3) (B) and (D) only (4) (A), (B) and (E) only
+Q70.When a non-volatile solute is added to the solvent, the vapour pressure of the solvent decreases by 10 mm of
+Hg . The mole fraction of the solute in the solution is 0.2 . What would be the mole fraction of the solvent if
+decrease in vapour pressure is 20 mm of Hg ?
+(1) 0.8 (2) 0.4
+(3) 0.2 (4) 0.6
+Q71.0.01 mole of an organic compound  containing  hydrogen, on complete combustion produced
+. Molar mass of  is _____ .
+Q72.A compound '  absorbs 2 moles of hydrogen and '  upon oxidation with gives
+The total number of  bonds present in the compound '  is______
+Q73.When 81.0 g of aluminium is allowed to react with 128.0 g of oxygen gas, the mass of aluminium oxide
+produced in grams is_______ - (Nearest integer) Given : Molar mass of Al is  Molar mass of O is
+Q74.The bond dissociation enthalpy of  calculated from the given data is  . (Nearest
+integer) 
+ 
+ [Given : is a pure ionic compound and X forms
+a diatomic molecule  in gaseous state]
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+d4
+(X) 10%
+0.9 gH 2O (X) gmol-1
+X? X? KM nO4 ?H +
+? X?
+27.0 g mol-1
+16.0 g mol-1
+X2?H bond  kJ mol-1
+M +X-(s)? M +(g)+ X-(g)?H ?lattice = 800 kJ  mol-1
+M ( s)? M ( g)?H ?sub = 100 kJ  mol-1
+M ( g)? M +(g)+ e-(g)?H i= 500 kJ  mol-1X( g)+ e-(g)? X-(g)?H ?eg= -300 kJ  mol-1
+M ( s)+ 12X2( g)? M +X-(s)?H ?f= -400 kJ  mol-1 M +X-
+X2
+ 
+Q75.Consider the following sequence of reactions.
+Total number of  hybridised carbon atoms in the major product C formed is________
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+sp3
+ 
+ANSWER KEYS
+1. (3) 2. (4) 3. (2) 4. (2) 5. (3) 6. (2) 7. (3) 8. (4)
+9. (3) 10. (3) 11. (1) 12. (4) 13. (2) 14. (2) 15. (1) 16. (3)
+17. (2) 18. (2) 19. (2) 20. (3) 21. (8788) 22. (474) 23. (17280) 24. (15)
+25. (31) 26. (2) 27. (4) 28. (1) 29. (2) 30. (3) 31. (1) 32. (4)
+33. (2) 34. (2) 35. (1) 36. (2) 37. (3) 38. (2) 39. (2) 40. (1)
+41. (2) 42. (4) 43. (1) 44. (2) 45. (1) 46. (100) 47. (2) 48. (2190)
+49. (3) 50. (16) 51. (2) 52. (3) 53. (1) 54. (1) 55. (2) 56. (4)
+57. (3) 58. (1) 59. (3) 60. (4) 61. (3) 62. (4) 63. (2) 64. (2)
+65. (2) 66. (2) 67. (3) 68. (1) 69. (3) 70. (4) 71. (100) 72. (27)
+73. (153) 74. (200) 75. (4)
+ 
+2025 (23 Jan Shift 2)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo

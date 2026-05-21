@@ -1,0 +1,661 @@
+ 
+Q1.Let  be a G.P. of increasing positive terms. If  and , then  is equal to:
+(1) (2)
+(3) (4)
+Q2.Let  be the solution of the differential equation . If , then  is :
+(1) (2)
+(3) (4)
+Q3.Two balls are selected at random one by one without replacement from a bag containing 4 white and 6 black
+balls. If the probability that the first selected ball is black, given that the second selected ball is also black, is ,
+where , then  is equal to :
+(1) (2)
+(3) (4)
+Q4.The product of all solutions of the equation , is :
+(1) (2)
+(3) (4) e
+Q5.Let the triangle PQR be the image of the triangle with vertices  and  in the line . If
+the centroid of  is the point , then  is equal to :
+(1) (2)
+(3) (4)
+Q6.Let for  and . Then
+ is equal to :
+(1) (2)
+(3) (4)
+Q7.Let the parabola , meet the coordinate axes at the points  and R . If the circle C with centre
+at  passes through the points  and , then the area of  is :
+(1) (2)
+(3) (4)
+Q8.Let  and  be two lines. Then which of the following points lies
+on the line of the shortest distance between  and  ?
+(1) (2)
+(3) (4)
+Q9.Let  be a real differentiable function such that  and  for all
+. Then  is equal to :
+(1) (2)
+(3) (4)
+Q10.From all the English alphabets, five letters are chosen and are arranged in alphabetical order. The total number
+of ways, in which the middle letter is ' M ', is :
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+a1,a2,a3,... a1a5= 28 a2+a4 = 29 a6
+628 812
+526 784
+x=x(y) y2 dx+ (x- 1y)dy= 0 x(1)= 1 x(12)
+12+ e 3+e
+3-e 32+e
+mn
+gcd(m,n)= 1 m+n
+4 14
+13 11
+e5(logex)2+3=x8,x> 0
+e8/5 e6/5
+e2
+(1,3),(3,1) (2,4) x+ 2y= 2
+?PQR (alpha,beta) 15(alpha-beta)
+19 24
+21 22
+f(x)= 7tan8x+ 7tan6x- 3tan4x- 3tan2x, I1= integralpi/4
+0 f(x)dx I2= integralpi/4
+0 xf(x)dx
+7I1+ 12I2
+2 1
+2pi pi
+y=x2+ px- 3 P,Q
+(-1,-1) P,Q R ?PQR
+7 4
+6 5
+L1:x-12 = y-2
+3 = z-34 L2:x-23 = y-4
+4 = z-55
+L1 L2
+(14
+3,-3,22
+3) (- 5
+3,-7,1)
+(2,3,13) (83,-1,13)
+f(x) f(0)= 1 f(x+y)=f(x)f?(y)+f?(x)f(y)
+x,y? R sum 100n=1logef(n)
+2525 5220
+2384 2406
+ 
+(1) (2)
+(3) (4)
+Q11.Using the principal values of the inverse trigonometric functions, the sum of the maximum and the minimum
+values of  is :
+(1) (2)
+(3) (4)
+Q12.Let  be a twice differentiable function such that  for all . If
+ and  satisfies , , then the area of the region
+ is:
+(1) (2)
+(3) (4)
+Q13.The area of the region, inside the circle  and outside the parabola  is :
+(1) (2)
+(3) (4)
+Q14.Let the foci of a hyperbola be  and . If it passes through the point , then the length of its
+latus-rectum is :
+(1) (2)
+(3) (4)
+Q15.If , then  is equal to :
+(1) (2)
+(3) (4)
+Q16.A coin is tossed three times. Let  denote the number of times a tail follows a head. If  and  denote the
+mean and variance of , then the value of  is :
+(1) (2)
+(3) (4)
+Q17.The number of non-empty equivalence relations on the set  is :
+(1) (2)
+(3) (4)
+Q18.A circle  of radius 2 lies in the second quadrant and touches both the coordinate axes. Let  be the radius of a
+circle that has centre at the point  and intersects the circle  at exactly two points. If the set of all
+possible values of r is the interval , then  is equal to :
+(1) (2)
+(3) (4)
+Q19.Let  and  and . Then  is equal to :
+(1) (2)
+(3) (4)
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+5148 6084
+4356 14950
+16((sec-1x)2+ (cosec-1x)2)
+24pi2 22pi2
+31pi2 18pi2
+f:R ? R f(x+y)=f(x)f(y) x,y? R
+f?(0)= 4a f f??(x)- 3af?(x)-f(x)= 0a> 0
+R = {(x,y)?0<=y<=f(ax),0<=x<= 2}
+e2- 1 e2+ 1
+e4+ 1 e4- 1
+(x- 2sqrt3)2+y2= 12 y2= 2sqrt3x
+3pi+ 8 6pi- 16
+3pi- 8 6pi- 8
+(1,14) (1,-12) (1,6)
+245 2561445 2885
+sum nr=1Tr= (2n-1)(2n+1)(2n+3)(2n+5)
+64 limn? ? sum nr=1( 1Tr)
+0 23
+1 13
+X ? ?2
+X 64(?+?2)
+51 64
+32 48
+{1,2,3}
+6 5
+7 4
+C r
+(2,5) C
+(alpha,beta) 3beta- 2alpha
+10 15
+12 14
+A= {1,2,3,... ,10} B= {mn:m,n?A,m< n gcd(m,n)= 1} n(B)
+36 31
+37 29
+ 
+Q20.Let  and  be three complex numbers on the circle  with  and
+. If , then the value of  is :
+(1) (2)
+(3) (4)
+Q21.Let  be a square matrix of order 3 such that  and 
+. Then  is equal to _______
+Q22.If , then  is equal to _______
+Q23.Let  be the projection vector of , on the vector . If , then the
+area of the parallelogram formed by the vectors  and  is ________
+Q24.Let the function,  be differentiable for all , where . If the
+area of the region enclosed by  and the line  is , then the value of  is
+________
+Q25.Let  and , be two lines, which intersect at the point . If
+ is the foot of perpendicular from the point  on , then the value of  is _________
+Q26.An electron is made to enter symmetrically between two parallel and equally but oppositely charged metal
+plates, each of 10 cm length. The electron emerges out of the electric field region with a horizontal component
+of velocity . If the magnitude of the electric field between the plates is , then the vertical
+component of velocity of electron is (mass of electron  and charge of electron
+ )
+(1) 0 (2)
+(3) (4)
+Q27.Given below are two statements : Statement-I : The equivalent emf of two nonideal batteries connected in
+parallel is smaller than either of the two emfs. Statement-II : The equivalent internal resistance of two nonideal
+batteries connected in parallel is smaller than the internal resistance of either of the two batteries. In the light
+of the above statements, choose the correct answer from the options given below.
+(1) Both Statement-I and Statement-II are false (2) Statement-I is false but Statement-II is true
+(3) Both Statement-I and Statement-II are true (4) Statement-I is true but Statement-II is false
+Q28.A uniform circular disc of radius ' R ' and mass ' M ' is rotating about an axis perpendicular to its plane and
+passing through its centre. A small circular part of radius  is removed from the original disc as shown in
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+z1,z2 z3 |z|= 1 arg(z1)= -pi4 ,arg(z2)= 0
+arg(z3)= pi4 |z1 ?z2+z2 ?z3+z3 ?z1|2=alpha+betasqrt2,alpha,beta? Z alpha2+beta2
+24 29
+41 31
+A det(A)= -2 det(3adj(-6adj(3A)))= 2m+n?3mn,m > n
+4 m + 2n
+sum 5r=0
+11C22r
+2r+2 = mn ,gcd(m,n)= 1 m - n
+?c ?b=?^i+ 4^k,?> 0 ?a= ^i+ 2^j+ 2^k |?a+ ?c|= 7
+?b ?c
+f(x)= {-3ax2- 2,x< 1
+a2+bx, x?1 x? R a> 1,b? R
+y=f(x) y= -20 alpha+betasqrt3,alpha,beta?Z alpha+beta
+L1:x-13 = y-1
+-1 = z+10 L2:x-22 = y
+0= z+4alpha,alpha? R B
+P A(1,1,-1) L2 26alpha( PB)2
+106 m/s 9.1 V/cm
+= 9.1x 10-31 kg
+= 1.6x 10-19C
+1x 106 m/s
+16x 106 m/s 16x 104 m/s
+R/2
+ 
+the figure. Find the moment of inertia of the remaining part of the original disc about the axis as given above.
+(1) (2)
+(3) (4)
+Q29.An amount of ice of mass  and temperature  is transformed to vapour of temperature  by
+applying heat. The total amount of work required for this conversion is, (Take, specific heat of ice
+, specific heat of water , specific heat of steam ,
+Latent heat of ice  and Latent heat of steam   )
+(1) 3043 J (2) 3024 J
+(3) 3003 J (4) 3022 J
+Q30.An electron in the ground state of the hydrogen atom has the orbital radius of  while that for the
+electron in third excited state is . The ratio of the de Broglie wavelengths of electron in the
+excited state to that in the ground state is
+(1) 3 (2) 16
+(3) 9 (4) 4
+Q31.A bob of mass  is suspended at a point  by a light string of length  and left to perform vertical motion
+(circular) as shown in figure. Initially, by applying horizontal velocity  at the point ' A ', the string becomes
+slack when, the bob reaches at the point ' D '. The ratio of the kinetic energy of the bob at the points  and  is
+______ -. 
+(1) 1 (2) 2
+(3) 4 (4) 3
+Q32.Given is a thin convex lens of glass (refractive index  ) and each side having radius of curvature . One side
+is polished for complete reflection. At what distance from the lens, an object be placed on the optic axis so that
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+732M R2 932M R2
+1732M R2 1332M R2
+10-3 kg -10?C 110?C
+= 2100J kg-1 K -1 = 4180J kg-1 K -1 = 1920J kg-1 K -1
+= 3.35x 105J kg-1 = 2.25x 106J kg-1
+5.3x 10-11 m
+8.48x 10-10 m
+m O l
+v0
+B C
+? R
+ 
+the image gets formed on the object itself ?
+(1) (2)
+(3) (4)
+Q33.Which of the following circuits represents a forward biased diode?
+Choose the correct answer from the options given below :
+(1) (A) and (D) only (2) (B), (D) and (E) only
+(3) (C) and (E) only (4) (B), (C) and (E) only
+Q34.
+Sliding contact of a potentiometer is in the middle of the potentiometer wire having resistance  as
+shown in the figure. An external resistance of  is connected via the sliding contact. The electric
+current in the circuit is :
+(1) 0.9 A (2) 1.35 A
+(3) 0.3 A (4) 1.0 A
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+R/? R/(2?- 3)
+?R R/(2?- 1)
+Rp= 1?
+Re= 2?
+ 
+Q35.A small point of mass  is placed at a distance  from the centre '  of a big uniform solid sphere of mass
+M and radius R . The gravitational force on ' m ' due to M is . A spherical part of radius  is removed
+from the big sphere as shown in the figure and the gravitational force on m due to remaining part of M is found
+to be . The value of ratio  is 
+(1) (2)
+(3) (4)
+Q36.A closed organ and an open organ tube are filled by two different gases having same bulk modulus but
+different densities  and , respectively. The frequency of  harmonic of closed tube is identical with 
+harmonic of open tube. If the length of the closed tube is 10 cm and the density ratio of the gases is
+, then the length of the open tube is :
+(1) (2)
+(3) (4)
+Q37.If  is magnetic field and  is permeability of free space, then the dimensions of  is
+(1) (2)
+(3) (4)
+Q38.A line charge of length  is kept at the center of an edge  of a cube  having edge length '
+ ' as shown in the figure. If the density of line charge is  C per unit length, then the total electric flux through
+all the faces of the cube will be  . (Take,  as the free space permittivity) 
+(1) (2)
+(3) (4)
+Q39.Given below are two statements : Statement I : In a vernier callipers, one vernier scale division is always
+smaller than one main scale division. Statement II : The vernier constant is given by one main scale division
+multiplied by the number of vernier scale divisions. In the light of the above statements, choose the correct
+answer from the options given below.
+(1) Statement I is true but Statement II is false (2) Statement I is false but Statement II is true
+(3) Both Statement I and Statement II are false (4) Both Statement I and Statement II are true
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+m 2R O?
+F1 R/3
+F2 F1:F2
+12:11 11:10
+12:9 16:9
+?1 ?2? 9th  4th 
+?1:?2= 1:16
+157 cm 207 cm
+159 cm 209 cm
+B ?0 (B/?0)
+M L2 T -2 A-1 M T -2 A-1
+L-1 A LT -2 A-1
+ ' a ' 2 BC ABCDEFGH
+a ?
+?0
+?a2?0
+?a4?0
+?a16?0
+?a8?0
+ 
+Q40.The work functions of cesium (Cs) and lithium (Li) metals are 1.9 eV and 2.5 eV , respectively. If we incident
+a light of wavelength 550 nm on these two metal surfaces, then photo-electric effect is possible for the case of
+(1) Both Cs and Li (2) Neither Cs nor Li
+(3) Cs only (4) Li only
+Q41.Two spherical bodies of same materials having radii 0.2 m and 0.8 m are placed in same atmosphere. The
+temperature of the smaller body is 800 K and temperature of the bigger body is 400 K . If the energy radiated
+from the smaller body is E, the energy radiated from the bigger body is (assume, effect of the surrounding
+temperature to be negligible),
+(1) 16 E (2) E
+(3) 64 E (4) 256 E
+Q42.In the diagram given below, there are three lenses formed. Considering negligible thickness of each of them as
+compared to  and , i.e., the radii of curvature for upper and lower surfaces of the glass lens, the power
+of the combination is 
+(1) (2)
+(3) (4)
+Q43.Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion-(A) : If Young's double slit experiment is performed in an optically denser medium than air, then the
+consecutive fringes come closer. Reason-(R) : The speed of light reduces in an optically denser medium than
+air while its frequency does not change. In the light of the above statements, choose the most appropriate
+answer from the options given below :
+(1) Both  and  are true but  is not the
+correct explanation of 
+(2) Both  and  are true and  is the correct
+explanation of 
+(3) (A) is true but (R) is false (4)  is false but (R) is true
+Q44.A parallel-plate capacitor of capacitance  is connected to a 100 V power supply. Now the intermediate
+space between the plates is filled with a dielectric material of dielectric constant . Due to the
+introduction of dielectric material, the extra charge and the change in the electrostatic energy in the capacitor,
+respectively, are
+(1) 4 mC and 0.2 J (2) 8 mC and 2.0 J
+(3) 2 mC and 0.4 J (4) 2 mC and 0.2 J
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+|R1| |R2|
+1
+6( 1
+|R1|- 1
+|R2|) - 1
+6( 1
+|R1|+ 1
+|R2|)
+16( 1
+|R1|+ 1
+|R2|) - 16( 1
+|R1|- 1
+|R2|)
+(A) (R) (R)
+(A)
+(A) (R) (R)
+(A)
+(A)
+40? F
+K = 2
+ 
+Q45.Which of the following resistivity (  )  temperature (T) curves is most suitable to be used in wire bound
+standard resistors?
+(1)
+ (2)
+(3)
+ (4)
+Q46.The driver sitting inside a parked car is watching vehicles approaching from behind with the help of his side
+view mirror, which is a convex mirror with radius of curvature . Another car approaches him from
+behind with a uniform speed of . When the car is at a distance of 24 m from him, the magnitude of
+the acceleration of the image of the car in the side view mirror is ' a '. The value of 100 a is _______ .
+Q47.Two soap bubbles of radius 2 cm and 4 cm , respectively, are in contact with each other. The radius of
+curvature of the common surface, in cm , is ______ .
+Q48.The position vectors of two 1 kg particles, (A) and (B), are given by  and
+, respectively;
+, where t is time, n and p
+are constants. At  and velocities  and  of the particles are orthogonal to each other.
+At , the magnitude of angular momentum of particle (A) with respect to the position of particle (B) is
+. The value of L is _______ .
+Q49.Three conductors of same length having thermal conductivity  and  are connected as shown in figure.
+Area of cross sections of  and  conductor are same and for  conductor it is double of the 
+conductor. The temperatures are given in the figure. In steady state condition, the value of  is _______ .
+(Given :  )
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+?v/s
+R = 2 m
+90 km/hr
+m/s2
+?rA = (alpha1t2^i+alpha2t^j+alpha3t^k)m
+?rB = (beta1t^i+beta2t2^j+beta3t^k)m
+(alpha1= 1 m/s2,alpha2= 3nm/s,alpha3= 2 m/s,beta1= 2 m/s,beta2= -1 m/s2,beta3= 4pm/s)
+t= 1 s,VA = ?VB
+?
+- ?
+? ? ?
+?VA ?VB
+t= 1 s
+sqrtLkgm 2 s-1
+k1,k2 k3
+1st  2nd  3rd  1st 
+theta ?C
+k1= 60J s-1 m -1 K -1,k2= 120J s-1 m -1 K -1,k3= 135J s-1 m -1 K -1
+ 
+Q50.A particle is projected at an angle of  from horizontal at a speed of . The height traversed by the
+particle in the first second is  and height traversed in the last second, before it reaches the maximum height,
+is . The ratio  is _________ [Take,  ]
+Q51.Radius of the first excited state of Helium ion is given as :  radius of first stationary state of hydrogen
+atom.
+(1) (2)
+(3) (4)
+Q52.The incorrect statements regarding geometrical isomerism are : (A) Propene shows geometrical isomerism. (B)
+Trans isomer has identical atoms/groups on the opposite sides of the double bond. (C) Cis-but-2-ene has higher
+dipole moment than trans-but-2-ene. (D) 2-methylbut-2-ene shows two geometrical isomers. (E) Trans-isomer
+has lower melting point than cis isomer. Choose the correct answer from the options given below :
+(1) (A) and (E) Only (2) (A), (D) and (E) Only
+(3) (B) and (C) Only (4) (C), (D) and (E) Only
+Q53.A liquid when kept inside a thermally insulated closed vessel at  was mechanically stirred from outside.
+What will be the correct option for the following thermodynamic parameters ?
+(1) (2)
+(3) (4)
+Q54.Which of the following electronegativity order is incorrect?
+(1) (2)
+(3) (4)
+Q55.Lanthanoid ions with  configuration are : (A)  (B)  (C)  (D)  (E)  Choose the
+correct answer from the options given below :
+(1) (A) and (D) only (2) (B) and (C) only
+(3) (A) and (B) only (4) (B) and (E) only
+Q56.Given below are two statements : Statement I : One mole of propyne reacts with excess of sodium to liberate
+half a mole of  gas. Statement II : Four g of propyne reacts with  to liberate  gas which
+occupies 224 mL at STP. In the light of the above statements, choose the most appropriate answer from the
+options given below:
+(1) Statement I is incorrect but Statement II is
+correct
+(2) Both Statement I and Statement II are correct
+(3) Statement I is correct but Statement II is
+incorrect
+(4) Both Statement I and Statement II are incorrect
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+30? 60 m/s
+h0
+h1 h0:h1 g= 10 m/s2
+a0?
+r= 4a0 r= 2a0
+r= a0
+2 r= a0
+4
+25?C
+?U < 0,q= 0,w > 0 ?U = 0,q= 0,w = 0
+?U > 0,q= 0,w > 0 ?U = 0,q< 0,w > 0
+M g< Be< B < N S < Cl< O < F
+Al< Si< C < N Al< M g< B < N
+4f7 Eu2+ Gd3+ Eu3+ T b3+ Sm 2+
+H 2 NaNH 2 NH 3
+ 
+Q57.
+The compounds which give positive Fehling's test are : (A)
+(B)
+(C)  (D)
+(E)
+Choose the correct answer from the options given below :
+(1) (A), (D) and (E) Only (2) (C), (D) and (E) Only
+(3) (A), (C) and (D) Only (4) (A), (B) and (C) Only
+Q58.Which of the following electrolyte can be used to obtain  by the process of electrolysis?
+(1) Dilute solution of sodium sulphate. (2) Acidified dilute solution of sodium sulphate.
+(3) Dilute solution of sulphuric acid (4) Concentrated solution of sulphuric acid
+Q59.Given below are two statements : Statement I :  will undergo  reaction though it is a
+primary halide. Statement II : 
+will not undergo  reaction very easily though it is a primary halide. In the light of the above statements,
+choose the most appropriate answer from the options given below :
+(1) Both Statement I and Statement II are incorrect (2) Both Statement I and Statement II are correct
+(3) Statement I is incorrect but Statement II is
+correct
+(4) Statement I is correct but Statement II is
+incorrect
+Q60.Which of the following acids is a vitamin?
+(1) Adipic acid (2) Ascorbic acid
+(3) Saccharic acid (4) Aspartic acid
+Q61.Match List-I with List-II.
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+HOCH 2- CO - (CHOH)3- CH 2- OH
+H 2 S2O8
+CH 3- O - CH 2- Cl SN1
+SN2
+List-I cList-II
+(A) Al3+ < M g2+ < Na+ < F- (I) IonisationEnthalpy
+(B) B < C < O < N (II) Metalliccharacter
+(C) B < Al< M g< K (III) Electronegativity
+(D) Si< P < S < Cl (IV) Ionicradii
+ 
+Choose the correct answer from the options given below :
+(1) (A)-(IV), (B)-(I), (C)-(II), (D)-(III) (2) (A)-(IV), (B)-(I), (C)- (III), (D)-(II)
+(3) (A)-(III), (B)-(IV), (C)- (II), (D)-(I) (4) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)
+Q62.Which of the following statement is not true for radioactive decay?
+(1) Decay constant increases with increase in
+temperature.
+(2) Amount of radioactive substance remained after
+three half lives is  th of original amount.
+(3) Decay constant does not depend upon
+temperature.
+(4) Half life is  times of .
+Q63.
+The products formed in the following reaction sequence are : 
+(1)
+, 
+(2)
+, 
+(3)
+, 
+(4)
+Q64.How many different stereoisomers are possible for the given molecule?
+(1) (2)
+(3) (4)
+Q65.A vessel at 1000 K contains  with a pressure of 0.5 atm . Some of  is converted into CO on addition
+of graphite. If total pressure at equilibrium is 0.8 atm , then Kp is :
+(1) 1.8 atm (2) 0.3 atm
+(3) 3 atm (4) 0.18 atm
+Q66.A solution of aluminium chloride is electrolysed for 30 minutes using a current of 2 A . The amount of the
+aluminium deposited at the cathode is [Given : molar mass of aluminium and chlorine are  and
+ respectively. Faraday constant 
+(1) 1.660 g (2) 0.336 g
+(3) 0.441 g (4) 1.007 g
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+18
+ln2 1 rateconstant 
+CH 3- CHO CH 3- COOH
+CH 3- CHO
+2 1
+4 3
+CO2 CO2
+27 g mol-1
+35.5 g mol-1 = 96500Cmol-1]
+ 
+Q67.
+The IUPAC name of the following compound is : 
+(1) Methyl-6-carboxy-2,5-dimethylhexanoate. (2) 2-Carboxy-5-methoxycarbonylhexane.
+(3) 6-Methoxycarbonyl-2,5-dimethylhexanoic acid. (4) Methyl-5-carboxy-2-methylhexanoate.
+Q68.In which of the following complexes the CFSE,  will be equal to zero?
+(1) (2)
+(3) (4)
+Q69.Arrange the following solutions in order of their increasing boiling points. (i)  (ii)  Urea
+(iii)  (iv) 
+(1) (i) < (ii) < (iii) < (iv) (2) (iv) < (iii) < (i) < (ii)
+(3) (ii) < (i iii) < (iv) (4) (ii) < (i) < (iii) < (iv)
+Q70.From the magnetic behaviour of  (paramagnetic) and  (diamagnetic), choose the correct
+geometry and oxidation state.
+(1) , tetrahedral ,
+square planar
+(2)  : , square planar 
+, square planar
+(3) , tetrahedral ,
+tetrahedral
+(4) , tetrahedral ,
+square planar
+Q71.The number of molecules/ions that show linear geometry among the following is ________
+Q72.  The molecule A changes into its isomeric form B by following a first order kinetics at a temperature
+of 1000 K . If the energy barrier with respect to reactant energy for such isomeric transformation is
+ and the frequency factor is , the time required for  molecules of A to become  is
+_________ picoseconds (nearest integer). 
+Q73.
+Consider the following sequence of reactions : 
+Molar mass of the product formed  is _______ .
+Q74.Some  gas was kept in a sealed container at a pressure of 1 atm and at 273 K . This entire amount of 
+gas was later passed through an aqueous solution of . The excess unreacted  was later
+neutralized with 0.1 M of 40 mL HCl . If the volume of the sealed container of  was , then  is ________
+ (nearest integer). [Given : The entire amount of  reacted with exactly half the initial amount of
+ present in the aqueous solution.]
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+? o
+[Fe(en)3]Cl3 K 4[Fe(CN)6]
+[Fe(NH 3)6]Br2 K 3[Fe(SCN)6]
+10-4M  NaCl 10-4M  
+10-3M  NaCl 10-2M  NaCl
+)? (
+[NiCl4]2- [Ni(CO)4]
+[NiCl4]2- :NiII [Ni(CO)4] :NiII [NiCl4]2- NiII [Ni(CO)4] :Ni(0)
+[NiCl4]2- :NiII [Ni(CO)4] :Ni(0) [NiCl4]2- :Ni(0) [Ni(CO)4] :Ni(0)
+SO2,BeCl2,CO2, N-3,NO2, F2O,XeF2,NO+2,I-3,O3
+A ?  B
+191.48 kJ  mol-1 1020 50% B
+[R = 8.314 J  K -1 mol-1]
+(A) gmol-1
+CO2 CO2
+Ca(OH)2 Ca(OH)2
+CO2 x x
+cm 3 CO2( g)
+Ca(OH)2
+ 
+Q75.In Carius method for estimation of halogens, 180 mg of an organic compound produced 143.5 mg of AgCl .
+The percentage composition of chlorine in the compound is _______ \%. (Given : molar mass in  of
+ )
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+gmol-1
+Ag:108,Cl:35.5
+ 
+ANSWER KEYS
+1. (4) 2. (3) 3. (2) 4. (1) 5. (4) 6. (2) 7. (3) 8. (1)
+9. (1) 10. (1) 11. (2) 12. (1) 13. (2) 14. (4) 15. (2) 16. (4)
+17. (2) 18. (2) 19. (2) 20. (2) 21. (34) 22. (2035) 23. (16) 24. (34)
+25. (216) 26. (3) 27. (2) 28. (4) 29. (1) 30. (4) 31. (2) 32. (4)
+33. (4) 34. (4) 35. (1) 36. (4) 37. (3) 38. (4) 39. (3) 40. (3)
+41. (2) 42. (4) 43. (2) 44. (1) 45. (4) 46. (8) 47. (4) 48. (90)
+49. (40) 50. (5) 51. (2) 52. (2) 53. (3) 54. (4) 55. (3) 56. (3)
+57. (2) 58. (4) 59. (2) 60. (2) 61. (1) 62. (1) 63. (3) 64. (3)
+65. (1) 66. (2) 67. (3) 68. (4) 69. (4) 70. (3) 71. (6) 72. (69)
+73. (154) 74. (45) 75. (20)
+ 
+2025 (22 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo

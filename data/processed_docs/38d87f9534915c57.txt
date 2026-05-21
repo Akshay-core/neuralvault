@@ -1,0 +1,664 @@
+ 
+Q1.Let  be the origin, the point  be , the point  be such that  and
+. Then
+(1) area of triangle ABO is (2) ABO is an obtuse angled isosceles triangle
+(3) area of triangle ABO is (4) ABO is a scalene triangle
+Q2.Let  be a function defined by 
+, then the value of  is
+(1) 545 (2) 715
+(3) 735 (4) 675
+Q3.Let  be a trapezium whose vertices lie on the parabola . Let the sides  and  of the
+trapezium be parallel to y -axis. If the diagonal AC is of length  and it passes through the point , then
+the area of  is
+(1) (2)
+(3) (4)
+Q4.The sum of all local minimum values of the function
+is
+(1) (2)
+(3) (4)
+Q5.Let  and . Let  and
+ be the vertices of a triangle , where  is a parameter. If  , is
+the locus of the centroid of triangle ABC , then  equals
+(1) 6 (2) 18
+(3) 8 (4) 20
+Q6.Let the equation of the circle, which touches -axis at the point  and cuts off an intercept of length 
+on -axis be . If the circle lies below -axis, then the ordered pair  is equal
+to
+(1) (2)
+(3) (4)
+Q7.If , then  is equal to
+(1) (2) 41
+(3) 82 (4)
+Q8.Two number  and  are randomly chosen from the set of natural numbers. Then, the probability that the
+value of  is non-zero, equals
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+O A z1= sqrt3+ 2sqrt2i B(z2) sqrt3|z2|= |z1|
+arg(z2)= arg(z1)+ pi6 11
+sqrt3
+114
+f:R? R f(x)= (2+ 3a)x2+ (a+2a-1)x+b,a!= 1. If 
+f(x+ y)=f(x)+f(y)+ 1- 27xy 28sum 5i=1|f(i)|
+ABCD y2= 4x AD BC
+254 (1,0)
+ABCD
+754 = 2521258 758
+f(x)=
+?
+?
+?
+?
+?
+1- 2x, x< -1
+13(7+ 2|x|), -1<=x<= 2
+1118(x- 4)(x- 5), x> 2
+15772 1317217172 16772
+nCr-1= 28,nCr= 56 nCr+1= 70 A(4cost,4sint),B(2sint,-2cost)
+C(3r-n,r2-n- 1) ABC t (3x- 1)2+ (3y)2=alpha
+alpha
+x (a,0),a> 0 b
+y x2+y2-alphax+betay+gamma= 0 x (2a,b2)
+(gamma,beta2- 4alpha) (alpha,beta2+ 4gamma)
+(gamma,beta2+ 4alpha) (alpha,beta2- 4gamma)
+f(x)= 2x
+2x+sqrt2,x? R sum 81k=1f( k82)
+1.81sqrt2
+812
+k1 k2
+ik1+ ik2,(i= sqrt-1)
+ 
+(1) (2)
+(3) (4)
+Q9.If the image of the point  in the line  is , then  is equal to
+(1) 9 (2) 12
+(3) 7 (4) 8
+Q10.  is equal to:
+(1) 1 (2) 0
+(3) (4)
+Q11.Let  be a point in -plane, which is equidistant from three points  and (  ). Let
+ and . Then among the statements (S1) :  is an isosceles right angled
+triangle, and (S2) : the area of  is ,
+(1) both are true (2) only (S2) is true
+(3) only (S1) is true (4) both are false
+Q12.The area (in sq. units) of the region  is
+(1) (2)
+(3) (4)
+Q13.The sum, of the squares of all the roots of the equation , is
+(1) (2)
+(3) (4)
+Q14.Let  be the  term of an A.P. If for some , and , then
+ is equal to
+(1) 98 (2) 126
+(3) 142 (4) 112
+Q15.Three defective oranges are accidently mixed with seven good ones and on looking at them, it is not possible
+to differentiate between them. Two oranges are drawn at random from the lot. If  denote the number of
+defective oranges, then the variance of  is
+(1) 28/75 (2) 18/25
+(3) (4)
+Q16.Let for some function  and . Then  is equal to
+(1) 1 (2) 3
+(3) 6 (4) 2
+Q17.If , then  equals
+(1) 64 (2) 196
+(3) 144 (4) 100
+Q18.Let  be a sequence such that  and . Then 
+is equal to
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+12 3414 23
+(4,4,3) x-12 = y-2
+1 = z-13 (alpha,beta,gamma) alpha+beta+gamma
+cos(sin-1 35+ sin-1 513+ sin-1 3365)
+3265 3365
+A(x,y,z) xy (0,3,2),(2,0,3) 0,0,1
+B = (1,4,-1) C = (2,0,-2) ?ABC
+?ABC 9sqrt22
+{(x,y):0<= y<= 2|x|+ 1,0<= y<=x2+ 1,|x|<= 3}
+803 643323 173
+x2+ |2x- 3|- 4= 0
+3(3- sqrt2) 6(3- sqrt2)
+6(2- sqrt2) 3(2- sqrt2)
+T r rth  m,T m = 125, T 25= 120 20sum 25r=1 T r= 13
+5 m sum 2 mr=m  T r
+x
+x
+26/75 14/25
+y=f(x),integralx
+0tf(t)dt=x2f(x),x> 0 f(2)= 3 f(6)
+integral
+pi2
+-pi2
+96x2cos2x(1+ex) dx=pi(alphapi2+beta),alpha,beta? Z (alpha+beta)2
+?an? a0= 0,a1= 12 2an+2= 5an+1- 3an,n= 0,1,2,3,... sum 100
+k=1ak
+ 
+(1) (2)
+(3) (4)
+Q19.The number of different 5 digit numbers greater than 50000 that can be formed using the digits 0 ,
+, such that the sum of their first and last digits should not be more than 8 , is
+(1) 4608 (2) 5720
+(3) 5719 (4) 4607
+Q20.The relation  and  is even  is:
+(1) reflexive and symmetric but not transitive (2) an equivalence relation
+(3) symmetric and transitive but not reflexive (4) reflexive and transitive but not symmetric
+Q21.
+Let  where [.] denotes greatest integer function. If  and 
+are the number of points, where f is not continuous and is not differentiable, respectively, then  equals
+__________
+Q22.Let M denote the set of all real matrices of order  and let . Let
+If , then  equals _______
+Q23.  If , then the distance of the point  from the line 
+is _________.
+Q24.Let  be an ellipse. Ellipses  's are constructed such that their centres and eccentricities are
+same as that of , and the length of minor axis of  is the length of major axis of . If  is the
+area of the ellipse , then , is equal to
+Q25.Let  and . If  is a vector such that ,  and the
+angle between  and  is , then  is equal to
+Q26.Three infinitely long wires with linear charge density  are placed along the -axis and  axis
+respectively. Which of the following denotes an equipotential surface?
+(1)  constant (2)  constant
+(3)  constant (4)  constant
+Q27.Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason  Assertion
+A: A sound wave has higher speed in solids than gases. Reason R: Gases have higher value of Bulk modulus
+than solids. In the light of the above statements, choose the correct answer from the options given below
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+3a99- 100 3a100- 100
+3a99+ 100 3a100+ 100
+1,2,3,4,5,6,7
+R = {(x,y):x,y? Z x+y }
+f(x)=
+?
+?
+?
+?
+?
+3x, x< 0
+min{1+x+ [x],x+ 2[x]}, 0<=x<= 2
+5, x> 2,
+alpha beta
+alpha+beta
+3x 3 S = {-3,-2,-1,1,2}
+S1= {A = [aij] ? M :A = AT  and aij?  S,?i,j},
+S2= {A = [aij] ? M :A = -AT  and aij?  S,?i,j},
+S3= {A = [aij] ? M :a11+a22+a33= 0 and aij?  S,?i,j}.
+n( S1?2U S3)= 125alpha alpha
+  alpha= 1+ sum 6
+r=1(-3)r-1 12C2r-1 (12,sqrt3) alphax- sqrt3y+ 1= 0
+E1:x2
+9 + y2
+4 = 1 E1
+E1 Ei Ei+1(i>= 1) Ai
+Ei 5pi(sum ?i=1Ai)
+?a= ^i+ ^j+ ^k,?b= 2^i+ 2^j+ ^k ?d= ?ax?b ?c ?a??c= |?c||?c- 2?a|2= 8
+?d ?c pi4 |10- 3? b??c|+ |?dx?c|2
+? x-axis,y z-
+xyz= xy+yz+zx=
+(x2+y2)(y2+z2)(z2+x2)= (x+y)(y+z)(z+x)=
+R
+ 
+(1) Both  and  are true but  is NOT the correct
+explanation of 
+(2)  is true but  is false
+(3)  is false but  is true (4) Both  and  are true and  is the correct
+explanation of 
+Q28.Two capacitors  and  are connected in parallel to a battery. Charge-time graph is shown below for the two
+capacitors. The energy stored with them are  and , respectively. Which of the given statements is true?
+(1) (2)
+(3) (4)
+Q29.A thin prism  with angle  made of glass having refractive index 1.54 , is combined with another thin prism
+ made of glass having refractive index 1.72 to get dispersion without deviation. The angle of the prism  in
+degrees is
+(1) 3 (2) 16/3
+(3) 4 (4) 1.5
+Q30.A particle of mass '  ' and charge '  ' is fastened to one end '  ' of a massless string having equilibrium
+length , whose other end is fixed at point '  '. The whole system is placed on a frictionless horizontal plane
+and is initially at rest. If uniform electric field is switched on along the direction as shown in figure, then the
+speed of the particle when it crosses the x -axis is 
+(1) (2)
+(3) (4)
+Q31.Given below are two statements: one is labelled as Assertion  and the other is labelled as Reason 
+Assertion A: In a central force field, the work done is independent of the path chosen. Reason R: Every force
+encountered in mechanics does not have an associated potential energy. In the light of the above statements,
+choose the most appropriate answer from the options given below
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A R R
+A
+A R
+A R A R R
+A
+C1 C2
+U1 U2
+C2> C1,U 2< U 1 C1> C2,U 1> U 2
+C1> C2,U 1< U 2 C2> C1,U 2> U 1
+P1 4?
+P2 P2
+m q A
+l O
+sqrt qEl
+2 m sqrt qEl
+ m
+sqrt qEl
+4 m sqrt 2qEl
+m
+A R
+ 
+(1)  is false but  is true (2) Both  and  are true but  is NOT the correct
+explanation of 
+(3)  is true but  is false (4) Both  and  are true and  is the correct
+explanation of 
+Q32.Choose the correct nuclear process from the below options [p: proton, n : neutron, : electron, : positron,
+ neutrino,  : antineutrino]
+(1) (2)
+(3) (4)
+Q33.A hemispherical vessel is completely filled with a liquid of refractive index . A small coin is kept at the
+lowest point  of the vessel as shown in figure. The minimum value of the refractive index of the liquid so
+that a person can see the coin from point E (at the level of the vessel) is
+(1) (2)
+(3) (4)
+Q34.A Carnot engine  is working between two temperatures 473 K and 273 K . In a new system two engines -
+engine  works between 473 K to 373 K and engine  works between 373 K to 273 K . If  and  are
+the efficiencies of the engines  and , respectively, then
+(1) (2)
+(3) (4)
+Q35.Consider a long thin conducting wire carrying a uniform current I. A particle having mass " M " and charge " 
+" is released at a distance "  " from the wire with a speed  along the direction of current in the wire. The
+particle gets attracted to the wire due to magnetic force. The particle turns round when it is at distance  from
+the wire. The value of  is [  is vacuum permeability]
+(1) (2)
+(3) (4)
+Q36.A wire of resistance R is bent into an equilateral triangle and an identical wire is bent into  square. The ratio
+of resistance between the two end points of an edge of the triangle to that of the square is Options
+(1) 8/9 (2)
+(3) (4)
+Q37.In the experiment for measurement of viscosity '  ' of given liquid with a ball having radius , consider
+following statements. A. Graph between terminal velocity V and R will be a parabola. B. The terminal
+velocities of different diameter balls are constant for a given liquid. C. Measurement of terminal velocity is
+dependent on the temperature. D. This experiment can be utilized to assess the density of a given liquid. E. If
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+A R A R R
+A
+A R A R R
+A
+e- e+
+v:  ?v
+n? p+ e+ +  ?v n? p+ e+ + v
+n? p+ e- + v n? p+ e- +  ?v
+?
+(O)
+sqrt3 sqrt3
+23
+2 sqrt2
+(E)
+E1 E2 ?12,?1 ?2
+E,E1 E2
+?12=?1?2 ?12>=?1+?2
+?12=?1+?2 ?12< ?1+?2
+q
+a v0
+x
+x ?0
+ae- 4pimvoq?oI a[1- mvo
+2q?oI]
+a[1- mvq?oI] a2
+a
+27/32
+32/27 9/8
+? R
+ 
+balls are dropped with some initial speed, the value of  will change. Choose the correct answer from the
+options given below:
+(1)  and E Only (2) B, D and E Only
+(3)  A, C and D Only (4) C, D and E Only
+Q38.Due to presence of an em-wave whose electric component is given by , a cylinder
+of length 200 cm holds certain amount of em-energy inside it. If another cylinder of same length but half
+diameter than previous one holds same amount of em-energy, the magnitude of the electric field of the
+corresponding em-wave should be modified as
+(1) (2)
+(3) (4)
+Q39.A bead of mass '  ' slides without friction on the wall of a vertical circular hoop of radius '  ' as shown in
+figure. The bead moves under the combined action of gravity and a massless spring ( k ) attached to the bottom
+of the hoop. The equilibrium length of the spring is '  '. If the bead is released from top of the hoop with
+(negligible) zero initial speed, velocity of bead, when the length of spring becomes ' R ', would be (spring
+constant is ' k ', g is accleration due to gravity) 
+(1) (2)
+(3) (4)
+Q40.Find the equivalent resistance between two ends of the following circuit
+(1) (2)
+(3) r (4)
+Q41.Consider following statements: A. Surface tension arises due to extra energy of the molecules at the interior as
+compared to the molecules at the surface, of a liquid. B. As the temperature of liquid rises, the coefficient of
+viscosity increases. C. As the temperature of gas increases, the coefficient of viscosity increases D. The onset
+of turbulence is determined by Reynold's number. E. In a steady flow two stream lines never intersect. Choose
+the correct answer from the options given below:
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+?
+A,B
+E = 100sin(?t- kx)NC-1
+400sin(?t- kx)NC-1 200sin(?t-kx)NC-1
+50sin(?t- kx)NC-1 25sin(?t- kx)NC-1
+m R
+R
+sqrt 3Rg+ kR2
+ m 2sqrt gR + kR2
+ m
+sqrt 2Rg+ kR2
+ m sqrt 2Rg+ 4kR2
+ m
+r
+9
+r
+3r6
+ 
+(1) C, D, E Only (2) A, D, E Only
+(3) B, C, D Only (4) A, B, C Only
+Q42.The center of mass of a thin rectangular plate (fig - x ) with sides of length  and , whose mass per unit area
+ varies as  (where  is a constant), would be  
+(1) (2)
+(3) (4)
+Q43.Which of the following circuits has the same outpur as that of the given circuit?
+(1)
+ (2)
+(3)
+ (4)
+Q44.For a particular ideal gas which of the following graphs represents the variation of mean squared velocity of
+the gas molecules with temperature?
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+a b
+(?) ?= ?0x
+ab ?0
+(23a, b2) (a2, b2)
+(13a, b2) (23a,23b)
+ 
+(1)
+ (2)
+(3)
+ (4)
+Q45.A proton of mass '  ' has same energy as that of a photon of wavelength '  '. If the proton is moving at non-
+relativistic speed, then ratio of its de Broglie wavelength to the wavelength of photon is.
+(1) (2)
+(3) (4)
+Q46.A double slit interference experiment performed with a light of wavelength 600 nm forms an interference
+fringe pattern on a screen with 10 th bright fringe having its centre at a distance of 10 mm from the central
+maximum. Distance of the centre of the same 10th bright fringe from the central maximum when the source of
+light is replaced by another source of wavelength 660 nm would be _________ mm .
+Q47.In a measurement, it is asked to find modulus of elasticity per unit torque applied on the system. The measured
+quantity has dimension of . If , the value of  is ________
+Q48.A tiny metallic rectangular sheet has length and breadth of 5 mm and 2.5 mm , respectively. Using a specially
+designed screw gauge which has pitch of 0.75 mm and 15 divisions in the circular scale, you are asked to find
+the area of the sheet. In this measurement, the maximum fractional error will be  where  is _________.
+Q49.Two iron solid discs of negligible thickness have radii  and  and moment of intertia  and ,
+respectively. For , the ratio of  and  would be , where  ________ -
+Q50.The moment of inertia of a solid disc rotating along its diameter is 2.5 times higher than the moment of inertia
+of a ring rotating in similar way. The moment of inertia of a solid sphere which has same radius as the disc and
+rotating in similar way, is  times higher than the moment of inertia of the given ring. Here,
+$\mathrm{n}=_________ Consider all the bodies have equal masses.
+Q51.Given below are two statements: Statement I : D-glucose pentaacetate reacts with 2, 4-dinitrophenylhydrazine
+Statement II : Starch, on heating with concentrated sulfuric acid at  and 2-3 atmosphere pressure
+produces glucose. In the light of the above statements, choose the correct answer from the options given below
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+mp ?
+1csqrt Emp
+1csqrt 2Emp
+12csqrt Emp
+1csqrt E2 mp
+[M aLbTc] b= -3 c
+x100 x
+R1 R2 I1 I2
+R2= 2R1 I1 I2 1/x x=
+n
+100?C
+ 
+(1) Statement I is false but Statement II is true (2) Both Statement I and Statement II are false
+(3) Both Statement I and Statement II are true (4) Statement I is true but Statement II is false
+Q52.Both acetaldehyde and acetone (individually) undergo which of the following reactions? A. Iodoform Reaction
+B. Cannizaro Reaction C. Aldol Condensation D. Tollen's Test E. Clemmensen Reduction Choose the correct
+answer from the options given below:
+(1) A, B and D Only (2)  and E Only
+(3) A, C and E Only (4) B, C and D Only
+Q53.Which of the following oxidation reactions are carried out by both  and  in acidic medium?
+A.  B.  C.  D.  E.  Choose the correct answer
+from the options given below:
+(1) C, D and E Only (2) B, C and D Only
+(3) A, D and E Only (4) A, B and C Only
+Q54.A molecule (" P ") on treatment with acid undergoes rearrangement and gives ("Q"). ("Q") on ozonolysis
+followed by reflux under alkaline condition gives (" R "). The structure of (" R ") is given below.
+The structure of ("  ) is
+(1)
+ (2)
+(3)
+ (4)
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+C
+K 2Cr2O7 K M nO4
+?- ? I2 S2- ? S Fe2+ ? Fe3+ ?- ? IO3- S2O32- ? SO42-
+P??
+ 
+Q55.The correct order of stability of following carbocations is :
+(1) (2)
+(3) (4)
+Q56.The products  and  in the following reactions, respectively are
+(1)
+(2)
+(3)
+(4)
+Q57.In a multielectron atom, which of the following orbitals described by three quantum numbers will have same
+energy in absence of electric and magnetic fields? A.  B.  C.
+ D.  E.  Choose the correct answer from the
+options given below:
+(1) B and C Only (2) A and B Only
+(3) C and D Only (4) D and E Only
+Q58.A weak acid HA has degree of dissociation x . Which option gives the correct expression of ( pH  )?
+(1) 0 (2)
+(3) (4)
+Q59.The molecules having square pyramidal geometry are
+(1) (2)
+(3) (4)
+Q60.Consider the following elements  and Ge . The most stable oxidation states of elements with
+highest and lowest first ionisation enthalpies, respectively, are
+(1)  and +1 (2) +1 and +4
+(3) +4 and +3 (4) +2 and +3
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+C > B > A > D A > B > C > D
+B > C > A > D C > A > B > D
+A B
+A Ag-NO2
+? CH 3- CH 2- CH 2- Br BAgCN- ?
+CH 3- CH 2- CH 2- NO2,CH 3- CH 2- CH 2- CN
+CH 3- CH 2- CH 2- ONO,CH 3- CH 2- CH 2- NC
+CH 3- CH 2- CH 2- ONO,CH 3- CH 2- CH 2- CN
+CH 3- CH 2- CH 2- NO2,CH 3- CH 2- CH 2- NC
+n= 1,l= 0, m1= 0 n= 2,l= 0, m1= 0
+n= 2,l= 1, m1= 1 n= 3,l= 2, m1= 1 n= 3,l= 2, m1= 0
+pK a
+log(1+ 2x)
+log(1-xx) log( x1-x)
+BrF5&PCl5 SbF5&PCl5
+SbF5&XeOF4 BrF5&XeOF4
+In,T l,Al,Pb,Sn
++4
+ 
+Q61.
+For a given reaction  is related to  as given in table. Given:  Which of the
+following is true? A. The order of the reaction is . B. If  is 1 M , then  is  C. The order
+of the reaction changes to 1 if the concentration of reactant changes from 0.100 M to 0.500 M . D.  is 800
+min for  Choose the correct answer from the options given below: Options
+(1) A and C Only (2) A, B and D Only
+(3) C and D Only (4) A and B Only
+Q62.Match the LIST-I with LIST-II
+Choose the correct answer from the options given below:
+(1) A-II, B-III, C-I, D-IV (2) A-III, B-IV, C-I, D-II
+(3) A-IV, B-I, C-II, D-III (4) A-II, B-III, C-IV, D-I
+Q63.Given below are two statements: Statement I: In the oxalic acid vs  (in the presence of dil  )
+titration the solution needs to be heated initially to , but no heating is required in Ferrous ammonium
+sulphate (FAS) vs  titration (in the presence of dil  ) Statement II: In oxalic acid vs 
+titration, the initial formation of  takes place at high temperature, which then acts as catalyst for further
+reaction. In the case of FAS vs , heating oxidizes  into  by oxygen of air and error may be
+introduced in the experiment. In the light of the above statements, choose the correct answer from the options
+given below
+(1) Both Statement I and Statement II are false (2) Both Statement I and Statement II are true
+(3) Statement I is false but Statement II is true (4) Statement I is true but Statement II is false
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+R ? P,t1/2 [A]0 log2= 0.30
+1/2 [A]0 t1/2 200sqrt10 min
+t1/2
+[A]0= 1.6M
+K M nO4 H 2SO4
+60?C
+K M nO4 H 2SO4 K M nO4
+M nSO4
+K M nO4 Fe2+ Fe3+
+ 
+Q64.The metal ion whose electronic configuration is not affected by the nature of the ligand and which gives a
+violet colour in non-luminous flame under hot condition in borax bead test is
+(1) (2)
+(3) (4)
+Q65.
+The compounds that produce  with aqueous  solution are: A. 
+B.
+C.
+D.
+E.
+Choose the correct answer from the options given below:
+(1) A, C and D Only (2) A, B and E Only
+(3) A and C Only (4) A and B Only
+Q66.What is the freezing point depression constant of a solvent, 50 g of which contain 1 g non volatile solute
+(molar mass  ) and the decrease in freezing point is 0.40 K ?
+(1) (2)
+(3) (4)
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+M n2+ Cr3+
+Ni2+ T i3+
+CO2 NaHCO3
+256 g mol-1
+3.72 K  kg mol-1 1.86 K  kg mol-1
+4.43 K  kg mol-1 5.12 K  kg mol-1
+ 
+Q67.Given below are two statements:
+involving lone pair of electrons on nitrogen. In the light of the above statements, choose the most appropriate
+answer from the options given below
+(1) Statement I is incorrect but Statement II is
+correct
+(2) Statement I is correct but Statement II is
+incorrect
+(3) Both Statement I and Statement II are correct (4) Both Statement I and Statement II are incorrect
+Q68.Ice and water are placed in a closed container at a pressure of 1 atm and temperature 273.15 K . If pressure of
+the system is increased 2 times, keeping temperature constant, then identify correct observation from following
+(1) Volume of system increases . (2) The solid phase (ice) disappears completely.
+(3) Liquid phase disappears completely. (4) The amount of ice decreases.
+Q69.The incorrect decreasing order of atomic radii is
+(1) (2)
+(3) (4)
+Q70.Consider '  ' is the number of lone pair of electrons present in the equatorial position of the most stable
+structure of . The ions from the following with '  ' number of unpaired electrons are A.  B.  C.
+ D.  E.  Choose the correct answer from the options given below:
+(1) A and C Only (2) A, D and E Only
+(3) B and D Only (4) B and C Only
+Q71.The formation enthalpies,  for  and  are 220.0 and , respectively, at 298.15 K ,
+and  for  is  at the same temperature. The average bond enthalpy of the 
+bond in water at 298.15 K is __________  (nearest integer).
+Q72.The molarity of a  (mass  mass) aqueous solution of a monobasic acid  is __________ 
+M(Nearest integer) [Given: Density of aqueous solution of (X) is  Molar mass of the acid is
+ ]
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+Si> P > Cl> F Be> M g> Al> Si
+Al> B > N> F M g> Al> C > O
+n
+ClF3 n V3+ T i3+
+Cu2+ Ni2+ T i2+
+?H f? H (g) O(g) 250.0 kJ  mol-1
+?H f? H 2O(g) -242.0 kJ  mol-1 O - H
+kJ mol-1
+70% / (X) x10-1
+1.25 g mL-1
+70 g mol-1
+ 
+Q73.Consider the following sequence of reactions:
+11.25 mg of chlorobenzene will produce __________  of product B . (Consider the reactions result
+in complete conversion.) [Given molar mass of  and Cl as  and 
+respectively]
+Q74.Quantitative analysis of an organic compound (X) shows following \% composition. C :  Cl : 64.46\%
+H: 1.8 \% (Empirical formula mass of the compound  is __________  (Given molar mass in 
+of  )
+Q75.Given below is the plot of the molar conductivity vs  for KCl in aqueous solution.
+If, for the higher concentration of KCl solution, the resistance of the conductivity cell is , then the
+resistance of the same cell with the dilute solution is '  '  The value of  is __________ (Nearest integer)
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
+x10-1mg
+C,H,O,N 12,1,16,14 35.5 g mol-1
+14.5%
+(X) x10-1 gmol-1
+C :12,H :1,O :16,Cl:35.5
+sqrt concentration 
+100?
+x? x
+ 
+ANSWER KEYS
+1. (2) 2. (4) 3. (1) 4. (1) 5. (4) 6. (4) 7. (4) 8. (2)
+9. (1) 10. (2) 11. (3) 12. (2) 13. (3) 14. (2) 15. (1) 16. (1)
+17. (4) 18. (2) 19. (4) 20. (2) 21. (5) 22. (1613) 23. (5) 24. (54)
+25. (6) 26. (3) 27. (2) 28. (4) 29. (1) 30. (2) 31. (2) 32. (4)
+33. (4) 34. (4) 35. (1) 36. (3) 37. (3) 38. (2) 39. (1) 40. (1)
+41. (1) 42. (1) 43. (2) 44. (2) 45. (4) 46. (11) 47. (0) 48. (3)
+49. (16) 50. (4) 51. (1) 52. (3) 53. (4) 54. (4) 55. (4) 56. (4)
+57. (4) 58. (4) 59. (4) 60. (3) 61. (2) 62. (4) 63. (2) 64. (3)
+65. (1) 66. (4) 67. (3) 68. (2) 69. (2) 70. (2) 71. (466) 72. (125)
+73. (93) 74. (1655) 75. (150)
+ 
+2025 (28 Jan Shift 1)
+JEE Main 2025 January
+JEE Main Previous Year Paper
+MathonGo
