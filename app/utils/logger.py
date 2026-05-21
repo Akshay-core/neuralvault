@@ -37,7 +37,7 @@ def get_logger(name: str, log_dir: str = "logs") -> logging.Logger:
 
     fh = RotatingFileHandler(
         f"{log_dir}/app.log",
-        maxBytes=5*1024*1024,
+        maxBytes=5 * 1024 * 1024,
         backupCount=3,
         encoding="utf-8",
         errors="backslashreplace",
@@ -47,7 +47,7 @@ def get_logger(name: str, log_dir: str = "logs") -> logging.Logger:
 
     eh = RotatingFileHandler(
         f"{log_dir}/errors.log",
-        maxBytes=2*1024*1024,
+        maxBytes=2 * 1024 * 1024,
         backupCount=2,
         encoding="utf-8",
         errors="backslashreplace",
