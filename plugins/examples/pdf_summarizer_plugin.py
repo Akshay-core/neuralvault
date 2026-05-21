@@ -2,13 +2,14 @@
 __author__ = "Akshay-core"
 
 # FILE: plugins/examples/pdf_summarizer_plugin.py
-import sys, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
-
+import sys
+import os
 from plugins.base_plugin import BasePlugin
 from app.core.prompt_templates import SUMMARIZE_TEMPLATE
 from app.models.model_router import pick_model
 from app.models.ollama_client import generate
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
 
 
 class PDFSummarizerPlugin(BasePlugin):

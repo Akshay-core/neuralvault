@@ -2,12 +2,13 @@
 __author__ = "Akshay-core"
 
 # FILE: plugins/examples/calculator_plugin.py
-import sys, os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
-
+import sys
+import os
 import ast
 import operator
 from plugins.base_plugin import BasePlugin
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
 
 # safe eval — no exec, no imports
 _ALLOWED_OPS = {

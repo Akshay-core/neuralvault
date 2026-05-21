@@ -4,12 +4,12 @@ __author__ = "Akshay-core"
 # FILE: plugins/examples/quiz_generator_plugin.py
 import sys
 import os
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
-
 from plugins.base_plugin import BasePlugin
 from app.core.prompt_templates import QUIZ_TEMPLATE
 from app.models.model_router import pick_model
 from app.models.ollama_client import generate
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", ".."))
 
 
 class QuizGeneratorPlugin(BasePlugin):
