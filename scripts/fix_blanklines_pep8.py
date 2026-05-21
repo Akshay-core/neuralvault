@@ -11,6 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SKIP_DIRS = {".git", "__pycache__", "venv", "env", "build", "dist"}
 
+
 def process_file(path: Path) -> bool:
     changed = False
     text = path.read_text(encoding="utf-8")
@@ -88,6 +89,7 @@ def main():
             print(m)
     else:
         print('No changes made')
+
 
 if __name__ == '__main__':
     main()

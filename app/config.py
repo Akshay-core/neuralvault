@@ -16,7 +16,7 @@ MODELS_CACHE = BASE_DIR / "models_cache"
 
 def get_ram_gb():
     return psutil.virtual_memory().total / (1024 ** 3)
-
+ 
 
 def get_cpu_cores():
     return psutil.cpu_count(logical=False) or 2
@@ -30,6 +30,7 @@ def get_device_tier():
         return "balanced"
     else:
         return "heavy"
+
 
 DEVICE_TIER = get_device_tier()
 RAM_GB = get_ram_gb()
