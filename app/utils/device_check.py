@@ -5,6 +5,7 @@ __author__ = "Akshay-core"
 import psutil
 import platform
 
+
 def get_system_info() -> dict:
     ram = psutil.virtual_memory()
     cpu = psutil.cpu_freq()
@@ -19,6 +20,7 @@ def get_system_info() -> dict:
         "cpu_usage_pct": psutil.cpu_percent(interval=0.5),
     }
 
+
 def recommend_mode(info: dict) -> str:
     ram = info["ram_total_gb"]
     if ram < 6:
@@ -29,6 +31,7 @@ def recommend_mode(info: dict) -> str:
         return "balanced"
     else:
         return "performance"
+
 
 def get_performance_budget() -> dict:
     info = get_system_info()
@@ -44,6 +47,7 @@ def get_performance_budget() -> dict:
         "recommended_model": model_map[mode],
         "system_info": info
     }
+
 
 if __name__ == "__main__":
     import json
