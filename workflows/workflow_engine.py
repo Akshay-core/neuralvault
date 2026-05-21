@@ -48,6 +48,7 @@ class Workflow:
 
 # ── Pre-built workflow: RAG → Summarize → Quiz ──────────────────
 
+
 def build_study_workflow(user_id: str, query: str) -> Workflow:
     from app.core.retriever import retrieve, format_context
     from plugins.plugin_manager import get_plugin_manager

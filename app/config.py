@@ -12,11 +12,15 @@ LOGS_DIR = BASE_DIR / "logs"
 MODELS_CACHE = BASE_DIR / "models_cache"
 
 # ── Device detection ──────────────────────────────────────────
+
+
 def get_ram_gb():
     return psutil.virtual_memory().total / (1024 ** 3)
 
+
 def get_cpu_cores():
     return psutil.cpu_count(logical=False) or 2
+
 
 def get_device_tier():
     ram = get_ram_gb()

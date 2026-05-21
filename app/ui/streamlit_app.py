@@ -279,11 +279,15 @@ def activate_local_mode():
 
 
 @st.cache_data(ttl=8, show_spinner=False)
+
+
 def cached_ollama_status():
     return is_ollama_running()
 
 
 @st.cache_data(ttl=20, show_spinner=False)
+
+
 def cached_available_models():
     return list_available_models()
 

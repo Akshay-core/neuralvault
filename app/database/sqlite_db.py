@@ -23,6 +23,7 @@ def _ensure_column(conn: sqlite3.Connection, table: str, column: str, ddl: str) 
     if column not in cols:
         conn.execute(f"ALTER TABLE {table} ADD COLUMN {ddl}")
 
+
 def init_db(db_path: str = DB_PATH):
     db_path = _db_path(db_path)
     Path(db_path).parent.mkdir(parents=True, exist_ok=True)
@@ -461,7 +462,10 @@ def init_db(db_path: str = DB_PATH):
     conn.commit()
     conn.close()
 
+
 @contextmanager
+
+
 def get_conn(db_path: str = DB_PATH):
     db_path = _db_path(db_path)
     conn = sqlite3.connect(db_path, check_same_thread=False)

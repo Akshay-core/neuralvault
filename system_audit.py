@@ -33,6 +33,8 @@ REQUIRED_TABLES = {
 
 
 @dataclass(frozen=True)
+
+
 class AuditFinding:
     code: str
     severity: str
