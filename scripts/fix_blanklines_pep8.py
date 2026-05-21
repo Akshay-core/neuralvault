@@ -13,7 +13,6 @@ SKIP_DIRS = {".git", "__pycache__", "venv", "env", "build", "dist"}
 
 
 def process_file(path: Path) -> bool:
-    changed = False
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines()
     out_lines = []
@@ -23,14 +22,21 @@ def process_file(path: Path) -> bool:
         line = lines[i]
         # Check for top-level def/class (no leading spaces) or decorator at col 0
         leading = len(line) - len(line.lstrip(' '))
-        if leading == 0 and (line.startswith('def ') or line.startswith('class ') or line.startswith('@')):
+        if leading == 0 and (
+            line.startswith('def ')
+            or line.startswith('class ')
+            or line.startswith('@')
+        ):
             # If decorator, find the block start (decorators may precede a def/class)
             start = i
             if line.startswith('@'):
                 j = i + 1
                 while j < n and lines[j].startswith('@'):
                     j += 1
-                if j < n and (lines[j].startswith('def ') or lines[j].startswith('class ')) and (len(lines[j]) - len(lines[j].lstrip(' ')) == 0):
+                if j < n and (
+                    (lines[j].startswith('def ') or lines[j].startswith('class '))
+                    and (len(lines[j]) - len(lines[j].lstrip(' ')) == 0)
+                ):
                     start = i
                 else:
                     out_lines.append(line)
@@ -47,7 +53,6 @@ def process_file(path: Path) -> bool:
             need = 2 - blank_count
             if need > 0:
                 out_lines.extend([''] * need)
-                changed = True
             out_lines.append(line)
             i += 1
         else:
