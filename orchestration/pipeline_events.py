@@ -7,8 +7,6 @@ from typing import Any
 
 
 @dataclass
-
-
 class PipelineEvent:
     type: str
     label: str

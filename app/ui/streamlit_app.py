@@ -915,7 +915,7 @@ def render_chat():
             if hasattr(result, "__iter__") and not isinstance(result, dict):
                 buffer = []
                 final_meta = {}
-                pipeline_box = st.empty()
+
                 def token_stream():
                     nonlocal final_meta
                     for item in result:
@@ -934,7 +934,7 @@ def render_chat():
                         else:
                             label = item.get("label", "")
                             status.write(label)
-                answer = st.write_stream(token_stream())
+                st.write_stream(token_stream())
                 final_answer = "".join(buffer).strip()
                 final_meta.setdefault("response_time_ms", elapsed)
                 final_meta.setdefault("model", "streamed")
