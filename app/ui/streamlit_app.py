@@ -13,15 +13,18 @@ import textwrap
 import time
 from pathlib import Path
 
-import streamlit as st
-
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from analytics.usage_tracker import get_user_stats
-from app.core.document_intelligence import analyze_patterns, list_document_profiles
-from app.database.sqlite_db import get_conn, init_db
-from app.ingestion import file_manager
-from app.memory.adaptive_memory import (
+import streamlit as st
+
+from analytics.usage_tracker import get_user_stats  # noqa: E402
+from app.core.document_intelligence import (  # noqa: E402
+    analyze_patterns,
+    list_document_profiles,
+)
+from app.database.sqlite_db import get_conn, init_db  # noqa: E402
+from app.ingestion import file_manager  # noqa: E402
+from app.memory.adaptive_memory import (  # noqa: E402
     add_memory,
     delete_memory,
     feedback_summary,
@@ -29,8 +32,8 @@ from app.memory.adaptive_memory import (
     list_memories,
     save_feedback,
 )
-from app.memory.memory_graph import build_memory_graph, search_everything
-from app.memory.session_memory import (
+from app.memory.memory_graph import build_memory_graph, search_everything  # noqa: E402
+from app.memory.session_memory import (  # noqa: E402
     clear_session,
     create_conversation,
     delete_conversation,
@@ -43,21 +46,29 @@ from app.memory.session_memory import (
     set_conversation_pinned,
     storage_user_id,
 )
-from app.memory.workspaces import (
+from app.memory.workspaces import (  # noqa: E402
     create_workspace,
     get_or_create_workspace,
     list_workspaces,
     workspace_label,
 )
-from app.models.ollama_client import is_ollama_running, list_available_models
-from app.config import MODEL_PROFILES
-from app.ownership import OWNER_NAME, export_header, is_local_first, signature_label
-from app.utils.device_check import get_performance_budget
-from orchestration.ai_kernel import process
-from plugins.plugin_manager import get_plugin_manager
-from runtime.device_profiler import profile as sys_profile
-from security.prompt_firewall import analyze_risk
-from users.auth import create_user, login, logout, validate_session
+from app.models.ollama_client import (  # noqa: E402
+    is_ollama_running,
+    list_available_models,
+)
+from app.config import MODEL_PROFILES  # noqa: E402
+from app.ownership import (  # noqa: E402
+    OWNER_NAME,
+    export_header,
+    is_local_first,
+    signature_label,
+)
+from app.utils.device_check import get_performance_budget  # noqa: E402
+from orchestration.ai_kernel import process  # noqa: E402
+from plugins.plugin_manager import get_plugin_manager  # noqa: E402
+from runtime.device_profiler import profile as sys_profile  # noqa: E402
+from security.prompt_firewall import analyze_risk  # noqa: E402
+from users.auth import create_user, login, logout, validate_session  # noqa: E402
 
 
 init_db()
