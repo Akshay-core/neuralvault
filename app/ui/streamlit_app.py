@@ -13,10 +13,9 @@ import textwrap
 import time
 from pathlib import Path
 
-import streamlit as st
-
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
+import streamlit as st
 from analytics.usage_tracker import get_user_stats
 from app.core.document_intelligence import analyze_patterns, list_document_profiles
 from app.database.sqlite_db import get_conn, init_db
@@ -253,7 +252,7 @@ def render_theme_overrides():
 
 def render_atmosphere():
     return
-    st.markdown(
+    st.markdown(  # noqa: F501
         """
 <div class="knowledge-atmosphere" aria-hidden="true">
   <span></span><span></span><span></span><span></span>
@@ -271,7 +270,9 @@ def activate_local_mode():
     st.session_state.user_id = "global"
     st.session_state.username = OWNER_NAME
     st.session_state.session_token = "local-first"
-    st.session_state.active_workspace_id = get_or_create_workspace("global", st.session_state.active_workspace_id)
+    st.session_state.active_workspace_id = get_or_create_workspace(
+        "global", st.session_state.active_workspace_id
+    )
     st.session_state.active_conversation_id = get_or_create_default_conversation(
         "global",
         workspace_id=st.session_state.active_workspace_id,
@@ -279,15 +280,11 @@ def activate_local_mode():
 
 
 @st.cache_data(ttl=8, show_spinner=False)
-
-
 def cached_ollama_status():
     return is_ollama_running()
 
 
 @st.cache_data(ttl=20, show_spinner=False)
-
-
 def cached_available_models():
     return list_available_models()
 
@@ -354,8 +351,14 @@ def make_pdf_export(history: list) -> bytes:
             f"/Resources << /Font << /F1 {font_id} 0 R >> >> "
             f"/Contents {content_id} 0 R >>"
         )
-        objects.append(f"<< /Length {len(stream)} >>\nstream\n{stream.decode('latin-1')}\nendstream")
-    objects.insert(1, f"<< /Type /Pages /Kids [{' '.join(kids)}] /Count {len(kids)} >>")
+        objects.append(
+            f"<< /Length {len(stream)} >>\nstream\n"
+            f"{stream.decode('latin-1')}\nendstream"
+        )
+    objects.insert(
+        1,
+        f"<< /Type /Pages /Kids [{' '.join(kids)}] /Count {len(kids)} >>",
+    )
     objects.append("<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>")
     info_id = len(objects) + 1
     objects.append(
@@ -376,7 +379,10 @@ def make_pdf_export(history: list) -> bytes:
     pdf.append(f"xref\n0 {len(objects) + 1}\n0000000000 65535 f \n")
     for offset in offsets[1:]:
         pdf.append(f"{offset:010d} 00000 n \n")
-    pdf.append(f"trailer\n<< /Size {len(objects) + 1} /Root 1 0 R /Info {info_id} 0 R >>\nstartxref\n{xref_at}\n%%EOF")
+    pdf.append(
+        f"trailer\n<< /Size {len(objects) + 1} /Root 1 0 R /Info {info_id} 0 R >>"
+        f"\nstartxref\n{xref_at}\n%%EOF"
+    )
     return "".join(pdf).encode("latin-1", errors="replace")
 
 
@@ -531,7 +537,13 @@ def render_pipeline(rows: list, confidence: dict = None, sources: list = None):
     conf_html = ""
     if confidence:
         level = confidence.get("level", "low")
-        cls = "status-clean" if level == "high" else "status-watch" if level == "medium" else "status-critical"
+        cls = (
+            "status-clean"
+            if level == "high"
+            else "status-watch"
+            if level == "medium"
+            else "status-critical"
+        )
         conf_html = (
             f"<div class='pipeline-row'><span>Grounding</span>"
             f"<span class='{cls}'>{html.escape(level)} {confidence.get('score', 0)}</span></div>"
@@ -584,7 +596,13 @@ def render_claim_blocks(validation: dict):
     )
     for claim in claims[:8]:
         confidence = claim.get("confidence", "low")
-        cls = "claim-low" if confidence == "low" else "claim-medium" if confidence == "medium" else ""
+        cls = (
+            "claim-low"
+            if confidence == "low"
+            else "claim-medium"
+            if confidence == "medium"
+            else ""
+        )
         evidence = links_by_claim.get(claim.get("id"), [])[:2]
         evidence_html = "".join(
             "<div class='evidence-line'>"
@@ -636,14 +654,20 @@ def render_intelligence_panel(result: dict | None):
         timings = result.get("timings") or {}
         st.json({"confidence": confidence, "timings": timings, "model": result.get("model")})
     elif tab == "System Audit":
-        stats = get_user_stats(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
+        stats = get_user_stats(
+            st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+        )
         pipeline = stats.get("pipeline") or {}
         st.metric("Grounding", f"{pipeline.get('grounding_score') or 0:.2f}")
         st.metric("Unsupported", f"{pipeline.get('validation_unsupported') or 0:.2f}")
         st.caption("Audit data is loaded only when this panel is selected.")
     elif tab == "Memory Inspector":
-        memories = list_memories(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)[:8]
-        conflicts = list_memory_conflicts(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
+        memories = list_memories(
+            st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+        )[:8]
+        conflicts = list_memory_conflicts(
+            st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+        )
         st.metric("Open conflicts", sum(1 for c in conflicts if c.get("status") == "open"))
         for memory in memories:
             st.markdown(
@@ -688,8 +712,12 @@ def render_login():
                         st.session_state.user_id = result["user_id"]
                         st.session_state.username = result["username"]
                         st.session_state.session_token = result["token"]
-                        st.session_state.active_conversation_id = get_or_create_default_conversation(result["user_id"])
-                        load_history_from_db(result["user_id"], conversation_id=st.session_state.active_conversation_id)
+                        st.session_state.active_conversation_id = get_or_create_default_conversation(
+                            result["user_id"]
+                        )
+                        load_history_from_db(
+                            result["user_id"], conversation_id=st.session_state.active_conversation_id
+                        )
                         st.rerun()
                     st.error(result.get("error", "Login failed"))
                 else:
@@ -712,7 +740,7 @@ def render_login():
 def render_sidebar():
     with st.sidebar:
         st.markdown(
-            f"""
+            """
 <div class='sidebar-header'>
   <div class='sidebar-heading'>Baby-GPT</div>
   <div class='sidebar-note'>A local ChatGPT-style assistant for your documents.</div>
@@ -728,7 +756,9 @@ def render_sidebar():
             )
             st.rerun()
 
-        conversations = list_conversations(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
+        conversations = list_conversations(
+            st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+        )
         if conversations:
             labels = {
                 f"{'* ' if c.get('pinned') else ''}{c['title'][:32]}": c["id"]
@@ -754,7 +784,9 @@ def render_sidebar():
         with st.expander("Workspace & docs", expanded=False):
             workspaces = list_workspaces(st.session_state.user_id)
             if not st.session_state.active_workspace_id:
-                st.session_state.active_workspace_id = get_or_create_workspace(st.session_state.user_id, "core")
+                st.session_state.active_workspace_id = get_or_create_workspace(
+                    st.session_state.user_id, "core"
+                )
             if workspaces:
                 labels = {f"{w['name']} ({w['docs']} docs)": w["id"] for w in workspaces}
                 current_label = next(
@@ -776,8 +808,12 @@ def render_sidebar():
                         workspace_id=selected_workspace_id,
                     )
                     st.rerun()
-            new_ws = st.text_input("New workspace", placeholder="Interview prep", key="sidebar_new_workspace")
-            if new_ws and st.button("Create workspace", use_container_width=True, key="sidebar_create_workspace"):
+            new_ws = st.text_input(
+                "New workspace", placeholder="Interview prep", key="sidebar_new_workspace"
+            )
+            if new_ws and st.button(
+                "Create workspace", use_container_width=True, key="sidebar_create_workspace"
+            ):
                 st.session_state.active_workspace_id = create_workspace(st.session_state.user_id, new_ws)
                 st.session_state.active_conversation_id = get_or_create_default_conversation(
                     st.session_state.user_id,
@@ -791,12 +827,16 @@ def render_sidebar():
                 accept_multiple_files=True,
                 key="sidebar_doc_uploader",
             )
-            if uploaded and st.button("Ingest files", use_container_width=True, key="sidebar_ingest_files"):
+            if uploaded and st.button(
+                "Ingest files", use_container_width=True, key="sidebar_ingest_files"
+            ):
                 progress = st.progress(0)
                 results = []
                 for i, f in enumerate(uploaded):
                     tmp_path = None
-                    with tempfile.NamedTemporaryFile(delete=False, suffix=Path(f.name).suffix) as tmp:
+                    with tempfile.NamedTemporaryFile(
+                        delete=False, suffix=Path(f.name).suffix
+                    ) as tmp:
                         tmp.write(f.getbuffer())
                         tmp_path = tmp.name
                     try:
@@ -823,8 +863,27 @@ def render_sidebar():
             mode = st.selectbox(
                 "Mode",
                 ["Auto", "Fast Chat", "Study", "Research", "Deep Analysis", "Coding"],
-                index=["Auto", "Fast Chat", "Study", "Research", "Deep Analysis", "Coding"].index(
-                    {"": "Auto", "micro": "Fast Chat", "balanced": "Study", "heavy": "Research", "study": "Research", "research": "Research", "analysis": "Deep Analysis", "coding": "Coding"}.get(st.session_state.mode_override, "Auto")
+                index=[
+                    "Auto",
+                    "Fast Chat",
+                    "Study",
+                    "Research",
+                    "Deep Analysis",
+                    "Coding",
+                ].index(
+                    {
+                        "": "Auto",
+                        "micro": "Fast Chat",
+                        "balanced": "Study",
+                        "heavy": "Research",
+                        "study": "Research",
+                        "research": "Research",
+                        "analysis": "Deep Analysis",
+                        "coding": "Coding",
+                    }.get(
+                        st.session_state.mode_override,
+                        "Auto",
+                    )
                 ),
                 key="sidebar_mode_select",
                 label_visibility="collapsed",
@@ -853,7 +912,13 @@ def render_sidebar():
                 st.info("Local-first mode keeps the workspace open on this machine.")
             else:
                 logout(st.session_state.session_token)
-                for key in ["logged_in", "user_id", "username", "session_token", "active_conversation_id"]:
+                for key in [
+                    "logged_in",
+                    "user_id",
+                    "username",
+                    "session_token",
+                    "active_conversation_id",
+                ]:
                     st.session_state[key] = None
             st.rerun()
 
@@ -934,6 +999,7 @@ def render_chat():
                         else:
                             label = item.get("label", "")
                             status.write(label)
+
                 st.write_stream(token_stream())
                 final_answer = "".join(buffer).strip()
                 final_meta.setdefault("response_time_ms", elapsed)
@@ -971,7 +1037,11 @@ def render_chat():
             last = st.session_state.last_result
             st.caption("Save feedback to improve local behavior.")
             c1, c2, c3 = st.columns([1, 1, 2])
-            notes = c3.text_input("Correction or preference", key="feedback_notes", placeholder="Keep replies shorter, focus on document sources.")
+            notes = c3.text_input(
+                "Correction or preference",
+                key="feedback_notes",
+                placeholder="Keep replies shorter, focus on document sources.",
+            )
             if c1.button("Helpful", use_container_width=True):
                 save_feedback(
                     st.session_state.user_id,
@@ -1007,9 +1077,21 @@ def render_history():
     history = get_persisted_history(st.session_state.user_id, limit=500, conversation_id=conversation_id)
     col1, col2, col3 = st.columns([1, 1, 1])
     with col1:
-        st.download_button("Export TXT", data=make_txt_export(history), file_name="ai-second-brain-history.txt", mime="text/plain", use_container_width=True)
+        st.download_button(
+            "Export TXT",
+            data=make_txt_export(history),
+            file_name="ai-second-brain-history.txt",
+            mime="text/plain",
+            use_container_width=True,
+        )
     with col2:
-        st.download_button("Export PDF", data=make_pdf_export(history), file_name="ai-second-brain-history.pdf", mime="application/pdf", use_container_width=True)
+        st.download_button(
+            "Export PDF",
+            data=make_pdf_export(history),
+            file_name="ai-second-brain-history.pdf",
+            mime="application/pdf",
+            use_container_width=True,
+        )
     with col3:
         if st.button("Delete All History", use_container_width=True):
             clear_session(st.session_state.user_id, conversation_id=conversation_id)
@@ -1069,14 +1151,18 @@ def render_documents():
                 st.error(f"{fname}: {result['error']}")
 
     st.divider()
-    docs = file_manager.list_documents(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
+    docs = file_manager.list_documents(
+        st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+    )
     if docs:
         for doc in docs:
             c1, c2, c3 = st.columns([3, 1, 1])
             c1.write(f"**{doc['filename']}**")
             c2.write(f"`{doc['file_type']}`")
             c3.write(f"{doc['chunk_count']} chunks")
-        profiles = list_document_profiles(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
+        profiles = list_document_profiles(
+            st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+        )
         if profiles:
             st.markdown("#### Document Intelligence")
             for profile in profiles:
@@ -1098,7 +1184,9 @@ def render_documents():
 
 def render_tools():
     st.markdown("### Tools")
-    st.caption("Power tools run on your local workspace data and show the evidence basis for their conclusions.")
+    st.caption(
+        "Power tools run on your local workspace data and show the evidence basis for their conclusions."
+    )
     tool = st.radio(
         "Tool",
         ["Pattern Analyzer", "Document Router Preview", "API Gateway"],
@@ -1107,7 +1195,9 @@ def render_tools():
     )
 
     if tool == "Pattern Analyzer":
-        result = analyze_patterns(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
+        result = analyze_patterns(
+            st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+        )
         if not result.get("source_count"):
             st.info("Upload multiple PDFs or notes first. The analyzer becomes stronger as document count grows.")
             return
@@ -1129,7 +1219,9 @@ def render_tools():
             st.caption(item["basis"])
 
     elif tool == "Document Router Preview":
-        query = st.text_input("Test a search query", placeholder="operating system deadlock previous year questions")
+        query = st.text_input(
+            "Test a search query", placeholder="operating system deadlock previous year questions"
+        )
         if query:
             from app.core.document_intelligence import route_documents
 
@@ -1184,7 +1276,9 @@ def render_tools():
 def render_memory():
     st.markdown("### Memory")
     stats = feedback_summary(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
-    conflicts = list_memory_conflicts(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
+    conflicts = list_memory_conflicts(
+        st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+    )
     c1, c2, c3 = st.columns(3)
     c1.metric("Feedback items", stats.get("count", 0))
     c2.metric("Average rating", stats.get("avg_rating", 0))
@@ -1193,7 +1287,9 @@ def render_memory():
     with st.form("add_memory_form"):
         title = st.text_input("Memory title", placeholder="Answer style preference")
         content = st.text_area("Memory content", placeholder="Prefer concise answers with bullet sources.")
-        category = st.selectbox("Category", ["general", "preference", "study", "project", "developer", "event", "correction"])
+        category = st.selectbox(
+            "Category", ["general", "preference", "study", "project", "developer", "event", "correction"]
+        )
         importance = st.slider("Importance", 1, 5, 3)
         pinned = st.checkbox("Pin memory")
         submitted = st.form_submit_button("Save Memory", type="primary")
@@ -1213,7 +1309,11 @@ def render_memory():
     if not memories:
         st.info("No saved memories yet.")
     for memory in memories:
-        state = "CONFLICT" if memory.get("status") == "conflict" else memory.get("layer", "semantic").upper()
+        state = (
+            "CONFLICT"
+            if memory.get("status") == "conflict"
+            else memory.get("layer", "semantic").upper()
+        )
         with st.expander(f"{'* ' if memory.get('pinned') else ''}{memory['title']} | {state}"):
             st.write(memory["content"])
             st.caption(
@@ -1253,7 +1353,9 @@ def render_plugins():
         with st.expander(f"{plugin['name']} v{plugin['version']}"):
             st.write(plugin["description"])
             if plugin["name"] == "quiz_generator":
-                content = st.text_area("Content for quiz", key=f"quiz_content_{plugin['name']}", height=150)
+                content = st.text_area(
+                    "Content for quiz", key=f"quiz_content_{plugin['name']}", height=150
+                )
                 count = st.slider("Questions", 3, 10, 5, key="quiz_count")
                 if st.button("Generate Quiz", key=f"run_{plugin['name']}"):
                     res = pm.run("quiz_generator", {"content": content, "count": count})
@@ -1364,9 +1466,17 @@ def render_settings():
 
     if section == "General":
         st.markdown("#### Baby-GPT Workspace")
-        st.markdown("<div class='settings-row'>Local-first storage: enabled</div>", unsafe_allow_html=True)
-        st.markdown("<div class='settings-row'>Adaptive cache: retrieval cache, reranked contexts, and feedback signals</div>", unsafe_allow_html=True)
-        st.markdown("<div class='settings-row'>Self-learning mode: controlled optimization only; core logic is not rewritten automatically</div>", unsafe_allow_html=True)
+        st.markdown(
+            "<div class='settings-row'>Local-first storage: enabled</div>", unsafe_allow_html=True
+        )
+        st.markdown(
+            "<div class='settings-row'>Adaptive cache: retrieval cache, reranked contexts, and feedback signals</div>",
+            unsafe_allow_html=True,
+        )
+        st.markdown(
+            "<div class='settings-row'>Self-learning mode: controlled optimization only; core logic is not rewritten automatically</div>",
+            unsafe_allow_html=True,
+        )
         render_health_strip()
 
     elif section == "Model Hub":
@@ -1374,14 +1484,18 @@ def render_settings():
         installed = cached_available_models() if cached_ollama_status() else []
         for tier, profile in MODEL_PROFILES.items():
             names = [profile["name"], *profile.get("aliases", [])]
-            active = next((m for m in installed if any(name.lower() in m.lower() for name in names)), "")
+            active = next(
+                (m for m in installed if any(name.lower() in m.lower() for name in names)), ""
+            )
             status = active or "not installed"
             st.markdown(
                 f"<div class='insight-card'><strong>{tier.title()}</strong><br>"
                 f"Preferred: {html.escape(profile['name'])}<br>Status: {html.escape(status)}</div>",
                 unsafe_allow_html=True,
             )
-        st.caption("Download with Ollama, then Baby-GPT will route to the strongest installed model your device can handle.")
+        st.caption(
+            "Download with Ollama, then Baby-GPT will route to the strongest installed model your device can handle."
+        )
         st.code(
             "ollama pull gemma2:2b\nollama pull phi3:mini\nollama pull llama3.1:8b\nollama pull qwen2.5:14b",
             language="bash",
@@ -1389,8 +1503,12 @@ def render_settings():
 
     elif section == "Security":
         st.markdown("#### API, Security, and Rate Limits")
-        st.write("Prompt firewall, scoped API keys, sandbox mode, and per-key rate limits are designed for cautious local automation.")
-        st.warning("Do not expose this local API to the public internet without authentication, TLS, and a reverse proxy rate limiter.")
+        st.write(
+            "Prompt firewall, scoped API keys, sandbox mode, and per-key rate limits are designed for cautious local automation."
+        )
+        st.warning(
+            "Do not expose this local API to the public internet without authentication, TLS, and a reverse proxy rate limiter."
+        )
         with get_conn() as conn:
             rows = conn.execute(
                 "SELECT id, label, scopes, rate_limit_per_min, sandbox, active, created_at FROM api_keys WHERE user_id = ? ORDER BY created_at DESC",
@@ -1432,7 +1550,9 @@ def render_settings():
             "by tuning retrieval and presentation signals, not by silently rewriting its core behavior."
         )
         st.markdown("#### Architecture Highlights")
-        st.write("Document fingerprinting, topic profiles, query-to-document routing, hybrid semantic/keyword retrieval, adaptive cache, prompt firewall, and local Ollama model routing.")
+        st.write(
+            "Document fingerprinting, topic profiles, query-to-document routing, hybrid semantic/keyword retrieval, adaptive cache, prompt firewall, and local Ollama model routing."
+        )
         st.caption(signature_label())
 
 
