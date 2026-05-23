@@ -13,9 +13,10 @@ import textwrap
 import time
 from pathlib import Path
 
+import streamlit as st
+
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-import streamlit as st
 from analytics.usage_tracker import get_user_stats
 from app.core.document_intelligence import analyze_patterns, list_document_profiles
 from app.database.sqlite_db import get_conn, init_db
@@ -703,7 +704,9 @@ def render_login():
 
         with tab_login:
             uname = st.text_input("Username", key="login_user", placeholder="your_username")
-            passwd = st.text_input("Password", type="password", key="login_pass", placeholder="password")
+            passwd = st.text_input(
+                "Password", type="password", key="login_pass", placeholder="password"
+            )
             if st.button("Sign In", key="btn_login", type="primary", use_container_width=True):
                 if uname and passwd:
                     result = login(uname, passwd)
@@ -712,11 +715,12 @@ def render_login():
                         st.session_state.user_id = result["user_id"]
                         st.session_state.username = result["username"]
                         st.session_state.session_token = result["token"]
-                        st.session_state.active_conversation_id = get_or_create_default_conversation(
-                            result["user_id"]
+                        st.session_state.active_conversation_id = (
+                            get_or_create_default_conversation(result["user_id"])
                         )
                         load_history_from_db(
-                            result["user_id"], conversation_id=st.session_state.active_conversation_id
+                            result["user_id"],
+                            conversation_id=st.session_state.active_conversation_id,
                         )
                         st.rerun()
                     st.error(result.get("error", "Login failed"))
@@ -803,9 +807,11 @@ def render_sidebar():
                 selected_workspace_id = labels[selected_workspace]
                 if selected_workspace_id != st.session_state.active_workspace_id:
                     st.session_state.active_workspace_id = selected_workspace_id
-                    st.session_state.active_conversation_id = get_or_create_default_conversation(
-                        st.session_state.user_id,
-                        workspace_id=selected_workspace_id,
+                    st.session_state.active_conversation_id = (
+                        get_or_create_default_conversation(
+                            st.session_state.user_id,
+                            workspace_id=selected_workspace_id,
+                        )
                     )
                     st.rerun()
             new_ws = st.text_input(
@@ -814,7 +820,9 @@ def render_sidebar():
             if new_ws and st.button(
                 "Create workspace", use_container_width=True, key="sidebar_create_workspace"
             ):
-                st.session_state.active_workspace_id = create_workspace(st.session_state.user_id, new_ws)
+                st.session_state.active_workspace_id = create_workspace(
+                    st.session_state.user_id, new_ws
+                )
                 st.session_state.active_conversation_id = get_or_create_default_conversation(
                     st.session_state.user_id,
                     workspace_id=st.session_state.active_workspace_id,
@@ -942,7 +950,9 @@ def render_chat():
         workspace_id=st.session_state.active_workspace_id,
     )
     st.session_state.active_conversation_id = conversation_id
-    history = get_persisted_history(st.session_state.user_id, limit=120, conversation_id=conversation_id)
+    history = get_persisted_history(
+        st.session_state.user_id, limit=120, conversation_id=conversation_id
+    )
     if not history:
         st.info("Start a new chat. Upload documents in the sidebar and ask your first question below.")
     for msg in history:
@@ -966,7 +976,9 @@ def render_chat():
                 )
 
         with st.chat_message("assistant"):
-            status = st.status("Thinking... routing through local memory and retrieval.", expanded=True)
+            status = st.status(
+                "Thinking... routing through local memory and retrieval.", expanded=True
+            )
             started = time.time()
             result = process(
                 query=query,
@@ -995,7 +1007,9 @@ def render_chat():
                             yield token
                         elif event_type == "done":
                             final_meta = item.get("data", {})
-                            status.write(f"Completed in {final_meta.get('response_time_ms', elapsed)}ms.")
+                            status.write(
+                                f"Completed in {final_meta.get('response_time_ms', elapsed)}ms."
+                            )
                         else:
                             label = item.get("label", "")
                             status.write(label)
@@ -1074,7 +1088,9 @@ def render_history():
         st.session_state.user_id,
         workspace_id=st.session_state.active_workspace_id,
     )
-    history = get_persisted_history(st.session_state.user_id, limit=500, conversation_id=conversation_id)
+    history = get_persisted_history(
+        st.session_state.user_id, limit=500, conversation_id=conversation_id
+    )
     col1, col2, col3 = st.columns([1, 1, 1])
     with col1:
         st.download_button(
@@ -1166,7 +1182,9 @@ def render_documents():
         if profiles:
             st.markdown("#### Document Intelligence")
             for profile in profiles:
-                with st.expander(f"{profile['filename']} | confidence {profile.get('source_confidence', 0)}"):
+                with st.expander(
+                    f"{profile['filename']} | confidence {profile.get('source_confidence', 0)}"
+                ):
                     st.write(profile.get("semantic_summary", ""))
                     keywords = profile.get("keyword_map", [])[:10]
                     if keywords:
@@ -1199,7 +1217,9 @@ def render_tools():
             st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
         )
         if not result.get("source_count"):
-            st.info("Upload multiple PDFs or notes first. The analyzer becomes stronger as document count grows.")
+            st.info(
+                "Upload multiple PDFs or notes first. The analyzer becomes stronger as document count grows."
+            )
             return
         c1, c2, c3 = st.columns(3)
         c1.metric("Documents", result.get("source_count", 0))
@@ -1242,7 +1262,9 @@ def render_tools():
 
     else:
         st.markdown("#### Local API Gateway")
-        st.caption("Use scoped local keys carefully. Keep admin keys private and prefer read-only keys for tools.")
+        st.caption(
+            "Use scoped local keys carefully. Keep admin keys private and prefer read-only keys for tools."
+        )
         label = st.text_input("Key label", placeholder="notebook-readonly")
         scopes = st.multiselect("Scopes", ["read", "chat", "tools", "admin"], default=["read"])
         rate = st.slider("Rate limit per minute", 5, 240, 30)
@@ -1286,9 +1308,12 @@ def render_memory():
 
     with st.form("add_memory_form"):
         title = st.text_input("Memory title", placeholder="Answer style preference")
-        content = st.text_area("Memory content", placeholder="Prefer concise answers with bullet sources.")
+        content = st.text_area(
+            "Memory content", placeholder="Prefer concise answers with bullet sources."
+        )
         category = st.selectbox(
-            "Category", ["general", "preference", "study", "project", "developer", "event", "correction"]
+            "Category",
+            ["general", "preference", "study", "project", "developer", "event", "correction"],
         )
         importance = st.slider("Importance", 1, 5, 3)
         pinned = st.checkbox("Pin memory")
@@ -1414,15 +1439,22 @@ def render_analytics():
     if stats.get("recent_queries"):
         st.markdown("#### Recent Queries")
         for item in stats["recent_queries"][:8]:
+            retrieval_ms = item.get("retrieval_ms", 0)
+            grounding = item.get("grounding_score", 0)
+            unsupported = item.get("validation_unsupported") or 0
+            retry_count = item.get("retry_count") or 0
+            tok_s = item.get("token_per_second") or 0
             st.write(
                 f"{item['query'][:100]} - {item['response_time_ms']}ms "
-                f"(retrieval {item.get('retrieval_ms', 0)}ms, grounding {item.get('grounding_score', 0):.2f}, "
-                f"unsupported {item.get('validation_unsupported') or 0:.2f}, "
-                f"retry {item.get('retry_count') or 0}, {item.get('token_per_second') or 0:.1f} tok/s)"
+                f"(retrieval {retrieval_ms}ms, grounding {grounding:.2f}, "
+                f"unsupported {unsupported:.2f}, "
+                f"retry {retry_count}, {tok_s:.1f} tok/s)"
             )
 
     st.markdown("#### Memory Graph")
-    render_memory_graph_visual(st.session_state.user_id, workspace_id=st.session_state.active_workspace_id)
+    render_memory_graph_visual(
+        st.session_state.user_id, workspace_id=st.session_state.active_workspace_id
+    )
 
 
 def render_system():
@@ -1436,10 +1468,14 @@ def render_system():
     with col1:
         st.markdown("#### Hardware")
         st.write(f"RAM: {info['ram_total_gb']} GB total, {p['ram_available_gb']} GB free")
-        st.write(f"CPU: {info['cpu_physical_cores']} physical / {info['cpu_logical_cores']} logical cores")
+        st.write(
+            f"CPU: {info['cpu_physical_cores']} physical / {info['cpu_logical_cores']} logical cores"
+        )
         st.write(f"Frequency: {info['cpu_freq_mhz']} MHz")
         st.write(f"OS: {info['os']} {p['arch']}")
-        st.write(f"Battery: {p['battery_pct']}% {'on battery' if p['on_battery'] else 'plugged in'}")
+        st.write(
+            f"Battery: {p['battery_pct']}% {'on battery' if p['on_battery'] else 'plugged in'}"
+        )
     with col2:
         st.markdown("#### AI Runtime")
         st.write(f"Recommended mode: `{perf['mode']}`")
